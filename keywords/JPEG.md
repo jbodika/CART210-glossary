@@ -5,7 +5,7 @@ JPEG (Joint Photographic Experts Group)[^JPEG] is a file format commonly used to
 1992 by the aptly named Joint Photographic Experts Group and they are widely credited with the proliferation of digital imaging with its ease 
 of use and storing. 
 
-When pictures are taken using the JPEG compression format, the image data is stored in a RAW file[^Adobe RAW] under the .TIFF (Tag Image File Format) file format. When the image is to be stored,
+When pictures are taken using the JPEG compression format, the image data is stored in a RAW[^Adobe RAW] file under the .TIFF (Tag Image File Format) file format. When the image is to be stored,
 it is then compressed using JPEG and converted to a .JPEG file. When this image is displayed, it is then uncompressed and returned to the RAW format. The method that 
 JPEG takes to compression uses the DCT (Discrete Cosine Transform) method by discarding high-frequency information (such as intensehues and dense packets of data.[^github] 
 By discarding this data, it then fills the gap using existing data leading to a lossy compression where high-frequency details are lost and filled in with random data, creating nosie or grain. 
