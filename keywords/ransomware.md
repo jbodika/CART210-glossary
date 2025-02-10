@@ -54,6 +54,6 @@ Evolving Cybersecurity Landscape: The rise of AI and digital platforms increases
 
 
 --- 
-   [UKsecurity]: *National cyber Center UK*.[Ransome Guidiance of UK National Cyber Center](https://www.ncsc.gov.uk/ransomware/home#section_4) 
-   [Allan]: Allan Liska & Timothy Gallo, *Ransomware: Defendfing Against Digital Extortion* (Sebastopol,CA: O'Reilly Media, 2016), 1.
-   [cyberCanada]: [Ransomware playbook,ITSM.00.099] (https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
+   [^UKsecurity]: *National Cyber Center UK*. https://www.ncsc.gov.uk/ransomware/home#section_4
+   [^Allan]: Allan Liska & Timothy Gallo 2016. *Ransomware: Defendfing Against Digital Extortion*. https://learning-oreilly-com.lib-ezproxy.concordia.ca/library/view/ransomware/9781491967874/preface01.html#_using_code_examples
+   [^cyberCanada]: [Ransomware playbook,ITSM.00.099] (https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
