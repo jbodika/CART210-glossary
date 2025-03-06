@@ -11,7 +11,7 @@ such as ‘A' and ‘E’, to help transmit messages quickly”. [^Sayood02]
 Compression is important in media spaces as it helps to solve two major problems,
 the first being the need for storage space and the second is to allow users to share and view content rapidly. [^Salomon02]
 
-Data compression is becoming more and more relevant in the tech industry as the rise of [Artificial-Intelligence](../main/glossary.md#artificial-intelligence)  services requires faster and more efficient ways to be able to transmit images and data. [^Tsukuba24] 
+Data compression is becoming more and more relevant in the tech industry as the rise of [Artificial-Intelligence](../main/glossary.md#ai)  services requires faster and more efficient ways to be able to transmit images and data. [^Tsukuba24] 
 As such, new algorithms are being developed and published like the “Universal Adaptive Stream-Based Entropy Coding” system to aid in this issue [^Shinichi24].
 
 Compression is also present in current-day media through short-form content such as TikTok and Instagram Reels as well as TV and movie scenes length decreasing over time. 
