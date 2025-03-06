@@ -21,6 +21,6 @@ as well as the fact that it is less important for these visual media to be pixel
 
 
 [^Merriam-Webster]: Merriam-Webster.com Dictionary, s.v. “lossy.” accessed March 5, 2025. https://www.merriam-webster.com/dictionary/lossy.
-[^OED]: *“Lossy, Adj. Meanings, Etymology and More.”* Oxford English Dictionary. Accessed March 6, 2025. https://www.oed.com/dictionary/lossy_adj. 
-[^Marzen17]: Marzen, Sarah E., and Simon DeDeo. 2017. *"The evolution of lossy compression."* Journal of The Royal Society Interface 14, no. 130 (2017): 20170166.
-[^Gupta17]: Gupta, Apoorv, Aman Bansal, and Vidhi Khanduja. 2017. *"Modern lossless compression techniques: Review, comparison and analysis."* In 2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT), pp. 1-8. IEEE, 2017. 
+[^OED]: “Lossy, Adj. Meanings, Etymology and More.” *Oxford English Dictionary*. Accessed March 6, 2025. https://www.oed.com/dictionary/lossy_adj. 
+[^Marzen17]: Marzen, Sarah E., and Simon DeDeo. 2017. "The evolution of lossy compression." *Journal of The Royal Society Interface 14, no. 130* (2017): 20170166.
+[^Gupta17]: Gupta, Apoorv, Aman Bansal, and Vidhi Khanduja. 2017. "Modern lossless compression techniques: Review, comparison and analysis." In *2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT)*, pp. 1-8. IEEE, 2017. 
