@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f79b87f3-4a27-4cf2-8b29-fba0be40b58d)## JPEG
+## JPEG
 
 JPEG (Joint Photographic Experts Group)[^JPEG] is a file format commonly used to compress and store images. It is reffered to as a 
 "lossy" format because it compresses and alters the pixel data of the file and is therefore not a "lossless" transfer. It was created in
