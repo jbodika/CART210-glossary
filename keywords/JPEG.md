@@ -16,7 +16,15 @@ the JPEG format remains the ol' reliable of image compression. The JPEG's longev
 most efficient and loss-neutral compression formats in modern day. Though some desire truly lossless compression, until this is achieved JPEG will still be used 
 by photographers, editors, illustrators and digital creators all around the world, and not many formats have any hope of replacing its reach. 
 
+The identity of the JPEG format as the gold standard for image compression in the modern age solidifies the idea of good image quality as a equal sacrifice of file size
+over quality, or noisiness. Similarly to the idea of a "critical mass" point in data storage in the future, the JPEG and other compression methods represent 
+the standards that will be adopted in order to expand and store as much data as we can possibly store in the most efficient way. Theories such as Bill Viola's "Data Space"[^DATA]
+storage methods show alternate paths we could take to not exactly avoid the possibility of a critical mass poin in data storage, but to restructure data in a way that makes 
+the wealth of data we have accessible in ways that don't necessitate more data to be stored. JPEG formats and subsequent innovations in compression represent a predictably human and 
+anti-progressive way of dealing with problems, by cramming in more where we shouldn't.
+
 [^JPEG]: Joint Photographcis Experts Group, 1992 https://jpeg.org/about.html
 [^IEEE]: IEEE Xplore, the JPEG still picture compression standard https://ieeexplore.ieee.org/abstract/document/125072 
 [^RAW]: RAW formats and JPEG/TIFF compression https://digitalcommons.lib.uconn.edu/libr_pubs/23/?mobile-app=true&theme=wiki
+[^DATA]: The New Media Reader: Will There Be Condominiums in Data Space? - Bill Viola https://archive.org/details/TheNewMediaReader
 
