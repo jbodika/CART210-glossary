@@ -1,10 +1,10 @@
 ## Copyleft
 
 Copyleft is a method of data/information publication that is largely concerned with free use and access. You may have heard the term "copyright" before,
-which is a similar method of publication that reserves all rights of use for a publication to the original creator. The term for "copyleft" was coined by Li-Chen Wang^[WIKI]
+which is a similar method of publication that reserves all rights of use for a publication to the original creator. The term for "copyleft" was coined by Li-Chen Wang[^WIKI]
 in his publication of his Palo Alto TINY BASIC language for the intel 8080 in the Dr Dobb's Journal (a popular computing and engineering magazine) in May of 1976, where
 for his publication, he spoofed the common "Copyright, all rights reserved" by putting "COPYLEFT ALL WRONGS RESERVED" in his publication. The term was later expanded
-upon and used by Richard Stallman in the creation of GNU^[GNU]. He believed that making copyleft the term for publications in the public domain or open source was a good way 
+upon and used by Richard Stallman in the creation of GNU[^GNU]. He believed that making copyleft the term for publications in the public domain or open source was a good way 
 to fight against the use of copyright methods in programming/software and to help programmers and creators take back what is theirs and make it useful for the world. 
 
 The concept of free use and the public domain has become more and more popular as of late with the creation and distribution of open-source programs, publications and projects, 
@@ -12,7 +12,7 @@ such as GitHub itself. Additionally, leaving the intent of the original user pre
 largely present in new media theory. When the idea of copyright as it pertained to the digital age came into question, many factors had to be considered. Many believe that
 the claiming of publications is important to maintaining and the identity of the creator (preserving intellectual property), while some believe that in order to create a world 
 in which people feel free to create what they wish, they should have access to any resource at their disposal. Stallman's GNU Manifesto thinks of copyleft within the terms of 
-open-source and proprietary software^[SCIDIR], and notes that such developers can use their copyright over the software that they create to claim copyright over publications 
+open-source and proprietary software[^SCIDIR], and notes that such developers can use their copyright over the software that they create to claim copyright over publications 
 and projects made in or using that software. In the example of GNU, (an open source operating system similar to Linux), the copyleft nature of the system allows users to use software 
 to better suit their needs, rather than being confined by the restrictions of copyrighted tools
 
