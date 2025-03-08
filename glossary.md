@@ -70,6 +70,25 @@ Analytics profoundly impacts digital culture by shaping how content is created, 
 [^dong24study]: Dong, Jiaqi. 2024. “A Study on the Application of Data Analytics in New Media Communication.” _Media and Communication Research_ 5 (3). https://doi.org/10.23977/mediacr.2024.050314. 
 [^manovich17cultural]: Manovich, Lev. 2017. “Cultural Analytics, Social Computing and Digital Humanities.” In _Amsterdam University Press eBooks_, 55–68. https://doi.org/10.25969/mediarep/12514.
 
+## API
+
+API short for Application Programming Interface is as described as "interface that is defined in terms of a set of functions and procedures and enables a program [...] within an application."[^simon] Simon and Jean explain how using an API allows existing or new business capability from across a network with it being an on-demand service for usage from multitudes of applications and software.
+
+API are varied and have different concepts to it, in the text “A Systematic Review of API Evolution Literature” as an example “when the concept of information was first coined by Parnas in 1972, it was based on interfaces among modules, which today would be called API’s” [^Lamothe]
+
+API is valuable for business due to its ability to connect many people to communicated, share data between each other with ease. The book "API Architecture" explains very clearly how "Now, think about these entities that are run by software. Industrial production processes are controlled by software. Machines, cars and many consumer products contain software.[...] APIs provide a possibility to connect these separate software entities"[^Biehl] and with the use of APIs, it allows it to connect between separate software entities.
+
+An API when it comes to new media is significant as it can allow the user to be able to reach a lot of people across the world when the API is used by other people through the internet. When it comes new media, if an artist wants to reach more people to view and support their work, they will purchase and use an API service to reach other people globally.
+
+
+
+____________________________________________________________________________________________________________________________________________________________________________________
+[^simon]: Simon, Jean Paul. 2021. “APIs, the Glue Under the Hood. Looking for the ‘API Economy.’” Digital Policy Regulation and Governance 23 (5): 489–508. @article https://doi.org/10.1108/dprg-10-2020-0147.
+[^Lamothe]:Lamothe, Maxime, Yann-Gaël Guéhéneuc, and Weiyi Shang. 2021. *“A Systematic Review of API Evolution Literature.”* ACM Computing Surveys 54 (8): 1–36.8. @article https://dl.acm.org/doi/pdf/10.1145/3470133
+[^Biehl]: Beihl, Matthias. 2015. "_API architecture: The Big Picture for Building APIs_".API-University Series, Volume 2.CreateSpace Independent Publishing Platform. @book https://books.google.ca/books?id=6D64DwAAQBAJ&lpg=PA15&ots=zb5N9tMh6r&dq=%22api%20%22%20&lr&pg=PA15#v=onepage&q=%22api%20%22&f=false
+
+
+
 ## AR
 
 Augmented Reality (AR) integrates digital content into the real world, engaging multiple senses. Unlike Virtual Reality (VR), which immerses users in a fully computer-generated environment, AR blends virtual elements with real-world settings, enhancing how users perceive and interact with their surroundings.[^Pesce21AR] AR is highly relevant to new media because it transforms digital content into interactive, engaging experiences. By merging physical and digital environments, AR creates new ways for users to connect, explore, and engage with their surroundings in real time.
@@ -439,6 +458,8 @@ Cybersecurity intersects with related concepts such as Data Privacy, Encryption,
 
 ## Cyberspace
 
+![Cyberspace image](images/cyberspace-ryanbujold.png)
+
 It is a space where computers can interact with each other and share their data and content with each other. A reality that is computer generated, computer accessed and virtual. It is the place we are in during our communications through computers. It is a complete virtualisation of our physical world. [^bauwens94cyberspace]
 
 The term ‘cyberspace’ was first used by William Gibson in 1982 when he used it to describe a computer generated virtual reality. ‘Cyber’ is related to ‘cyborg’ which describes humans connecting to machines. It is an artificial reality, another world. Networks and the Internet are examples of what we might consider a cyberspace. [^fourkas04cyberspace]
@@ -452,6 +473,10 @@ Cyberspace is new representation of the physical world. It contains its own new 
 [^fourkas04cyberspace]: Fourkas, Vassilys. 2004. "What Is Cyberspace." *Media Development* 3: 6-7.
 
 [^nist12information]: “NIST: Information Security” *NIST.gov*. Last modified September, 2012. https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf 
+
+Image credits:
+- Drew Williams, *Macbook Pro*, photograph, Pexels, July 2019, https://www.pexels.com/photo/macbook-pro-2657669/.
+- fauxels, *Photo of people doing handshakes*, photograph, Pexels, November 2019, https://www.pexels.com/photo/photo-of-people-doing-handshakes-3183197/
 
 ## DNS
 
@@ -639,6 +664,38 @@ The hashtag has a profound impact on our society today, especially with the cont
 [^caleffi15word]: Caleffi, Paola-Maria. 2015. "The 'Hashtag': A new word or a new rule?" _SKASE journal of theoretical linguistics_ 12 (2): 46-69. Accessed January 29, 2025.
 [^rauschnabel19motivate]: Rauschnabel, Philipp A., Pavica Sheldon, and Erna Herzfeldt. 2019. "What motivates users to hashtag on social media?." _Psychology & Marketing_ 36 (5): 473-488. Accessed January 29, 2025.
 
+## HTTPS
+
+**HTTPS (Hypertext Transfer Protocol Secure)** is an extension of **HTTP (Hypertext Transfer Protocol)** that uses encryption to secure data exchanged between a user's browser and a web server. Through **SSL/TLS** protocols, it ensures data confidentiality, integrity, and authentication.
+
+**Netscape** developed HTTPS in 1994 to secure online transactions for its browser. Initially, it used **SSL (Secure Sockets Layer)** for encryption. Over time, SSL was replaced by **TLS (Transport Layer Security)**, a more secure and efficient protocol. HTTPS became essential as online commerce and sensitive data exchanges grew, gaining widespread adoption in the 2000s and now a standard for safe browsing.
+
+---
+
+### **The Importance of HTTPS in New Media**
+
+In the digital age, new media has transformed how information is shared, consumed, and created. Securing data transmission from social media platforms to online journalism and e-commerce has become crucial. HTTPS (HyperText Transfer Protocol Secure) is a key technology enabling secure online communication. HTTPS plays a significant role in ensuring privacy, security, and trust in new media, making it an essential standard for modern websites and online interactions.
+
+First and foremost, HTTPS provides encryption, protecting user data from cyber threats such as hacking, phishing, and eavesdropping. Unlike HTTP, which transmits data in plain text, HTTPS uses SSL/TLS encryption to safeguard sensitive information. This is particularly vital in new media environments where personal data, login credentials, and payment details are frequently exchanged. Users engaging with social media, news sites, or digital content platforms benefit from this added layer of security.
+
+Additionally, HTTPS enhances trust and credibility. In an era of misinformation and cybersecurity threats, users are more cautious about which websites they interact with. A website with HTTPS displays a padlock icon in the browser, signalling that it is secure and trustworthy. Search engines like Google also prioritize HTTPS-enabled sites in rankings, reinforcing its importance for content creators, businesses, and media organizations looking to reach wider audiences.
+
+Moreover, HTTPS is widely used across various new media platforms. Social networks, video streaming services, blogs, forums, and e-commerce websites rely on HTTPS to ensure safe user experiences. Secure communication is particularly crucial for online journalism and digital activism, where protecting the integrity of information and sources is paramount.
+
+In conclusion, HTTPS is an indispensable component of new media, providing security, trust, and improved visibility for online platforms. As the digital landscape evolves, ensuring secure communication will remain fundamental to engaging with new media safely and effectively.
+
+
+
+
+[^hellegren17crypto]: Hellegren, Z. Isadora. 2017. “A History of Crypto-Discourse: Encryption as a Site of Struggles to Define Internet Freedom.” _Internet Histories_ 1 (4): 285–311. https://doi.org/10.1080/24701475.2017.1387466.  
+
+[^fuchs11newmedia]: Fuchs, Christian. 2011. “New Media, Web 2.0 and Surveillance.” _Sociology Compass_ 5 (2): 134–47. https://doi.org/10.1111/j.1751-9020.2010.00354.x.  
+
+[^wikipedia25https]: Wikipedia. 2025. “HTTPS.” _Wikipedia_, January 24, 2025. https://en.wikipedia.org/w/index.php?title=HTTPS&oldid=1271559473.  
+
+
+
+
 ![Immersion](images/immersion-hubert.png)
 
 
@@ -685,6 +742,143 @@ Information overload is critical in new media, influencing digital consumption a
 [^he2020]: He, Tingting. 2020. "Information Overload and Interaction Overload as Two Separate Attributes of Information Overload Syndrome." *Journal of Enterprising Culture* 28 (3): 263–279. https://doi.org/10.1142/S0218495821500114.  
 
 [^noyes1995]: Noyes, J. M., and P. J. Thomas. 1995. “Information Overload: An Overview.” *IEEE Colloquium on Information Overload*.  
+
+## Network Security  
+
+Network security refers to the set of technologies, policies, and practices designed to protect digital communications, data integrity, and confidentiality from cyber threats. With the increasing reliance on interconnected systems, securing networks has become a critical concern for individuals, businesses, and governments. Effective network security involves multiple layers of defense to protect infrastructure, detect threats, and mitigate attacks [^huang2010].  
+
+### Core Principles of Network Security  
+
+Several fundamental principles guide the implementation of network security:  
+
+- **Confidentiality** – Ensuring that sensitive data is accessible only to authorized individuals. Encryption techniques such as the **Advanced Encryption Standard (AES)** help safeguard data from unauthorized access [^zhao2024].  
+- **Integrity** – Protecting information from unauthorized modification or tampering. Cryptographic hash functions and digital signatures ensure that data remains unaltered during transmission [^maasaoui2022].  
+- **Availability** – Maintaining reliable access to network resources. Protection against **Distributed Denial of Service (DDoS)** attacks ensures that network services remain operational even under heavy cyber threats [^cheng2010].  
+
+### Key Network Security Technologies  
+
+Network security employs various technologies to protect systems and data, including:  
+
+- **Firewalls** – Acting as a barrier between trusted and untrusted networks, firewalls filter incoming and outgoing traffic based on predefined security rules [^huang2010].  
+- **Intrusion Detection and Prevention Systems (IDPS)** – These systems monitor network traffic for suspicious activities, alert administrators, and take preventive actions when necessary [^zhao2024].  
+- **Virtual Private Networks (VPNs)** – Encrypting data transmissions over public networks to enhance privacy and security, especially in remote work environments [^maasaoui2022].  
+- **Zero Trust Security** – A modern security approach where no entity—internal or external—is trusted by default, requiring continuous authentication and verification of users and devices [^cheng2010].  
+
+### Challenges and Emerging Threats  
+
+As network security evolves, new threats continue to emerge, requiring constant adaptation. Some of the most pressing challenges include:  
+
+- **Ransomware and Malware** – Malicious software that encrypts or steals data, often demanding payment for its release [^zhao2024].  
+- **Phishing Attacks** – Social engineering techniques used to trick users into revealing sensitive information, such as login credentials [^maasaoui2022].  
+- **5G and IoT Vulnerabilities** – The expansion of **Internet of Things (IoT)** devices and **5G networks** introduces new attack vectors that require advanced security measures [^cheng2010].  
+
+### Examples  
+
+- **The WannaCry Ransomware Attack (2017)** – Exploited a vulnerability in Windows operating systems, affecting thousands of organizations globally, including healthcare and financial sectors [^maasaoui2022].  
+- **SolarWinds Supply Chain Attack (2020)** – A sophisticated attack compromising enterprise networks by injecting malicious code into software updates [^cheng2010].  
+- **DDoS Attack on GitHub (2018)** – One of the largest recorded DDoS attacks, which peaked at 1.35 terabits per second, demonstrating the need for robust network security defenses [^zhao2024].  
+
+### References  
+
+[^huang2010]: Huang, Scott C.-H., David MacCallum, and Ding-Zhu Du. 2010. *Network Security*. New York: Springer.  
+[^zhao2024]: Zhao, Dongmei, Guoqing Ji, Yiling Zhang, Xunzheng Han, and Shuiguang Zeng. 2024. “A Network Security Situation Prediction Method Based on SSA-GResNeSt.” *IEEE Transactions on Network and Service Management* 21 (3): 3498–3509.  
+[^maasaoui2022]: Maasaoui, Zineb, Anfal Hathah, Hasnae Bilil, Van Sy Mai, Abdella Battou, and Ahmed Ibath. 2022. “Network Security Traffic Analysis Platform - Design and Validation.” *IEEE International Conference on Computer Systems and Applications*.  
+[^cheng2010]: Cheng, X., and S.C.-H. Huang. 2010. “Security Protocols and Cryptography in Network Security.” *Springer Science+Business Media*.  
+
+## The Internet
+
+The Internet is a vast, decentralized network of interconnected computers that enables global communication, information sharing, and digital interaction. It is built on a foundation of standardized communication protocols, primarily the **Transmission Control Protocol/Internet Protocol (TCP/IP)**, which ensures the seamless exchange of data across diverse systems [^clark1988]. The Internet evolved from early research initiatives, notably the **ARPANET**, developed in the late 1960s to facilitate communication between academic and military institutions [^leiner2009]. Over time, it expanded into a ubiquitous infrastructure supporting a wide range of applications, from web browsing to cloud computing.  
+
+### Core Architectural Principles  
+
+The Internet's success is largely attributed to key design principles that have shaped its evolution:  
+
+- **Packet-Switching** – Instead of relying on a dedicated communication channel, data is broken into packets that travel independently across the network before being reassembled at the destination. This ensures efficiency and fault tolerance [^abbate1999].  
+- **End-to-End Principle** – The network itself remains simple, while intelligence and complexity are handled at the edges (i.e., the devices communicating over the network). This principle fosters flexibility and innovation by allowing new applications to be built without requiring changes to the core infrastructure [^saltzer1984].  
+- **Layered Architecture** – The Internet is structured into multiple layers, including the physical, network, transport, and application layers. Each layer performs a specific function, enabling interoperability and scalability [^clark1988].  
+
+### Impact on Society  
+
+The Internet has transformed nearly every aspect of modern life, serving as the foundation for digital economies, communication platforms, and knowledge dissemination. Some key societal impacts include:  
+
+- **Information Access** – With search engines and online databases, knowledge is more accessible than ever, revolutionizing education, research, and journalism [^leiner2009].  
+- **Digital Communication** – Email, instant messaging, and social media have reshaped interpersonal and mass communication, making global interaction instantaneous and ubiquitous [^abbate1999].  
+- **E-commerce & Digital Markets** – Online marketplaces such as Amazon, Alibaba, and Shopify have disrupted traditional commerce, enabling businesses of all sizes to reach global audiences [^leiner2009].  
+- **Cloud Computing & Big Data** – The Internet supports vast computational and storage infrastructures, driving advancements in artificial intelligence, automation, and data analytics [^clark1988].  
+
+### Challenges and Future Considerations  
+
+Despite its benefits, the Internet faces significant challenges, including:  
+
+- **Security & Privacy Risks** – Cyber threats, including hacking, data breaches, and surveillance, raise concerns about online safety and digital rights [^clark1988].  
+- **Digital Divide** – While the Internet connects billions of people, disparities in access persist, particularly in developing regions with limited infrastructure [^abbate1999].  
+- **Decentralization vs. Control** – Governments and corporations influence how the Internet operates, leading to debates over net neutrality, censorship, and monopolization [^saltzer1984].  
+
+### Examples  
+
+- **The World Wide Web** – Invented by Tim Berners-Lee in 1989, the Web is an application of the Internet that enables hyperlinked content, forming the foundation of modern websites and digital services [^leiner2009].  
+- **Streaming & Social Media** – Platforms like Netflix, YouTube, and Twitter leverage Internet infrastructure to provide on-demand content and real-time interactions, shaping digital culture [^abbate1999].  
+- **Blockchain & Decentralized Networks** – Emerging technologies like blockchain operate on Internet protocols to enable secure, transparent transactions without central authorities [^clark1988].  
+
+### References  
+### References  
+
+[^clark1988]: Clark, David D. 1988. "The Design Philosophy of the DARPA Internet Protocols." *ACM SIGCOMM Computer Communication Review* 18 (4): 106–114.  
+[^saltzer1984]: Saltzer, Jerome H., David P. Reed, and David D. Clark. 1984. "End-to-End Arguments in System Design." *ACM Transactions on Computer Systems* 2 (4): 277–288.  
+[^abbate1999]: Abbate, Janet. 1999. *Inventing the Internet*. Cambridge, MA: MIT Press.  
+[^leiner2009]: Leiner, Barry M., Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, and Stephen Wolff. 2009. "A Brief History of the Internet." *ACM SIGCOMM Computer Communication Review* 39 (5): 22–31. https://doi.org/10.1145/1629607.1629613.  
+
+
+## Iteration
+Iteration refers to the repeated execution of tasks or procedures derived from the Latin word *iteratio*, meaning "repetition".[^etymologyIteration] In design and engineering, it involves the ongoing process of revisiting a set of steps or operations with the intent of refining and improving a product, system, or idea.[^NormanEverydayDesign]
+In New media, this practice is essential for fostering continuous development, innovation, and a responsive approach to user needs.
+
+Historically, iteration has been integral to programming and has significant applications in mathematics, engineering, and design.
+It became a cornerstone of computer programming in the mid-20th century with the introduction of loops in languages like **FORTRAN** and **ALGOL**, facilitating efficient task repetition crucial for early computational processes.[^johnBackusFotron]
+
+The importance of iterative processes spans various fields, particularly in software development, user experience design, and artificial intelligence. 
+Agile methodologies in software development emphasize iterative cycles or sprints, allowing for continuous improvement based on user feedback.[^cohn2006] 
+In user experience design, iterative processes are employed to optimize digital interfaces, ensuring they meet diverse user needs.[^NormanEverydayDesign] 
+In the field of AI, the iterative training of machine learning models increases accuracy as algorithms learn from more data over time.[^goodfellow2016] 
+These methods shape contemporary digital culture, which is evident in social media platforms that encourage creativity through the remixing and adapting of content, fostering collaboration. 
+In gaming, iterative design enables developers to refine gameplay and respond to player feedback through updates and new content.[^juul2005] 
+Social media algorithms utilize iterative processes to continuously enhance and curate content based on user interactions, significantly influencing the online experience.
+
+Notable examples that highlight the use of iteration include platforms like **TikTok** and **YouTube**, which use iteration to analyze user behavior and refine content recommendations. This ensures user feeds remain engaging, keeping users returning.
+In **video games**, iteration is crucial for development. Designers release updates and patches based on player feedback and analytics, improving gameplay, balancing mechanics, and adding features that resonate with the community.
+Similarly, software updates on our phones are a prime example of iteration. Companies like **Apple** and **Google** release regular updates to fix bugs, enhance security, and introduce new features, ensuring devices remain functional and up-to-date.
+
+[^etymologyIteration]: Douglas Harper. 2018. Etymology of "Iteration" on Etymonline. October 19. Accessed March 7, 2025. https://www.etymonline.com/word/iteration.
+[^NormanEverydayDesign]: Norman, Don. 2013. _The Design of Everyday Things: Revised and Expanded Edition_. New York: Basic Books. Chapter 6, "Design Thinking".
+[^johnBackusFotron]: Backus, John. 1978. "The Early History of FORTRAN." ACM SIGPLAN Notices 13 (8): 165–180. https://doi.org/10.1145/359576.359579.
+[^cohn2006]: Cohn, Mike. 2006. Agile Estimating and Planning. Upper Saddle River, NJ: Prentice Hall.
+[^goodfellow2016]: Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. 2016. _Deep Learning_. Cambridge, MA: MIT Press.
+[^juul2005]: Juul, Jesper. 2005. Half-Real: Video Games between Real Rules and Fictional Worlds. Cambridge, MA: MIT Press.
+
+## Linux
+
+![LinuxKeywordImage](/images/linux-dumont.png)
+
+***Linux*** is the name attributed to a collection of operating systems built on top the Linux kernel[^economist01authentic]. Linus Torvalds started developing the kernel in 1991[^steven11twenty] with the express purpose of creating an [open-source](/keywords/open-source.md) clone of [Unix](/keywords/unix.md). After being commonly packaged with GNU[^stallman25gnu], Linux quickly grew in size and user base currently making up 4% of all personal desktop operating systems in the world[^statcounter25desktop].
+
+Thousands of versions of Linux exist [^atea25distrowatch], commonly referred to as Distros (distributions). Some popular Distros include; [Ubuntu](https://ubuntu.com/download), [Debian](https://www.debian.org/), [Mint](https://www.linuxmint.com/), [Fedora](https://fedoraproject.org/), [Arch](https://archlinux.org/), [Gentoo](https://www.gentoo.org/), and [NixOS](https://nixos.org/). Each distribution comes with individual suites of software usually built on the GNU library which has led to the name GNU/Linux[^stallman21linux] being a more widely adopted then simply Linux. These suites include Window Managers/Desktop Environments, package managers, and more.
+
+Due to Linux's offered freedom, Linux has become a common tool among creatives. From the Raspberri PI engineers, to the young Chromebook students, anyone with a computer can have immediate access to a multitude of complex and usable tools. Linux is more then a tool, it is a community of like minded thinkers who share a passion for freedom of expression. Linux is **the** public paintbrush, the one to seperate user from state and enterprise. It is pure technological freedom, which infinite modubility[^rankin05linux]. 
+
+![Linux Logo](images/Linux-Symbol-1933970093.png)
+
+---
+
+[^economist01authentic]: "Authentic hero; Computer technology; Linus Torvalds and Linux." *The Economist*, January 27, 2001, 3. _Gale OneFile: CPI.Q_ (accessed February 3, 2025). https://link-gale-com.lib-ezproxy.concordia.ca/apps/doc/A69842147/CPI?u=concordi_main&sid=bookmark-CPI&xid=0078b28d.
+[^steven11twenty]: Steven Vaughan-Nichols, “Twenty Years of Linux According to Linus Torvalds,” *ZDNET*, April 13th 2011, (accessed February 2, 2025). https://www.zdnet.com/article/twenty-years-of-linux-according-to-linus-torvalds/.
+[^stallman25gnu]: Stallman, Richard. 2021. “*GNU/Linux FAQ - GNU Project - Free Software Foundation*”, accessed February 2, 2025, https://www.gnu.org/gnu/gnu-linux-faq.html.
+[^statcounter25desktop]: “*Desktop Operating System Market Share Worldwide*”, StatCounter Global Stats, accessed February 2, 2025, https://gs.statcounter.com/os-market-share/desktop/worldwide.
+[^atea25distrowatch]: “*DistroWatch.Com: Put the Fun Back into Computing. Use Linux, BSD.*”, Atea Ataroa Limited, accessed February 2, 2025, https://distrowatch.com/.
+[^stallman21linux]: Stallman, Richard. “*Linux and GNU - GNU Project - Free Software Foundation*”, accessed February 2, 2025, https://www.gnu.org/gnu/linux-and-gnu.html.
+[^rankin05linux]: Rankin, Kyle. *Linux Multimedia Hacks*. 1st ed. Sebastopol, Calif.: O’Reilly, 2005. http://books.google.com/books?id=oZpQAAAAMAAJ.
+
+
+
 
 ## Middleware
 
@@ -740,6 +934,19 @@ More modern applications of Multimedia are thought to date back to the early 196
 
 [^brown17virtual]: Brown, Johnathan, Elisa White, and Akshya Boopalan. 2017. “Looking for the Ultimate Display: A Brief History of Virtual Reality.” Boundaries of Self and Reality Online, March 3, 2017. https://www.sciencedirect.com/science/article/abs/pii/B9780128041574000128#:~:text=A%20computer%20interpreted%20the%20beams,Sturman%20%26%20Zeltzer%2C%201994).
 
+![Natural language processing](images/naturallanguageprocessing-vlamis.png)[^deepmind]
+
+Natural Language Processing (NLP) is a branch of artificial intelligence that focuses on the interaction between computers and human language.[^NLPIBM] It involves developing algorithms and models that enable computers to interpret, analyze, and generate human language in a way that is both meaningful and contextually relevant. By leveraging techniques from computational linguistics and machine learning, NLP facilitates tasks such as text classification, language translation, sentiment analysis, and conversational agent development.
+
+The field of NLP has undergone significant evolution over the past decades. Early approaches were largely rule-based, relying on hand-crafted linguistic rules to process language.[^speechandlanguageprocessing] Over time, statistical methods were introduced, which paved the way for more scalable approaches. In recent years, the emergence of deep learning—especially transformer-based architectures like BERT has revolutionized NLP by enabling models to capture nuanced contextual information in language data.[^bert]
+
+Applications of NLP span a wide range of areas. For instance, machine translation systems like Google Translate use deep [neural networks](../main/glossary.md#neural-networks) to improve language translation, making it more accurate. Virtual assistants like Siri and Alexa rely on NLP to understand and respond naturally to spoken language. In business, sentiment analysis tools process text from social media, reviews, and surveys to extract insights on public opinion and consumer sentiment.[^speechandlanguageprocessing] Most recently, generative AI chatbots are one of the most significant advancements in NLP, as they act as a culimnation of decades of research and development into computational linguistics.
+
+[^deepmind]: Cockx, Wes and Google DeepMind. 2023. *An Artist’s Illustration of Artificial Intelligence.* Pexels. https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-language-models-which-generate-text-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l-18069694/.
+[^bert]: Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019. “BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding.” arXiv. https://doi.org/10.48550/arXiv.1810.04805.
+[^speechandlanguageprocessing]: Jurafsky, Dan, and James H. Martin. 2009. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. 2nd ed. Prentice Hall Series in Artificial Intelligence. Upper Saddle River, N.J: Pearson Prentice Hall.
+[^NLPIBM]: Stryker, Cole, and Jim Holdsworth. n.d. “What Is NLP (Natural Language Processing)? | IBM.” IBM. Accessed February 19, 2025. https://www.ibm.com/think/topics/natural-language-processing.
+
 ## Neural Networks
 
 A neural network is a sophisticated form of machine learning and subset of deep learning, designed to emulate the structure and functionality of the human brain[^thisisacitation1]. These systems, often referred to as “Artificial Neural Networks” (ANN) [^thisisacitation2], are inspired by the biological processes of neurons in the brain. They are composed of dense interconnected layers of nodes consisting of an input layer, multiple hidden layers for processing information, and an output layer[^thisisacitation3].
@@ -767,6 +974,27 @@ To conclude, since the first trainable neural network was demonstrated by Frank 
 [^thisisacitation5]: Sharkawy, Abdel-Nasser. 2020. "Principle of Neural Network and Its Main Types: Review." *Journal of Advances in Applied & Computational Mathematics*. https://www.researchgate.net/publication/343837591_Principle_of_Neural_Network_and_Its_Main_Types_Review.
 [^thisisacitation6]: MIT News. 2017. "Explained: Neural Networks." *MIT News*. https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414.
 [^thisisacitation7]: Evans, Owain. 2019. "Sensory Optimization: Neural Networks as a Model for Understanding and Creating Art." arXiv preprint. https://arxiv.org/abs/1911.07068.
+
+## Online Community
+Creating online communities means using the internet to bring people together, helping them interact, and making them feel like they belong to a group. 
+These communities exist on websites, social media platforms, and other digital spaces where people can talk to each other, share ideas, and work together. 
+Whether it’s through discussions, sharing content, or supporting each other, these online spaces allow people with similar interests to connect and build relationships, no matter where they are in the world[^bell05creating].
+
+When learning how online communities function, researchers discovered three primary interaction patterns: direct reciprocity (people helping others with the expectation of future returns),
+indirect reciprocity (contributing without immediate expectations, trusting in community support down the line),
+and preferential attachment (newcomers gravitating toward established members).
+Interestingly, the results reveal that most online communities thrive through both direct and indirect reciprocity,
+challenging previous assumptions that digital interactions primarily follow popularity-driven power-law patterns[^faraj11network].
+
+Research shows extreme-right groups gaining momentum through online communities where they connect with ideologically aligned people.
+These groups respond to real-world events like political shifts and social movements by intensifying discussions, organizing collective action,
+and reinforcing shared beliefs[^biluc20growing].
+The study demonstrates how internet platforms can accelerate these groups' growth and influence by facilitating the spread of their viewpoints while nurturing a powerful sense of community and shared purpose.
+
+
+[^bell05creating]: Bell, Steven J. 2005. “Creating Community Online.” American Libraries 36, no. 4: 68–71. http://www.jstor.org/stable/25649539.
+[^biluc20growing]: Bliuc, Ana-Maria, John Betts, Matteo Vergani, Muhammad Iqbal, and Kevin Dunn. 2020. “The Growing Power of Online Communities of the Extreme-Right: Deriving Strength, Meaning, and Direction from Significant Socio-Political Events ‘in Real Life.’” International Centre for Counter-Terrorism. http://www.jstor.org/stable/resrep25261.
+[^faraj11network]: Faraj, Samer, and Steven L. Johnson. 2011. “Network Exchange Patterns in Online Communities.” Organization Science 22, no. 6: 1464–80. http://www.jstor.org/stable/41303137.
 
 ## Open Source
 
@@ -803,6 +1031,38 @@ Although the term originated from a software context and is most commonly used i
 
 [^opensource]: "Open Source Software." Wikipedia. February 2, 2025. https://en.wikipedia.org/wiki/Open_source_software.
 
+## PHP
+
+**PHP (Hypertext Preprocessor)** is a widely used, open-source scripting language designed primarily for web development. It is embedded into HTML to create dynamic web pages and can interact with databases, manage sessions, and process forms. 
+
+PHP was created in 1993 by **Rasmus Lerdorf** as a set of **Common Gateway Interface (CGI)** scripts to track visitors to his online resume. Initially called "Personal Home Page Tools," it evolved into **PHP/FI (Personal Home Page / Forms Interpreter)** in 1995. By 1997, it became the fully-fledged PHP language. PHP 3, released in 1998, marked its first major version, and it has continuously evolved with regular updates to improve performance, security, and functionality.
+
+
+
+### **PHP and Its Relevance to New Media**
+
+In the digital age, new media encompasses various forms of online communication, including websites, social media platforms, streaming services, and interactive content. PHP (Hypertext Preprocessor) is crucial in enabling these digital experiences by serving as a powerful scripting language for web development. Its ability to process dynamic content, manage databases, and facilitate user interactions makes it indispensable in the evolving landscape of new media.
+
+One of PHP’s primary applications in new media is within **Content Management Systems (CMS)**. Platforms such as WordPress, Drupal, and Joomla utilize PHP, allowing users to create, manage, and publish digital content effortlessly. These systems enable individuals and businesses to maintain an online presence without requiring extensive programming knowledge. The flexibility and scalability of PHP-based CMS platforms contribute significantly to the proliferation of digital media.
+
+Additionally, PHP has been pivotal in developing **social media platforms**. Facebook, one of the largest social networks, was initially built using PHP, highlighting its ability to handle vast amounts of user-generated content and real-time interactions. Although Facebook has since modified its backend, PHP remains a cornerstone in many social networking sites, prioritizing user engagement and content sharing.
+
+The language is also essential in **streaming services**, where it helps deliver video, audio, and other interactive media. Websites like YouTube, Twitch, and other multimedia platforms rely on backend scripting to manage content distribution, handle user logins, and provide seamless streaming experiences. PHP’s integration with databases like MySQL ensures that media content is efficiently stored, retrieved, and delivered to users.
+
+Furthermore, **e-commerce and forum-based websites** benefit from PHP’s capabilities. Platforms like Etsy, WooCommerce, and various online marketplaces use PHP to manage transactions, user authentication, and dynamic product displays. Community forums, including those designed for problem-solving and knowledge sharing, also leverage PHP to facilitate discussions and user interactions.
+
+In conclusion, PHP remains a foundational technology in new media, driving the interactivity and functionality of modern websites and digital platforms. Its versatility, efficiency, and database compatibility make it a preferred choice for developers looking to create engaging online experiences. As new media evolves, PHP’s role in shaping the digital landscape will likely persist, ensuring dynamic and interactive web applications for users worldwide.
+
+
+
+[^amanatidis16php]: Amanatidis, Theodoros, and Alexander Chatzigeorgiou. 2016. “Studying the Evolution of PHP Web Applications.” _Information and Software Technology_ 72 (April 1): 48–67. https://doi.org/10.1016/j.infsof.2015.11.009.  
+
+[^lockhart15php]: Lockhart, Josh. 2015. _Modern PHP: New Features and Good Practices._ O’Reilly Media, Inc.  
+
+[^wikipedia25php]: Wikipedia. 2025. “PHP.” _Wikipedia_, February 9, 2025. https://en.wikipedia.org/w/index.php?title=PHP&oldid=1274907653.  
+
+
+
 ## Quantum computing
 Quantum computing is a branch of computing that challenges classical computation by leveraging principles of quantum mechanics to process information. Qubits are the core and can be both 0 and 1 simultaneously. Due to this, it can perform complex calculations exponentially faster than traditional computation. [^1citation]
 
@@ -837,6 +1097,66 @@ Despite its promise, quantum cryptography faces challenges, including photon los
 [^4citation]: Liao, Sheng-Kai, Wen-Qi Cai, and Juan Yin et al. 2017. "Satellite-to-Ground Quantum Key Distribution." _Nature_ 549 (7670): 43–47. https://doi.org/10.1038/nature23655.
 [^5citation]: Pirandola, Stefano, Ulrik L. Andersen, and Leonardo Banchi et al. 2020. "Advances in Quantum Cryptography." _Advances in Optics and Photonics_ 12 (4): 1012–1036. https://doi.org/10.1364/AOP.361502.
 
+
+## Ransomware 
+
+**Definition**:[^UKsecurity]  Ransomware is a type of malware which prevents you from accessing your device and the data stored on it, usually by encrypting your files. A criminal group will then demand a ransom in exchange for decryption.
+**The birth of ransomware**[^Allan]  : Historically, ransomware dates back to an original piece of malicious code, known as AIDS, written in 1989 by Joseph Popp.
+**How dose ransomware work**: 
+ - Data access
+ - Data encryption 
+ - Demanding ransom
+
+**Ransomware is highly relevant to new media because digital platforms, online services, and media companies are frequent targets of cyberattacks. The relationship between ransomware and new media can be explored through several key points:**
+
+**1. How Ransomware Connects to New Media**
+Digital Dependency: New media relies on cloud storage, digital publishing, and online platforms, all of which are vulnerable to ransomware attacks.
+Media Companies as Targets: News organizations, streaming services, and content platforms store valuable data, making them prime targets.
+Disinformation & Cybersecurity Risks: Hackers may use ransomware to control or alter digital narratives, censor journalism, or manipulate public opinion.
+**2. Where Ransomware is Used in New Media**
+News Organizations: Attackers have targeted news agencies (e.g., The Guardian was hit by ransomware in 2022), disrupting operations.
+Streaming & Entertainment Platforms: Netflix and other content providers face ransomware threats, with hackers leaking unreleased movies and shows.
+Social Media & Influencers: High-profile social media accounts can be hijacked for ransom, causing reputational damage.
+Gaming & Digital Art: Game developers and NFT creators have suffered ransomware attacks, losing valuable digital assets.
+**3. Why It’s Relevant**
+Threat to Press Freedom: Journalists can be silenced through ransomware attacks, undermining free speech.
+Economic Impact: New media companies can lose millions due to downtime and ransom payments.
+Evolving Cybersecurity Landscape: The rise of AI and digital platforms increases the risks of cyberattacks.
+
+**Ransomware Examples**
+   - SamSam : SamSam first appeared in 2015. It mainly targets healthcare businesses.
+   - CryptoLocker :The Trojan Horse virus known as CryptoLocker spreads via unidentified attachments in staff emails. With CryptoLocker, only users of Microsoft® Windows® are in danger; Mac™ users are unaffected. Once your files get encrypted, a countdown timer starts.
+   - Ryuk: Ryuk is one of the most harmful ransomware variants due to the extreme ransom amount demanded. Millions of dollars may be required to restore data after a Ryuk attack. Like other viruses, Ryuk spreads via phishing. After infecting a system, it begins shutting down operations on the victim’s computer.
+   - Cerber : When Cerber initially debuted in 2016, it was incredibly profitable for attackers, earning them $200,000 in just July of that year. To infiltrate networks, it made use of a Microsoft® vulnerability.
+
+
+**How to defend against cyber threats**:[^cyberCanada] 
+1.	Cyber defence planning: There are several approaches you can take to enhance the protection of your networks and devices. The following list of items provides details on several security controls you can implement to effectively enhance your cyber security posture.
+   1.1 Develop your backup plan: Develop and implement a backup plan for your organization. A backup is a copy of your data and systems that can be restored in the event of an incident.
+   1.2 Develop your incident response plan: Developing an incident response plan for your organization is the keystone to your cyber defence strategy. You should also consider developing a disaster recovery plan for your business. Through these two plans, your organization considers major events that could cause an unplanned outage and require you to activate your recovery response. Your incident response plan helps you detect and respond to cyber security incidents. Your disaster recovery plan focuses on how the organization recovers and resumes critical business functions after an incident.
+   1.3 Develop your recovery plan
+   1.4 Manage user and administrator accounts
+
+2. Cyber security controls
+   2.1 Establish perimeter defences
+   2.2 Implement logging and alerting
+   2.3 Conduct penetration testing
+   2.4 Segment your networks
+   2.5 Constrain scripting environments and disable macros
+   2.6 Patch and update
+   2.7 Create an application allow list
+   2.8 Use protective domain name system (DNS)
+   2.9 Apply password management
+   2.10 Use email domain protection
+
+![Ransomware](images/ransomware-bolin.png)
+
+
+
+--- 
+   [^UKsecurity]: *National Cyber Center UK*. https://www.ncsc.gov.uk/ransomware/home#section_4
+   [^Allan]: Allan Liska & Timothy Gallo 2016. *Ransomware: Defendfing Against Digital Extortion*. https://learning-oreilly-com.lib-ezproxy.concordia.ca/library/view/ransomware/9781491967874/preface01.html#_using_code_examples
+   [^cyberCanada]: Canadian Centre for Cyber Security. 2021. “Ransomware Playbook (ITSM.00.099).” Canadian Centre for Cyber Security, November 30, 2021. https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099
 
 ## RGB
 RGB colorspace stands for “Red, Green Blue” colorspace, which is considered an “additive” color model. It is considered additive due to the range of colors being created by adding wavelengths of the main colors together in different proportions. [^zelazko225rgbcolor]
@@ -898,6 +1218,41 @@ Many contemporary operating systems, such as Linux and macOS, are derived from o
 
 [^mcilroy78unix]: McIlroy, M. D. 1978. "Unix Time-Sharing System: Foreword." _The Bell System Technical Journal_ 57 (6): 1899–1904.
 
+## User Interface (UI)
+A user interface (UI) is the medium through which humans interact with devices. It includes physical tools like keyboards and touchscreens as well as visual elements such as icons, buttons and animations. Some more concrete example include a computer mouse, remote control and virtual reality headsets.[^hashemi24ui]
+
+### History of UI
+Early humans used hieroglyphs to communicate. They are universally understood symbols and modern UI design uses this practice with its emphasis on icons and emojis to indicate an action. The typewriter was a pivotal innovation during the age of the machine as it introduced a tactile user interface. This later influenced the design of computer keyboards and digital text interfaces.[^reidworld] However, more concrete work on the user interface began with the development of a graphical user interface (GUI) based on Douglas Engelbart’s work on interactive computing in 1968. He was inspired by calls for technological advancements to do social good after World War II. Xerox PARC further refined GUI concepts, leading to commercial adaptations like Apple's Macintosh and Microsoft Windows. These innovations made computing from a command-line system that was only accessible to experts into a more intuitive and visual experience for everyday users. However, commercial interests began to influence user interface design. The priority is ease of use and market dominance over the original vision of deeper human-computer interactions.[^barnes10history]
+
+### UI Today
+User interface (UI) is essential in today's increasingly digital world because it determines how users interact with technology. UI is directly tied to modern digital experiences. With the shift from Web 1.0 to Web 3.0, interfaces have adapted to allow more participation and personalization. Now, UI has advanced to natural user interfaces (NUI), which include voice commands, motion gestures and even biological signal recognition. This allows for more human-like interactions with technology. UI is evolving in industries like gaming, mobile devices and smart applications as human needs change.[^sharma21ui] It does so based on user experience which is another facet of human-computer interaction.[^hashemi24ui]
+
+![User Interface](images/userinterface-chakrabarty.png) [^dell25keyboard][^tisanti16mouse][^rethin23humam][^wongios][^kamushken20figma][^elius20macintosh][^dev13microsoft]
+
+[^dell25keyboard]: Dell. 2025. “Dell Wireless Keyboard KB500 Product Image.” Dell Canada. Accessed February 9, 2025. https://www.dell.com/en-ca/shop/dell-wireless-keyboard-kb500/apd/580-aklj/pc-accessories.
+
+[^tisanti16mouse]: TiSanti. 2016. "Old Computer Mouse." iStock. Accessed February 9, 2025. https://www.istockphoto.com/photos/old-computer-mouse.
+
+[^rethin23humam]: Rethinagiri, G. M. 2023. "Human-Computer Interaction with Computer Vision: Challenges and Innovations." Medium. Accessed February 9, 2025. https://medium.com/@gmrethinagiri1507681/human-computer-interaction-with-computer-vision-challenges-and-innovations-b99c24c8e6ff.
+
+[^rr20mouse]: RR Auction. 2020. "Ground-breaking Engelbart 3-button computer mouse goes to auction." New Atlas. Accessed February 9, 2025. https://newatlas.com/computers/first-computer-mouse-engelbart-sale/.
+
+[^wongios]: Wong, Lauren. n.d. "iOS: The User Interface Design Journey." Sush Labs. Accessed February 9, 2025. https://www.sushlabs.com/blog/ios-the-ui-design-journey.
+
+[^kamushken20figma]: Kamushken, Roman. 2020. "Best Figma Plugins for 2020 Which Deserve Your Attention." Medium. Accessed February 9, 2025. https://kamushken.medium.com/best-figma-plugins-for-2020-which-deserve-your-attention-d542cc56aee0.
+
+[^elius20macintosh]: Eliuseev, Dmitrii. 2020. "The 1984 Apple Macintosh: How Does It Look Today?" UX Design. Accessed February 9, 2025. https://uxdesign.cc/the-1984-apple-macintosh-how-does-it-look-today-d08dde79da05.
+
+[^dev13microsoft]: DevToolsGuy. 2013. "An Introduction to the Microsoft 'Modern UI' Design Philosophy." Infragistics Blog. Accessed February 10, 2025.
+
+[^hashemi24ui]: Hashemi-Pour, Cameron, and Fred Churchville. 2024. “User Interface (UI).” TechTarget. https://www.techtarget.com/searchapparchitecture/definition/user-interface-UI.
+
+[^reidworld]: Reid, Danielle. n.d. “The World Is Our Interface: The Evolution of UI Design.” Toptal. https://www.toptal.com/designers/ui/touch-the-world-is-our-interface.
+
+[^barnes10history]: Barnes, Susan B. 2010. "User Friendly: A Short History of the Graphical User Interface." _Sacred Heart University Review_ 16 (1): 4.
+
+[^sharma21ui]: Sharma, Vatsal, and A. Kumar Tiwari. 2021. "A study on user interface and user experience designs and its tools." _World Journal of Research and Review (WJRR)_ 12, (6): 41-45.
+
 ## Virtual Environment
 
 Virtual environments are the technology which facilitates interactions between users and computer-generated artificial environments.[^ve3] These interactive computer displays are designed to create the illusion that the user has been transported to a different location.[^ve1] In a virtual world, the user can use their senses and their body in a similar way to the real world. They can turn their head to see their surroundings, trace sounds to the direction they are coming from, and use their hands to pick up virtual objects [^ve2]. Virtual environments are thus the most natural form of interaction between humans and computers.[^ve2] 
@@ -916,6 +1271,7 @@ Virtual worlds like online games and platforms are spaces where artists experime
 
 Virtuality is the idea that something can have an effect or be experienced even if it isn't physically real. For instance, in a meeting where most committee members aren't physically there, the meeting can still happen because everyone is "virtually" present, maybe through video calls or other digital tools. Even though the people aren't in the same room, their presence is still felt, and the meeting can go on as planned [^norton72what]. Virtuality is powerful because it can fill in for what’s missing in the real world and still allow things to function as if they were real. It helps us continue with important activities, even if the real-world conditions aren't perfect.
 
+![Virtuality](images/virtuality-sherwin.png)
 
 [^doyle15art]: Doyle, Denise. 2015. “Art, Virtual Worlds and the Emergent Imagination.” *Leonardo* 48 (3): 244–50. http://www.jstor.org/stable/43832994.
 
@@ -943,3 +1299,36 @@ There are numerous platforms for running wikis. Among the most popular are  [Med
 [^parker07wiki]: Parker, Kevin, and Joseph Chao. 2007. “Wiki as a Teaching Tool.” *Interdisciplinary Journal of E-Learning and Learning Objects* 3 (1): 57–72.
 
 [^hester09analysis]: Hester, Andrea J. 2009. Analysis of factors influencing adoption and usage of knowledge management systems and investigation of wiki technology as an innovative alternative to traditional systems. PhD diss., University of Colorado at Denver.
+
+## XML
+
+**XML (Extensible Markup Language)** is a flexible, text-based format for storing and transporting data. It uses a set of rules for encoding documents in a human-readable and machine-readable format.
+
+The **World Wide Web Consortium (W3C)** developed XML in the late 1990s to address the need for a universal data format on the Internet. It was officially released in 1998 as a simplified version of **SGML (Standard Generalized Markup Language)**, aiming to make data more portable across platforms and applications. Over time, XML became integral for web services, configuration files, and data storage.
+
+### The Role of XML in New Media
+
+In the evolving landscape of new media, **XML (Extensible Markup Language)** plays a crucial role in efficiently structuring, organizing, and transmitting data. As digital communication and multimedia platforms expand, XML provides a standardized format that enables seamless integration across different systems, making it an essential tool for modern content management and distribution.
+
+One of XML’s primary new media applications is **web content management**. Many content management systems (CMS) use XML to structure and store data, allowing easy updates and interoperability between different platforms. By providing a standardized format, XML ensures that digital content remains accessible and adaptable across various devices and screen sizes, making it easier to manage websites dynamically.
+
+Another critical application is **RSS feeds**, which utilize XML to distribute news and updates in a structured format. Many websites, blogs, and news outlets rely on XML-based RSS feeds to deliver real-time content to users and aggregators, ensuring that information reaches audiences efficiently. This capability has transformed how people consume news and digital content by automating the process of content syndication.
+
+XML is widely used in multimedia applications in addition to text-based media. SMIL (Synchronized Multimedia Integration Language) and SVG (Scalable Vector Graphics) leverage XML to create interactive and scalable media experiences. These formats allow developers to build animations, interactive graphics, and other rich media content while maintaining cross-platform compatibility.
+
+Furthermore, XML is integral to data exchange in web services. Many APIs, including those that power social media, streaming platforms, and e-commerce sites, use XML to structure and transmit data between servers and clients. SOAP (Simple Object Access Protocol) and RESTful web services frequently employ XML to ensure seamless data communication across different systems.
+
+XML is a foundational technology in new media, enabling structured content management, automated content distribution, rich multimedia experiences, and efficient data exchange. As digital media continues to evolve, XML remains a vital tool for ensuring interoperability, scalability, and accessibility in the ever-changing digital landscape.
+
+
+
+[^vanderaalst25xml]: van der Aalst, Wil M.P. 2025. “Patterns and XPDL: A Critical Evaluation of the XML Process Definition Language.” _Department of Technology Management, Eindhoven University of Technology, The Netherlands_, February 2. PDF Document.  
+
+[^feng24xml]: Feng, Dujuan. 2024. “New Media Advertising Information Search Method Based on XML Technology.” _International Journal of High Speed Electronics and Systems_, October 18, 2540033. https://doi.org/10.1142/S0129156425400336.  
+
+[^wikipedia25xml]: Wikipedia. 2025. “XML.” _Wikipedia_, February 9, 2025. https://en.wikipedia.org/w/index.php?title=XML&oldid=1274745213.  
+
+
+
+
+
