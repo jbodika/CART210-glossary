@@ -1,4 +1,4 @@
-##Copyleft
+## Copyleft
 
 Copyleft is a method of data/information publication that is largely concerned with free use and access. You may have heard the term "copyright" before,
 which is a similar method of publication that reserves all rights of use for a publication to the original creator. The term for "copyleft" was coined by Li-Chen Wang^[WIKI]
