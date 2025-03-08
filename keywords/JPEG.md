@@ -24,8 +24,8 @@ the wealth of data we have accessible in ways that don't necessitate more data t
 anti-progressive way of dealing with problems, by cramming in more where we shouldn't.
 
 [^JPEG]: Joint Photographic Experts Group (2024). "JPEG - About JPEG". Retrieved from https://jpeg.org/about.html.
-[^IEEE]: Wallace, G. K. 1991. “The JPEG Still Picture Compression Standard.” IEEE Transactions on Consumer Electronics 38 (1): xviii–xxxiv. https://ieeexplore.ieee.org/document/125072.
-[^RAW]: Bennett, Michael J. and Wheeler, F. Barry, "Raw as Archival Still Image Format: A Consideration" (2010). Published Works. 2023.
+[^IEEE]: Wallace, G. K. 1991. “The JPEG Still Picture Compression Standard.” *IEEE Transactions on Consumer Electronics* 38 (1): xviii–xxxiv. https://ieeexplore.ieee.org/document/125072.
+[^RAW]: Bennett, Michael J. and Wheeler, F. Barry, "Raw as Archival Still Image Format: A Consideration" (2010). *Digital Commons Published Works*. 2023.
 https://digitalcommons.lib.uconn.edu/libr_pubs/23
-[^DATA]: Viola, Bill. “Chapter 31: Will There Be Condominiums in Data Space?” Essay, 1982. In The New Media Reader, edited by Noah Wardrip-Fruin and Nick Montfort, 460–66. Cambridge, MA: 2003
+[^DATA]: Viola, Bill. “Chapter 31: Will There Be Condominiums in Data Space?” Essay, 1982. In *The New Media Reader*, edited by Noah Wardrip-Fruin and Nick Montfort, 460–66. Cambridge, MA: 2003
 
