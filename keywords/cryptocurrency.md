@@ -21,6 +21,7 @@ Bitcoin is not the only cryptocurrency but it is the most popular. Alternative c
 numerous others exist, e.g., Namecoin, Litecoin, Peercoin, or Dogecoin, etc. [^bolt17bitcoin]
 However, after Bitcoin, some of the most popular are Ethereum (ETH), Tether (USDT), USD Coin (USDC) and many more.
 
+![cryptocurrency](images/cryptocurrency.png)
 
 Bibliography 
 [^bolt17bitcoin]: Bolt, Wilko. 2017._ “Book Review: Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction.” _Journal of Economic Literature_55 (no. 2): 647–49.p.648
