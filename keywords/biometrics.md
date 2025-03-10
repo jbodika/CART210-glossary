@@ -29,3 +29,4 @@ Without proper regulation, individuals may be subjected to excessive surveillanc
 [^Arte08Bi]:ARTE France, Films for the Humanities & Sciences (Firm), and Films Media Group. 2008. Biometrics. New York, N.Y.: Films Media Group. http://digital.films.com/PortalPlaylists.aspx?aid=37189&xtid=39552.
 [^Centre21BiCa]: Cyber Centre. (2021, September). Biometrics (ITSP.00.19). Canadian Centre for Cyber Security. https://www.cyber.gc.ca/en/guidance/biometrics-itsap00019 
 +![biometrics](../images/biometrics-sanchez.png)
++
