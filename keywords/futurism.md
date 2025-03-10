@@ -32,9 +32,6 @@ In an interesting twist of events, the events of the now seem to have some simil
 
 I would define modern Futurism as a philosophical movement that is characterized by innovation, technology, and chaos, while challenging more traditional values and conventions.
 
-Rojas, Raul, and Ulf Hashagen. 2002. _Classifications of Computing Machines. In The First Computers: History and Architectures_, pp. 1-2. MA: MIT Press.
-Garfinkel, Simson L., and Rachel H. Grunspan. 2019. _The Computer Book: From the Abacus to Artificial Intelligence, 250 Milestones in the History of Computer Science_, Union Square & Co.
-
 [^unknown_accessed_2025_artstory]: Unspecified. 2025. _Futurism Movement Overview._, The Art Story.
 [^filippo_marinetti_1909_manifesto]: Marinetti, Filippo T. 2016. _The Manifesto of Futurism_. Passerino Editore.
 [^ekin_pinar_2024_speed]: Pınar, Ekin. 2024. _Becoming-Speed: Futurism’s Conflicts with Subjectivity and Motion._ pp. 115. Art Vision.
