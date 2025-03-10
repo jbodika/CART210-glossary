@@ -6,7 +6,7 @@ and retrieval across various disciplines. “Even the term dataset is problemati
 content, relatedness, and purpose—each of which has multiple categories” [^borgman15bigdata]. 
 
 A dataset is an organized compilation of interconnected information sets, consisting of distinct elements that,
-despite being separate, can be processed and managed collectively by a computer as a single entity. 
+despite being separate, it can be processed and managed collectively by a computer as a single entity. 
 These information sets are data “In rhetorical terms, data are that which exists prior to argument or interpretation 
 that converts them to facts, evidence and information” [^kitchin14revolution] in the Book “The Data Revolution: ...” 
 they defined data as the basic,  input used to represent aspects of the world by organizing them into categories,
@@ -26,6 +26,10 @@ Datasets can vary in size from just a few bits to several terabytes and can func
 The suitable unit of measurement is determined by the specific purpose for which the dataset is being used 
 “In addition, digital datasets can be opened only with certain software, whether statistical tools, instrument-specific code,
 or software suited to applications in the domain” [^borgman15bigdata].
+
+![Dataset](images/dataset.png)
+
+Chatgbt prompt: "can you generate me an image that visually depicts the word "dataset" without using words in the image"
 
 
 [^borgman15bigdata]: Borgman, Christine L. 2015. _Big Data, Little Data, No Data: Scholarship in the Networked World_. Cambridge, Massachusetts: The MIT Press.
