@@ -1,3 +1,4 @@
+## Natural Language Processing
 ![Natural language processing](images/naturallanguageprocessing-vlamis.png)[^deepmind]
 
 Natural Language Processing (NLP) is a branch of artificial intelligence that focuses on the interaction between computers and human language.[^NLPIBM] It involves developing algorithms and models that enable computers to interpret, analyze, and generate human language in a way that is both meaningful and contextually relevant. By leveraging techniques from computational linguistics and machine learning, NLP facilitates tasks such as text classification, language translation, sentiment analysis, and conversational agent development.
