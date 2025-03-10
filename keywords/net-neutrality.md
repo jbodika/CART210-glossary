@@ -32,6 +32,9 @@ Net neutrality has profound implications for digital culture and society:
 - **Economic Innovation:** By preventing ISPs from picking winners and losers, net neutrality allows startups and small businesses to compete on equal footing with established players. [^schewick10internet]
 - **Global Impact:** The principles of net neutrality have influenced internet governance debates worldwide, with countries like India and the European Union adopting their own net neutrality regulations. [^kimball22battle]
 
+![Net Neutrality](images/netneutrality-lapierrefurtado.png)
+* *ChatGPT used to generate this image, Prompt: "Generate an image that represents the New media keyword "net neutrality", make it thoughtful and contemplative, based on the style of The Medium is The Massage by Marshall McLuhan and Quentin Fiore; and The Extreme Self by Hans Ulrich Obrist, Shumon Basar, and Douglas Coupland. Drawing inspiration from Babbage, Hayles, Lovelace, McLuhan, Nelson, Turing, Wiener, and others, expand on the media keywords and create a critical collage. This is not just an illustration of the concept, but it is a critical visual commentary, where the concept is presented and a commentary is provided."*
+
 [^wu03discrimination]: Wu, Tim. 2003. “Network Neutrality, Broadband Discrimination.” SSRN Electronic Journal 2. https://doi.org/10.2139/ssrn.388863.
 [^schewick10internet]: Barbara van Schewick. 2010. Internet Architecture and Innovation. The MIT Press EBooks. The MIT Press. https://doi.org/10.7551/mitpress/7580.001.0001.
 [^kimball22battle]: Kimball, Danny. 2022. Net Neutrality and the Battle for the Open Internet. Ann Arbor, Michigan: University of Michigan Press. https://doi.org/10.3998/mpub.10067550.
