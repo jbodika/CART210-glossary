@@ -15,3 +15,4 @@ and raises questions about fairness, equality, and the ethics of technological e
 [^Paul23Trans]:Matthewa, Paul. 2023. Transparent Minds in Science Fiction: An Introduction to Alien, Ai and Post-Human Consciousness. Cambridge, Uk: Open Book Publishers. https://books.openbookpublishers.com/10.11647/obp.0348.pdf 
 [^Scott16The]:Jeffery, Scott. 2016. Posthuman Body in Superhero Comics : Human, Superhuman, Transhuman, Post/Human. New York: Palgrave Macmillan. https://doi.org/10.1057/978-1-137-54950-1.
 [^K23Post]: Nayar, Pramod K. 2023. Post-Humanism. Oxford Bibliographies: Oxford University Press. https://www.oxfordbibliographies.com/display/document/obo-9780190221911/obo-9780190221911-0122.xml 
+![post-humanism](images/post-humanism-sanchez.jpeg)
