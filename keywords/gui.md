@@ -8,16 +8,15 @@ Vannevar Bush's 1945 paper, "As We May Think," seems to have had a significant i
 Today, GUI has evolved to offer a wide range of functionalities to meet users' operational needs across various devices and applications. All operating systems, software applications, and websites now have their own GUIs. GUI has a significant impact on enhancing accessibility, user experience, and productivity.[^priya24Evolution]
 
 ### Example 
-![Fork the repo](images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
+![Fork the repo](../images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
 Xerox_Star_8010 GUI
 
-![Fork the repo](images/GUI_Macintosh.jpg)[^MacintoshZednet84]
+![Fork the repo](../images/GUI_Macintosh.jpg)[^MacintoshZednet84]
 Macintosh GUI
 
-![Fork the repo](images/GUI_Windows1.0.png)[^WindowWiki85]
+![Fork the repo](../images/GUI_Windows1.0.png)[^WindowWiki85]
 Windows1.0 GUI
 
-![Visual collage](images/gui-he.png)
 
 
 [^Wendy11Graphcal]: Wendy L Martinez, "Graphical user interfaces" in *Wiley Interdisciplinary Reviews: Computational Statistics*, v3n2(March/April 2011): 119-133, https://wires-onlinelibrary-wiley-com.lib-ezproxy.concordia.ca/doi/epdf/10.1002/wics.150.
