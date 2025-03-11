@@ -13,4 +13,4 @@ Analytics profoundly impacts digital culture by shaping how content is created, 
 
 [^analyticsoxford]: “Analytics.” n.d. In _New Oxford American Dictionary_. Apple Dictionary. 
 [^dong24study]: Dong, Jiaqi. 2024. “A Study on the Application of Data Analytics in New Media Communication.” _Media and Communication Research_ 5 (3). https://doi.org/10.23977/mediacr.2024.050314. 
-[^manovich17cultural]: Manovich, Lev. 2017. “Cultural Analytics, Social Computing and Digital Humanities.” In _Amsterdam University Press eBooks_, 55–68. https://doi.org/10.25969/mediarep/12514.
+[^manovich17cultural]: Manovich, Lev. 2017. “Cultural Analytics, Social Computing and Digital Humanities.” In _The Datafied Society: Studying Culture through Data_, edited by Mirko Tobias Schäfer and Karin Van Es, 55–68. Amsterdam University Press. https://doi.org/10.25969/mediarep/12514.
