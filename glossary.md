@@ -733,7 +733,7 @@ depth to, or somehow emphasize what has been said. It is a reliable method for l
 
 The hashtag has a profound impact on our society today, especially with the continuous rise of social media. Many social media platforms such as Twitter and Instagram have pushed the usage of the hashtag into mainstream digital advertising. Not only is the hashtag a tool, it represents an integral element of contemporary communication.[^rauschnabel19motivate]
 
-![Hashtag](images/hashtag-armstrong.png)
+![Hashtag](../images/hashtag_armstrong.png)
 
 [^budnik19dynamic]: Budnik, Ekaterina, Violetta Gaputina, and Vera Boguslavskaya. 2019. "Dynamic of hashtag functions development in new media: Hashtag as an identificational mark of digital communication in social networks." _In Proceedings of the XI International Scientific Conference Communicative Strategies of the Information Society_ 1-5. Accessed January 29, 2025.
 [^caleffi15word]: Caleffi, Paola-Maria. 2015. "The 'Hashtag': A new word or a new rule?" _SKASE journal of theoretical linguistics_ 12 (2): 46-69. Accessed January 29, 2025.
@@ -1379,6 +1379,20 @@ The training pipeline comprises two phases: initial pre-training uses mean squar
 [^ho20denoising]: Ho, Jonathan, Ajay Jain, and Pieter Abbeel. 2020. "Denoising Diffusion Probabilistic Models." *Advances in Neural Information Processing Systems* 33: 6840–6851. https://arxiv.org/abs/2006.11239.
 
 [^mccormack23ai]: McCormack, Jon, Oliver Bown, Simon Colton, and Mark d’Inverno. 2023. "AI and Creativity: A Critical Examination." *Journal of Artificial Intelligence Research* 76: 143–167. https://doi.org/10.1613/jair.1.13544.
+
+## Streaming
+
+Streaming is a term used to describe the transmission of data across multiple networks on a given device or [computer](../main/glossary.md#computer). The idea of streaming was first seen within the novel *Looking Backward* by Edward Bellamy. It presents a "music room" where music is transfered and transported by phone lines seamlessly into every home.[^harvey14station]
+
+Nowadays, streaming takes on multiple forms, including music, video, live, and on-demand. Streaming websites such as YouTube and Twitch have blown up in popularity, and the entertainment and movie industry has also followed suit, with large corporations such as Netflix and Disney resorting to the creation of streaming services for the general public to use to engage with their movies or TV series.[^fagerjord19mapping] 
+
+Streaming has transformed the landscape of the digital realm. It allows easy and quick accessibility for new media consumers of all types, ranging from music to TV. In fact, streaming services have displaced physical sales and digital downloads as the largest source of commercial music revenue in the US.[^chen17customer]
+
+[^harvey14station]: Harvey, Eric. 2014. "Station to station: The past, present, and future of streaming music." _Pitchfork_. Accessed March 7, 2025.
+
+[^fagerjord19mapping]: Fagerjord, Anders, and Lucy Kueng. 2019. "Mapping the Core Actors and Flows in Streaming Video Services: What Netflix Can Tell Us about These New Media Networks." _Journal of Media Business Studies_ 16 (3): 166–81. Accessed March 7, 2025.
+
+[^chen17customer]: Chen, Yi‐Min, Hsin‐Hsien Liu, and Yu‐Chun Chiu. 2017. "Customer benefits and value creation in streaming services marketing: a managerial cognitive capability approach." _Psychology & Marketing_ 34 (12): 1101-1108. Accessed March 7, 2025.
 
 ## UNIX
 
