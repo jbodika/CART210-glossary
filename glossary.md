@@ -648,7 +648,7 @@ Background image taken from[^buolamwini18gender]
 
 [^buolamwini18gender]: Buolamwini, Joy, and Timnit Gebru. 2018. "Gender shades: Intersectional accuracy disparities in commercial gender classification." In _Conference on fairness, accountability and transparency_, pp. 77-91. PMLR.
 
-# Geotagging
+## Geotagging
 
 ### Brief
 **Geotagging** is a technology that involves attributing geolocational information to different forms of media[^longley-geographic]. This is done by gathering the data through a devices positional services and storing it in the medias metadata. Geotagging started taking prominence in the early to mid 2000s with the rise of cell phones due to their photo-taking abilities and integrated GPSs. 
