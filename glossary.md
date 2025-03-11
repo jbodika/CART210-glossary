@@ -101,6 +101,8 @@ A key feature of AR is its ability to allow users to see and interact with their
 
 As AR technology continues to evolve, the possibilities for how it can be applied expand, making it an exciting field to watch. While we cannot predict exactly how AR will develop in the future, one potential direction is the merging of AR with VR to create a hybrid experience known as mixed reality. This convergence may offer even more immersive and interactive experiences, further blurring the lines between the digital and physical worlds.
 
+![AR](images/AR-Tang.png)
+
 [^Pesce21AR]: Pesce, Mark. 2021. Augmented Reality : Unboxing Tech’s next Big Thing. Cambridge, UK: Polity Press.
 
 [^Peddie23AR]: Peddie. Jon. 2023. _Augmented Reality: where we will all live. Second edition. Cham: Springer.
@@ -120,6 +122,39 @@ The term ‘avatar’ is not a new concept. According to the Myriam Webster dict
 [^PanSteed01]:Pan, Ye, and Anthony Steed.December 14, 2017. “The Impact of Self-Avatars on Trust and Collaboration in Shared Virtual Environments.” PLOS ONE 12, no. 12. https://doi.org/10.1371/journal.pone.0189078. 
 
 ![Virtual environment](images/avatar-julia.png)
+
+## Biometrics 
+
+Biometrics refers to the use of the physical or behaivour characteristics for identifiying 
+and verifie individuals, unlike the traditional methods od authentication like passwords or a key, biometric
+focus on who you are, this traits such as fingerprints, iris patterns, voice recognition and 
+facial features. biometrics began to take shape in the late 20th century. Biometrics plays a 
+critical role in security, in high level authentication is necessary.[^Yingzi12Bi]
+
+Biometrics has had a influence on digital culture, particulary in the terms of security, and 
+privacy concerns with the use of biometric authentication the convenience of accessing new systems
+and services has drasticallly improved. However this also introduces privacy risk, raising 
+serious concerns about data security and surveillance.[^Arte08Bi]
+
+such as examples can be: 
+
+Fingerprint Recognition: Used extensively in smartphones (e.g., Apple's Touch ID), laptops, and secure facilities.
+
+Voice Recognition: Common in virtual assistants such as Amazon's Alexa, Apple's Siri, and Google Assistant.
+
+Iris Scanning: Used in high-security environments, such as government agencies or military settings, for identification.[^Centre21BiCa]
+
+Biometrics can implied different challenges since it cannot be accesible to everyone. For 
+instance, not all individuals may be able to use biometric systems effectevely due to physical 
+disabilities. The collection of the data storage and use can lead legal and ethical concerns. 
+Without proper regulation, individuals may be subjected to excessive surveillance.
+
+![biometrics](images/biometrics-Sanchez.png)
+
+[^Yingzi12Bi]:Du Yingzi. 2012. Biometrics: From Fiction to Practice. Singapore: Pan Stanford Pub. http://www.crcnetbase.com/isbn/9789814364133. 
+[^Arte08Bi]:ARTE France, Films for the Humanities & Sciences (Firm), and Films Media Group. 2008. Biometrics. New York, N.Y.: Films Media Group. http://digital.films.com/PortalPlaylists.aspx?aid=37189&xtid=39552.
+[^Centre21BiCa]: Cyber Centre. (2021, September). Biometrics (ITSP.00.19). Canadian Centre for Cyber Security. https://www.cyber.gc.ca/en/guidance/biometrics-itsap00019 
+
 
 ## Blog
 A blog, short for "weblog," is an online platform where individuals or groups publish content in reverse chronological order.
@@ -192,6 +227,16 @@ This technology also has applications in the field of new media art. In fact, on
 [^waves]: Sirven, Joseph I. and Steven C. Schachter, 2013. "infect_2-s_0.gif". Epilepsy Foundation. August 22nd. https://www.epilepsy.com/sites/default/files/inline-images/infect_2_s_0.gif
 [^eeg]: Unknown Author, 2016. "eeg-2.jpg". AdaFruit Blog. August 31st. https://cdn-blog.adafruit.com/uploads/2016/08/eeg-2.jpg 
 
+## CMYK
+CMYK colorspace stands for "Cyan, Magenta, Yellow and Black(K)" colorspace. This type of colorspace is considered a "substractive" color model, due to colors being displayed via absorbtion (substraction) of the colors of the light. Each main color absorbs a different color of light: cyan absorbig red, magenta absorbing green, and yellow absorbing blue.[^westland23cmyk] It is for this reason that mixing two base colors of the CMYK system will result in one of the primary colors of the RGB colorspace. By removing two of the three colors of the light, you only have one pure color left. For example, by mixing yellow and magenta, we remove both green and blue, leaving us with red. CYMK is mostly used in printing.
+In terms of color mixing, the CYMK, due to it's substractive nature, will mix both wavelenghts and keep the lowest points of the clash of the two waves. In comparison, RGB, with its additive mixing, will keep the high points of the waves. [^lee08theevolution]
+The use of differnet color spaces will differ depending on how you intend to use the image. for example, a design that is meant to only ever be viewed on screens would preferably be realized in RGB as you will have access to more colors on the monitor. If you intend on printing the design, it is better to use the CMYK model, since not all RGB colors can be produced accurately with printers. It is usually the case for very vivid colors that are produced by a color mix, as achieving vivid colors through mixing is very complex. The type of file to use may also vary on the color space you are using, .pdf and .ai files being prefered for CMYK, and more traditional digital image files such as .jpg or .png are prefered for the RGB colorspace.[^ellis25rgb]
+
+
+[^westland23cmyk]: Westland, Stephen, and Vien Cheung. 2023. “CMYK Systems.” ResearchGate. In Handbook of Visual Display Technology, 1–7.
+[^lee08theevolution]: Lee, Barry B. 2008. “The Evolution of Concepts of Color Vision.” PubMed, July. https://pubmed.ncbi.nlm.nih.gov/21593994.
+[^ellis25rgb]: Ellis, Matt, and Peter Vukovic. 2025. “RGB Vs CMYK: What’s the Difference?” Vistaprint Ideas and Advice US (blog). March 5, 2025. Accessed March 9, 2025. https://www.vistaprint.com/hub/correct-file-formats-rgb-and-cmyk?srsltid=AfmBOorEwPM2klKkK5VTpiRTvh5uTgk1bJWGwNT-Lm0Vs_t2zmrb1PGP.
+
 ## Commons 
 
 Commons is a general term that refers to a resource shared by a group of people. These resources can range from small, localized systems (e.g., a family refrigerator) to community-level resources (e.g., sidewalks, playgrounds, libraries) and extend to global or transboundary systems (e.g., the deep seas, the atmosphere, the Internet, and scientific knowledge). The commons can be well-bounded (e.g., a community park or library), transboundary (e.g., the Danube River, migrating wildlife, the Internet), or without clear boundaries (e.g., knowledge, the ozone layer). [^hessOstrom]
@@ -221,7 +266,7 @@ such as ‘A' and ‘E’, to help transmit messages quickly”. [^Sayood02]
 Compression is important in media spaces as it helps to solve two major problems,
 the first being the need for storage space and the second is to allow users to share and view content rapidly. [^Salomon02]
 
-Data compression is becoming more and more relevant in the tech industry as the rise of [Artificial-Intelligence](../main/glossary.md#artificial-intelligence)  services requires faster and more efficient ways to be able to transmit images and data. [^Tsukuba24] 
+Data compression is becoming more and more relevant in the tech industry as the rise of [Artificial-Intelligence](../main/glossary.md#ai)  services requires faster and more efficient ways to be able to transmit images and data. [^Tsukuba24] 
 As such, new algorithms are being developed and published like the “Universal Adaptive Stream-Based Entropy Coding” system to aid in this issue [^Shinichi24].
 
 Compression is also present in current-day media through short-form content such as TikTok and Instagram Reels as well as TV and movie scenes length decreasing over time. 
@@ -233,15 +278,15 @@ due to having more space or from the short content duration format. [^Mills23]
 
 [^CambridgeDictionary]: Compression | English meaning - Cambridge dictionary, accessed February 2. 2025. https://dictionary.cambridge.org/dictionary/english/compression.
 
-[^Salomon02]: Salomon, David. 2002. *"Data compression."* Springer US: 2. https://vyomaonline.com/studymaterial/uploads/pdf/2020/12/06_ed4b65ab7f178238646aa579cd516806.pdf
+[^Salomon02]: Salomon, David. 2002. "Data compression." *Springer US: 2*. https://vyomaonline.com/studymaterial/uploads/pdf/2020/12/06_ed4b65ab7f178238646aa579cd516806.pdf
 
-[^Sayood02]: Sayood, Khalid. 2002. *"Data Compression."* Encyclopedia of Information Systems 1 (2002): 423-444. https://www.csd.uoc.gr/~hy438/lectures/Sayood-DataCompression.pdf
+[^Sayood02]: Sayood, Khalid. 2002. "Data Compression." *Encyclopedia of Information Systems 1 (2002)*: 423-444. https://www.csd.uoc.gr/~hy438/lectures/Sayood-DataCompression.pdf
 
-[^Tsukuba24]: University of Tsukuba. 2024. *“New Tech Boosts Real-Time Data Compression for AI.”* Techxplore. https://techxplore.com/news/2024-08-tech-boosts-real-compression-ai.html.
+[^Tsukuba24]: University of Tsukuba. 2024. “New Tech Boosts Real-Time Data Compression for AI.” *Techxplore*. https://techxplore.com/news/2024-08-tech-boosts-real-compression-ai.html.
 
-[^Shinichi24]: Yamagiwa, Shinichi and T. Kato. 2024. *"Universal Adaptive Stream-Based Entropy Coding."* in IEEE Access. vol 12. https://ieeexplore.ieee.org/document/10599517
+[^Shinichi24]: Yamagiwa, Shinichi and T. Kato. 2024. "Universal Adaptive Stream-Based Entropy Coding." in *IEEE Access. vol 12*. https://ieeexplore.ieee.org/document/10599517
 
-[^Mills23]: Mills, Kim. 2023. *“Why Our Attention Spans Are Shrinking, with Gloria Mark, Phd.”* American Psychological Association. https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans. 
+[^Mills23]: Mills, Kim. 2023. “Why Our Attention Spans Are Shrinking, with Gloria Mark, Phd.” *American Psychological Association*. https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans. 
 
 ![Compression](images/compression-le.png)
 
@@ -384,6 +429,23 @@ BONUS: Last fall session, I created a website to help both students and curious 
 #### [Check the HTML here](./html.md)
 #### [Check the PHP here](./php.md)
 
+
+## Cultural Determinism 
+
+Cultural determinism is the theory that human behavior, identity, and group dynamics are shaped primarily by cultural factors[^OxCul] such as norms, beliefs, and values.
+It reflects that a person's or group's social context, including their cultural construction, determines how they perceive the world, behave, and interpret experiences.
+This framework suggests that mental illness, social roles, and even individual actions are products of cultural expectations rather than biological or normal factors [^Meford01Cult]. 
+Cultural determinism often critiques the idea that behavior is biologically determined, proposing instead that it is molded by the societal and cultural systems within which individuals live.
+
+Cultural determinism is especially relevant in the context of digital technologies and platforms. 
+In virtual environments, identities and norms are often constructed and reinforced through algorithms[^Mike80Cult] that prioritize certain types of content, reinforcing specific cultural ideals. 
+Social media platforms, such as Instagram and TikTok, exemplify how cultural values around body image, success, and lifestyle are propagated and amplified. 
+
+Cultural determinism in the digital medium also raises controversial questions about free will, personal autonomy, and the power of technology in shaping behavior.
+
+[^Meford01Cult]:Spiro, Melford E. 2001. “Cultural Determinism, Cultural Relativism, and the Comparative Study of Psychopathology.” Ethos 29, no.2 (2001): page range. https://www-jstor-org.lib-ezproxy.concordia.ca/stable/640637?seq=1 
+[^Mike80Cult]:López, Mike. “Cultural Determinism, Educational Achievement, and a Brief Lesson on Chicano Studies.” The Clearing House 53, no. 6 (1980): 292–94. http://www.jstor.org/stable/30197897. 
+[^OxCul]:Oxford Review. (n.d.). Cultural determinism: Definition and explanation. The Oxford Review. https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/cultural-determinism-definition-and-explanation/ 
 
 ## Cyberculture
 
@@ -547,6 +609,69 @@ way of being by making the need for fast and effiecent delivery systems and ware
 [^researchgate.net]: Tian, Yan. “_(PDF) History of e-Commerce._” ResearchGate, January 2007. (https://www.researchgate.net/publication/314408412_History_of_E-Commerce). 
 [^britannica.com]: Zwass, Vladimir. “_E-commerce | Definition, History, Types, Examples, & Facts._” Encyclopædia Britannica, December 17, 2024. [https://www.britannica.com/money/e-commerce].
 
+## Embodiment
+
+Embodiment is a term which is informed by and used in many different fields. 
+Consequently, embodiment is a highly polysemic term, even inside a given discipline. 
+
+Many researchers believe embodiment to be crucial to intelligence, artificial or natural.[^txtZ] This sort of cognition, embodied cognition, leads us to wonder what sorts of bodies true artificial intelligences might require in the future. Many different embodied forms of intelligences can inform that discussion. For example, physical bodies equipped with sensorimotor skills modeled after living organisms or even living organisms themselves and their autonomous/autopoietic character can be seen as two different embodiments of intelligence[^txtZ]. 
+
+Some physiological illusions provide insight into how embodiment functions. One such illusion,  the Rubber Hand Illusion (RHI), occurs during an experiment in which a participant observes a synthetic hand being stroked at the same time as their own hand[^txtRE]. Eventually, the participant starts feeling the strokes on the synthetic hand even if their real hand hasn't been touched[^txtRE]. Given proper visual information (the synchronous stroking), they assimilate the hand as their own.  In other words, it is possible for an external object, which bears morphological resemblance to a human body part, to be incorporated as a part of a person's body. 
+
+In the context of new media artforms - such as Virtual Reality (VR) - in which virtual representations of bodies are prominent, embodiment represents a key concern.
+
+In the case of VR, the challenge rests in trying to understand if and how it is possible for a person to feel the same things towards a virtual body in a virtual world as towards their biological body situated in a physical world. [^txtVR] Three conditions can break down that challenge and contribute to creating a sense of embodiment (SoE) in VR contexts.
+
+First, a person must feel a sense of self-location. In other words, they must locate their self as being contained in the body space represented by the virtual body. First person perspective can enhance this feeling, since it emulates our real-world egocentric perspective[^txtVR].
+
+Second, a sense of agency over the virtual body needs to be felt by the person "inhabiting" it. This sense can be described as a feeling of motor control over the body paired with the impression that the predicted consequences of an action match its actual consequences (in other words, feeling like you actually performed that action, not a random event). Thus, decreasing the latency between actual movement in the physical world and visual feedback in the virtual world is essential. Having a strong delay between the two can negatively impact the feeling of agency and, by extension, embodiment[^txtVR]. 
+
+Third, a sense of ownership should be felt by the person immersed inside the virtual world. A virtual avatar's morphological similarity to human body can increase this feeling of ownership[^txtVR].
+
+[^txtZ]: Ziemke, Tom. 2003. "What’s that Thing Called Embodiment?" *Proceedings of the Annual Meeting of the Cognitive Science Society* 25, 1305-1310
+[^txtRE]: De Preester, Helena. 2010. "Technology and the Body: the (Im)Possibilities of Re-embodiment." *Found Sci* 16, 119–137.
+[^txtVR]: Kilteni, Konstantina, Raphaela Groten and Mel Slater. 2012. "The Sense of Embodiment in Virtual Reality." *Presence* 21, no.2 (Fall): 373–387. 
+
+## Encoding & Decoding
+
+Within information theory and communications, encoding and decoding are complementary processes that manage how data is transformed, transmitted, and finally interpreted across various forms of media [^1]. Within the context of new media in particular, these processes are much more important due to them being, at their base, digital in nature when it comes to content generation, distribution, and consumption [^2].  Encoding involves the conversion of information into a digital format optimized for transmission or storage, while decoding translates that encoded information back into a comprehensible form, the inverse [^3].
+
+Encoding is fundamental in new media as it facilitates the digitization of various content and mediums, including textual, visual, auditory, and video data [^4]. This digitization enables efficient storage, manipulation, and transmission of media across digital networks [^5]. For instance, video encoding algorithms, such as H.264/AVC or H.265/HEVC, compress raw video files by exploiting spatial and temporal redundancies, thus reducing the computational demand for a given task over the internet. Without efficient encoding techniques, bandwidth requirements for transmitting such data would be inconveniently high, rendering real time streaming applications impractical[^6].
+
+On the flip side, decoding represents the process by which digital devices and software applications interpret the already encoded information to render it back into a human usable format. This encompasses displaying images on a screen, reproducing audio through speakers, or rendering text in a readable font as opposed to zeros and ones. The quality of the decoding directly impacts the user experience, as it determines the fidelity and accuracy with which the original information is reconstructed then interpreted [^7].
+
+One example of encoding and decoding in new media is the utilization of the Advanced Audio Coding (AAC) format for digital audio. AAC, standardized as part of the MPEG-4 suite, employs psychoacoustic modeling to selectively discard perceptually irrelevant audio information, hence achieving smaller file sizes compared to older formats like MP3 while maintaining superior audio quality. When an AAC-encoded audio file is played, a decoder reconstructs the audio signal based on the encoded data to make actual sound, enabling users to listen to high-fidelity music on portable devices with limited space and streaming platforms [^8].
+
+Encoding and decoding are intricately linked to contemporary technologies and media practices, including streaming media services, digital broadcasting, and online gaming as they rely on the encoding algorithms to deliver high quality content over limited networks [^9]. The growth of social media platforms and content has further amplified the demand for accessible encoding tools that empower individuals to create and spread their own media, encouraging the development of softwares and mobile apps that streamline the encoding process. Perhaps an easy example would be the ability to encode a video, uploading to Youtube, thus disseminating your own content publicly on the site. 
+
+To finish, encoding and decoding represent foundational processes that support the functionality of new media. They shape our interactions with technology and our participation in digital life. Thus, an understanding of encoding and decoding principles is essential for navigating the intricacies of the digital world.
+
+![Encoding-Decoding](images/encodingdecoding-abdulaziz.png)
+
+Initial images made in Ideogram, controlnet & img2img done with Fluxdev in ComfyUI, variations and fine tuning done with SDXL in Fooocus
+
+Prompt example (variations used): A horizontally split image illustrating the concept of audio encoding and decoding. On the left side, a clean and smooth waveform in blue, representing the original sound. In the center, the waveform becomes distorted, pixelated, or fragmented, symbolizing the encoding process where data is compressed or altered. The distortion includes binary numbers, glitch effects, or pixel breakdowns. On the right side, the waveform is restored to its original smooth form, signifying successful decoding. Dark background, subtle neon highlights, futuristic, digital aesthetic.
+
+Negative Prompt (variations used): red, pink, people, person, cube, anime
+
+[^1]: Cover, Thomas M., and Joy A. Thomas. 2006. *Elements of Information Theory*. 2nd ed. Wiley-Interscience.
+
+[^2]: Manovich, Lev. 2001. *The Language of New Media*. MIT Press.
+
+[^3]: Haykin, Simon. 2001. *Communication Systems*. 4th ed. John Wiley & Sons.
+
+[^4]: Salomon, David. 2007. *Data Compression: The Complete Reference*. 4th ed. Springer.
+
+[^5]: Gillespie, Tarleton. 2018. *Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media*. Yale University Press.
+
+[^6]: Wiegand, Thomas, Gary J. Sullivan, Gisle Bjøntegaard, and Ajay Luthra. 2003. "Overview of the H.264/AVC Video Coding Standard." *IEEE Transactions on Circuits and Systems for Video Technology* 13 (7): 560-576.
+
+[^7]: Steinmetz, Ralf, and Klara Nahrstedt. 2002. *Multimedia Computing, Communications and Applications*. Prentice Hall.
+
+[^8]: Bosi, Marina, and Richard E. Goldberg. 2003. *Introduction to Digital Audio Coding and Standards*. Springer.
+
+[^9]: Jenkins, Henry. 2006. *Convergence Culture: Where Old and New Media Collide*. New York University Press.
+
 ## Facial Recognition 
 
 Facial recognition is a biometric technology that identifies or verifies individuals by analyzing facial features. It captures and processes facial data to convert it into a digital format for comparison using specialized algorithms.[^zhao03face]
@@ -573,6 +698,110 @@ Background image taken from[^buolamwini18gender]
 
 [^buolamwini18gender]: Buolamwini, Joy, and Timnit Gebru. 2018. "Gender shades: Intersectional accuracy disparities in commercial gender classification." In _Conference on fairness, accountability and transparency_, pp. 77-91. PMLR.
 
+## Firewall
+
+Most people think of a firewall as a network security system that detects and controls both incoming and outgoing data.
+However, that is just a basic understanding. In reality, there are multiple types of firewalls, each designed to prevent malware,
+viruses, and other malicious activities in different ways and for specific purposes. This discussion will focus on three main types:
+Packet Filtering Firewalls, Proxy Firewalls, and Next-Generation Firewalls.
+
+A Packet Filtering Firewall follows the most fundamental approach. It inspects data packets—small units of information that networks 
+exchange—and determines whether to allow or block them based on predefined rules (e.g., IP addresses). While this method is fast and efficient,
+it does not inspect the packet’s payload (the actual message), making it less secure.[^Noonan06Firewall]
+
+A Proxy Firewall, in contrast, acts as an intermediary between users and external services, filtering data at the application layer. 
+By analyzing full requests before forwarding them, it provides a higher level of security compared to traditional firewalls.[^DeCarlo24types]
+
+Finally, a Next-Generation Firewall (NGFW) combines standard packet filtering with deep packet inspection—meaning it can analyze packets
+more thoroughly than previous firewall types, identifying hidden threats.[^DeCarlo24types]
+
+As new media technologies rapidly evolve, users interact with digital content such as applications, social media, and cloud services more 
+than ever before. While this expands access to information and connectivity, it also increases exposure to cyber risks. Firewalls play a 
+crucial role in protecting networks from external threats, but they do not prevent companies from collecting user data. Many digital platforms 
+actively gather and analyze user information, often without users being fully aware of the extent of data tracking. As legal scholar Teresa Scassa
+explains in Privacy and Social Media in the Age of Big Data, companies use data profiling to predict consumer behavior, determine service eligibility 
+(such as insurance or loans), and even apply price discrimination based on personal data.[^Dusseault13privacy]This means that almost every online interaction leaves
+a digital footprint, which can be stored, analyzed, and sometimes exploited.
+
+The challenge is that while firewalls protect networks from external attacks, they do not regulate how platforms handle user data. Social media, 
+online marketplaces, and other web-based services continuously collect, store, and monetize personal information, raising concerns about privacy, 
+security, and data ownership. The increasing interactivity between users and online platforms makes data more vulnerable to exposure, especially 
+as people share personal details, preferences, and behaviors. While firewalls help prevent unauthorized access, they are not a complete solution 
+to digital privacy risks. To truly safeguard personal data, users must combine strong cybersecurity measures with awareness of how their data is 
+being collected and used. This includes practices such as adjusting privacy settings, using encrypted communication, and being cautious about sharing 
+personal information online.
+
+Firewalls remain an essential first line of defense against cyber threats, preventing unauthorized access and filtering harmful traffic. 
+However, in the modern digital landscape, cybersecurity is only one part of the equation. Protecting personal data also requires understanding 
+how platforms collect, store, and use information. As new media technologies continue to evolve, the need for both stronger security measures 
+and better privacy protections will only grow.
+
+[^Noonan06Firewall]: Noonan, Wesley J., and Ido Dubrawsky. 2006. _Firewall Fundamentals_. Indianapolis, IN: Cisco Press.
+
+[^DeCarlo24types]:DeCarlo, Amy Larsen. 2024. _The 5 Different Types of Firewalls Explained_. TechTarget, August 15, 2024. https://www.techtarget.com/searchsecurity/feature/The-five-different-types-of-firewalls.
+
+[^Dusseault13privacy]:Dusseault, Pierre-Luc, and Canada. Parliament. House of Commons. Standing Committee on Access to Information, Privacy and Ethics. 2013. _Privacy and Social Media in the Age of Big Data: Report of the Standing Committee on Access to Information, Privacy and Ethics_. Ottawa: House of Commons.
+
+
+## Futurism
+
+### Historical Summary and Definition
+
+"Futurism" is an art movement, though it could be argued to be more than that due to its ideals.
+This movement was started in Italy around 1909, and was at its most popular from then until some time in the 1920's, thought it is reported to have "ended" around 1944. [^unknown_accessed_2025_artstory]
+The creation, and much of the fire behind the movement, is largely attributed to an Italian poet named Filippo Tommaso Marinetti, who published a text titled "Manifesto of Futurism" in 1909, seemingly sparking much of the movement.
+
+Futurism was primarily driven by a dissatisfaction with the nostalgia much of the country held for classical art and history, and identified with speed, efficiency, and promoting chaotic changes in life.  
+Many Futurists saw tradition as lifeless and no longer relevant. They believed that classical media only served to keep society chained to outdated ways of thinking. [^filippo_marinetti_1909_manifesto]
+Much of this thinking was shown through their dislike of romanticism, with them blaming sentimentality and the glorification of a rural life as the reason for a world feeling stagnant.
+
+Much of this movement was inspired by the Industrial Revolution, which had quickly transformed society with machines, electricity, and new forms of transportation. [^ekin_pinar_2024_speed]
+Futurists looked at these creations as a beacon of efficiency and beauty in a world that had lost itself in its past. 
+Many of them favored gaining inspiration from environments such as factories and industry.
+
+One of the most controversial view that was / is held by a lot of the Futurist community is that violence and conflict are cleansing forces meant to purify the world.
+Think of this view as creating an artificial river from a pond, draining the stagnant water and creating new inspiration for innovation in its wake.
+Marinetti referred to war as a form of hygiene, a destruction that was necessary for rebirth of idea and innovation.
+
+### Relation to New Media and Modern Definition
+
+While Futurism itself isn't considered a very popular movement by todays standards, its ideas and reasoning greatly connects to the world we find ourselves in today.
+One example is its worship of speed and constant efficiency. Much of todays technology and especially the internet operates through its instantanous responses, with social media, viral trends, and digital content constantly spreading at high speeds.
+On the daily, we see trends rise and fall from fame as the chaotic speed that our creations evolve at give more and more for us to see while leaving us less time to do it.
+
+Another idea that clearly mirrors Futuristic ideals is our rejection of the past.
+While Futurists of said past might have called classical art and tradition obsolete, the society of today simply disrupts traditional forms of media by digitalizing anything and everything.
+Simply put, the internet prioritizes the now over the past.
+
+In an interesting twist of events, the events of the now seem to have some similarities to those seen during the origin of Futurism, with many finding the current world a bore, and tensions build off of the social unrest gathering throughout several large countries.
+
+I would define modern Futurism as a philosophical movement that is characterized by innovation, technology, and chaos, while challenging more traditional values and conventions.
+
+[^unknown_accessed_2025_artstory]: Unspecified. 2025. _Futurism Movement Overview._, The Art Story.
+[^filippo_marinetti_1909_manifesto]: Marinetti, Filippo T. 2016. _The Manifesto of Futurism_. Passerino Editore.
+[^ekin_pinar_2024_speed]: Pınar, Ekin. 2024. _Becoming-Speed: Futurism’s Conflicts with Subjectivity and Motion._ pp. 115. Art Vision.
+
+
+
+
+## Geotagging
+
+### Brief
+**Geotagging** is a technology that involves attributing geolocational information to different forms of media[^longley-geographic]. This is done by gathering the data through a devices positional services and storing it in the medias metadata. Geotagging started taking prominence in the early to mid 2000s with the rise of cell phones due to their photo-taking abilities and integrated GPSs. 
+
+### Uses
+Social media services were some of the first to adopt the technology. Though it took some time, these services allowed users to share both pictures and their locations with additional visualization as seen with [Snapchat](https://www.snapchat.com/). Geotagging has also been widely used in specific scientific fields, where researchers use it to more easily catalogue massive amounts of information. [^nowak-natural] 
+
+### Issues
+Due to the additional data, many privacy experts have warned about the increased use of geotagging. This includes a short period in time where celebrities would unknowingly publicize the location of their home by sharing pictures online.[^abc-celbrities] Geotagging is a feature that is automatically enabled on most devices in the present day, but users are unlikely warned.[^lipschultz-social] This means most users are providing sensitive information for their digital footprint without notice, increasing their digital vulnerability.
+
+[^longley-geographic]: Longley, Paul. 2015. *Geographic Information Science & Systems*. Fourth edition. Hoboken, NJ: John Wiley & Sons. https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=1639301.
+
+[^nowak-natural]: Maciej M. Nowak, Katarzyna Słupecka, and Bogdan Jackowiak. 2021. “Geotagging of Natural History Collections for Reuse in Environmental Research.” *Ecological Indicators* 131: 108131.
+
+[^abc-celbrities]: ABC News. 2010. “Celebrities’ Photos, Videos May Reveal Location.” *ABC News*, July 14, 2010. Accessed March 8, 2025. https://abcnews.go.com/Technology/celebrity-stalking-online-photos-give-location/story?id=11162352.
+
+[^lipschultz-social]:Lipschultz, Jeremy Harris. 2024. *Social Media Communication : Concepts, Practices, Data, Law and Ethics*. Fourth edition. New York: Routledge, Taylor & Francis Group. https://www.oreilly.com/library/view/-/9781000910278/.
 ## Git
 
 Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It allows multiple developers to work on a project simultaneously without interfering with each other's contributions.[^chacon14progit]
@@ -610,7 +839,6 @@ GitHub's development process is distributed, allowing developers to collaborate,
 
 ## GUI
 
-### Intro
 GUI (Graphical User Interface) is a way for users to interact and communicate with computers. Unlik the Command Line Interface(CLI), the GUI does not display code details. Instead, it facilitates human-computer interaction in a more intuitive way by using window, icons, menus, buttons, drop-down lists, dialog boxes, and more.[^Wendy11Graphcal] For beginners, since the GUI provides visual feedback and confirmation for every action and eliminates the need to learn specific commands and syntax, the learning curve is shallower[^Shardeum23What]
 
 ### History
@@ -618,16 +846,15 @@ Vannevar Bush's 1945 paper, "As We May Think," seems to have had a significant i
 Today, GUI has evolved to offer a wide range of functionalities to meet users' operational needs across various devices and applications. All operating systems, software applications, and websites now have their own GUIs. GUI has a significant impact on enhancing accessibility, user experience, and productivity.[^priya24Evolution]
 
 ### Example 
-![Fork the repo](images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
+![Serox](images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
 Xerox_Star_8010 GUI
 
-![Fork the repo](images/GUI_Macintosh.jpg)[^MacintoshZednet84]
+![Macintosh](images/GUI_Macintosh.jpg)[^MacintoshZednet84]
 Macintosh GUI
 
-![Fork the repo](images/GUI_Windows1.0.png)[^WindowWiki85]
+![Windows](images/GUI_Windows1.0.png)[^WindowWiki85]
 Windows1.0 GUI
 
-![Visual collage](images/gui-he.png)
 
 
 [^Wendy11Graphcal]: Wendy L Martinez, "Graphical user interfaces" in *Wiley Interdisciplinary Reviews: Computational Statistics*, v3n2(March/April 2011): 119-133, https://wires-onlinelibrary-wiley-com.lib-ezproxy.concordia.ca/doi/epdf/10.1002/wics.150.
@@ -658,7 +885,7 @@ depth to, or somehow emphasize what has been said. It is a reliable method for l
 
 The hashtag has a profound impact on our society today, especially with the continuous rise of social media. Many social media platforms such as Twitter and Instagram have pushed the usage of the hashtag into mainstream digital advertising. Not only is the hashtag a tool, it represents an integral element of contemporary communication.[^rauschnabel19motivate]
 
-![Hashtag](images/hashtag-armstrong.png)
+![Hashtag](../images/hashtag_armstrong.png)
 
 [^budnik19dynamic]: Budnik, Ekaterina, Violetta Gaputina, and Vera Boguslavskaya. 2019. "Dynamic of hashtag functions development in new media: Hashtag as an identificational mark of digital communication in social networks." _In Proceedings of the XI International Scientific Conference Communicative Strategies of the Information Society_ 1-5. Accessed January 29, 2025.
 [^caleffi15word]: Caleffi, Paola-Maria. 2015. "The 'Hashtag': A new word or a new rule?" _SKASE journal of theoretical linguistics_ 12 (2): 46-69. Accessed January 29, 2025.
@@ -695,6 +922,51 @@ In conclusion, HTTPS is an indispensable component of new media, providing secur
 
 
 
+
+## Identity Management
+
+Identity management is a system that checks users and controls their access to an organization's resources. In new media, it shows how users create, maintain and protect their online profiles as they navigate digital spaces. These systems govern the processes of identifying, authenticating, and authorizing individuals and determining the level of access they have to various digital resources.[^windley]
+
+The significance of identity management in new media stems from the shift where digital interactions have largely replaced or supplemented physical ones. The term became common in the late 1990s and early 2000s when enterprise networks expanded and the internet became a mainstream platform for commerce, communication, and content delivery. Today, identity management represents the intersection of security, privacy, user experience, and digital rights in networked environments.[^windley]
+
+Identity management matters in new media for several reasons:
+
+* The proliferation of digital services requiring authentication has created a complex ecosystem where users must manage multiple identities across platforms.
+* The rise of data analysis through [analytics](#analytics) and [surveillance](#surveillance) has increased the stakes of identity protection and privacy.
+* Digital identities have become extensions of personal and professional lives, blurring boundaries between online and offline existence.
+* [AI](#ai) systems increasingly rely on identity data to personalize experiences and make decisions affecting users.
+
+Modern identity management is integrated into nearly all digital platforms and technologies. Single sign-on (SSO) solutions allow users to access multiple applications with one set of credentials. Social login capabilities enable users to leverage existing identities from platforms like Google or Facebook across the web, creating interconnected identity ecosystems.[^fiesler] Biometric authentication—including facial recognition, fingerprint scanning, and voice identification—has transformed how we verify identity in digital spaces. Meanwhile, blockchain technology offers new paradigms for self-sovereign identity systems where users maintain greater control over their digital identifiers and credentials.[^allen]
+
+Identity management also encompasses the management of [digital reputation](#online-reputation) and [personal branding](#personal-branding) across social media platforms, where users cultivate specific personas for different audiences. The concept of "context collapse"—where distinct social contexts converge in single platforms—has made identity management increasingly complex for everyday users.[^marwick]
+
+Several examples illustrate the evolution and importance of identity management in new media:
+
+* **OAuth and OpenID Connect**: These open protocols enable secure authorization between services without sharing password credentials, allowing for federated identity systems across the web.
+
+* **Password Managers**: Applications like [LastPass](https://www.lastpass.com/), [1Password](https://1password.com/), and [Bitwarden](https://bitwarden.com/) help users generate, store, and manage complex passwords across multiple platforms, addressing the "password fatigue" problem.
+
+* **Two-Factor Authentication (2FA)**: This security process requires users to provide two different authentication factors, significantly enhancing security beyond password-only systems.
+
+* **Self-Sovereign Identity Systems**: Blockchain-based initiatives like [Sovrin](https://sovrin.org/) and [uPort](https://www.uport.me/) aim to give individuals control over their digital identities without relying on centralized authorities.
+
+* **GDPR and Identity Regulations**: Legislation like the European Union's [General Data Protection Regulation](https://gdpr.eu/) establishes rights regarding personal data, including the "right to be forgotten," directly impacting how digital identities are managed.
+
+While identity management as a practice existed in various forms previously, the term "identity management" in its current technological context emerged in the late 1990s within enterprise IT. The concept was formalized and popularized by various industry groups and vendors developing directory services and access management solutions.
+
+Kim Cameron, Microsoft's former Chief Architect of Identity, made significant contributions to identity management theory with his "Seven Laws of Identity" published in 2005, which established core principles for digital identity systems.[^cameron] The subsequent development of the Identity Metasystem concept helped shape modern approaches to federated identity.
+
+The Internet Engineering Task Force (IETF) and the Organization for the Advancement of Structured Information Standards (OASIS) have played crucial roles in developing standards like SAML (Security Assertion Markup Language) and XACML (eXtensible Access Control Markup Language) that underpin modern identity management systems.
+
+[^windley]: Windley, Phillip J. 2005. *Digital Identity: Unmasking Identity Management Architecture (IMA)*. Sebastopol, CA: O'Reilly Media.
+
+[^fiesler]: Fiesler, Casey, and Blake Hallinan. 2018. "'We Are the Product': Public Reactions to Online Data Sharing and Privacy Controversies in the Media." In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems*, 1-13. Montreal: ACM. https://doi.org/10.1145/3173574.3173627.
+
+[^allen]: Allen, Christopher. 2016. "The Path to Self-Sovereign Identity." *Life With Alacrity* (blog), April 25, 2016. http://www.lifewithalacrity.com/2016/04/the-path-to-self-sovereign-identity.html.
+
+[^marwick]: Marwick, Alice E., and danah boyd. 2011. "I Tweet Honestly, I Tweet Passionately: Twitter Users, Context Collapse, and the Imagined Audience." *New Media & Society* 13 (1): 114-133. https://doi.org/10.1177/1461444810365313.
+
+[^cameron]: Cameron, Kim. 2005. "The Laws of Identity." Microsoft Corporation. https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf.
 
 ![Immersion](images/immersion-hubert.png)
 
@@ -908,6 +1180,33 @@ Due to Linux's offered freedom, Linux has become a common tool among creatives. 
 
 
 
+## Lossy
+
+Lossy is an adjective that is used to describe the loss of data or the dissipation of energy. 
+While the first known use of the word had been attributed to the second definition in 1948, in the writing of H.A. Leiter,
+the loss of data is more commonly associated with file [compression](../main/glossary.md#compression) in the computation field.[^Merriam-Webster] [^OED]
+
+Although many people associate lossy compression as a digital thing, it also occurs naturally in everyday life. 
+Creatures, including humans, are constantly processing a large amount of information from their environment in order to survive. 
+However, absorbing all of that data can be overwhelming and not particularly useful, as such, they have evolved to be able to “reduce resource demands by tracking a smaller number of features”.[^Marzen17] 
+In other words, they are compressing information in a lossy way, removing redundancies, to be able to quickly react to a stimulus.
+
+File compression itself involves the act of representing data into a series of bits and reconstructing it back to uncompress it. 
+Lossy and lossless compression are two types of techniques that can be used to achieve this effect. 
+While lossless compression allows us to obtain an identical copy of the original, 
+lossy compression returns an approximation of the original data which results in a less accurate but smaller copy. [^Gupta17] 
+
+Lossy Compression is very important in our current society as a large amount of data is constantly being shared all over the world through social media and other platforms. 
+As such, we need to be able to reduce the size of this data to be able to quickly transfer information. 
+Thus, “lossy techniques are widely used in image and video compression” for their compression and decompression speed 
+as well as the fact that it is less important for these visual media to be pixel accurate. [^Gupta17]
+
+
+[^Merriam-Webster]: Merriam-Webster.com Dictionary, s.v. “lossy.” accessed March 5, 2025. https://www.merriam-webster.com/dictionary/lossy.
+[^OED]: “Lossy, Adj. Meanings, Etymology and More.” *Oxford English Dictionary*. Accessed March 6, 2025. https://www.oed.com/dictionary/lossy_adj. 
+[^Marzen17]: Marzen, Sarah E., and Simon DeDeo. 2017. "The evolution of lossy compression." *Journal of The Royal Society Interface 14, no. 130* (2017): 20170166.
+[^Gupta17]: Gupta, Apoorv, Aman Bansal, and Vidhi Khanduja. 2017. "Modern lossless compression techniques: Review, comparison and analysis." In *2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT)*, pp. 1-8. IEEE, 2017. 
+
 ## Middleware
 
 Middleware is a type of software that can best be viewed as a layer between different systems and the outcome of their collaboration. Examples of these different systems are applications, databases, and operating systems. Examples of the outcomes of these systems’ collaboration are single sign-on (SSO) and API management. In other words, it simplifies the integration between various components to provide efficient and reliable services. [^1citation]
@@ -962,6 +1261,8 @@ More modern applications of Multimedia are thought to date back to the early 196
 
 [^brown17virtual]: Brown, Johnathan, Elisa White, and Akshya Boopalan. 2017. “Looking for the Ultimate Display: A Brief History of Virtual Reality.” Boundaries of Self and Reality Online, March 3, 2017. https://www.sciencedirect.com/science/article/abs/pii/B9780128041574000128#:~:text=A%20computer%20interpreted%20the%20beams,Sturman%20%26%20Zeltzer%2C%201994).
 
+![Multimedia](images/Multimedia-Aidan.png)
+
 ![Natural language processing](images/naturallanguageprocessing-vlamis.png)[^deepmind]
 
 Natural Language Processing (NLP) is a branch of artificial intelligence that focuses on the interaction between computers and human language.[^NLPIBM] It involves developing algorithms and models that enable computers to interpret, analyze, and generate human language in a way that is both meaningful and contextually relevant. By leveraging techniques from computational linguistics and machine learning, NLP facilitates tasks such as text classification, language translation, sentiment analysis, and conversational agent development.
@@ -974,6 +1275,48 @@ Applications of NLP span a wide range of areas. For instance, machine translatio
 [^bert]: Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019. “BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding.” arXiv. https://doi.org/10.48550/arXiv.1810.04805.
 [^speechandlanguageprocessing]: Jurafsky, Dan, and James H. Martin. 2009. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. 2nd ed. Prentice Hall Series in Artificial Intelligence. Upper Saddle River, N.J: Pearson Prentice Hall.
 [^NLPIBM]: Stryker, Cole, and Jim Holdsworth. n.d. “What Is NLP (Natural Language Processing)? | IBM.” IBM. Accessed February 19, 2025. https://www.ibm.com/think/topics/natural-language-processing.
+
+## Net Neutrality
+
+### Definition
+Net neutrality is the principle that all data on the internet should be treated equally by internet service providers (ISPs), without discrimination or preferential treatment based on the type of content, user, website, or platform. [^wu03discrimination] It ensures that ISPs cannot block, throttle, or prioritize certain types of internet traffic, maintaining an open and level playing field for all online activities. [^schewick10internet]
+
+### Significance in New Media
+Net neutrality is a cornerstone of digital democracy and innovation in new media. It ensures that the internet remains a public resource where users have equal access to information and services, fostering creativity, competition, and free expression. [^kimball22battle] Without net neutrality, ISPs could control what users see and do online, potentially stifling innovation and limiting access to diverse viewpoints. [^mcchesney13disconnect]
+However, the debate over net neutrality also highlights tensions between corporate power, government regulation, and public interest. As Danny Kimball notes in Net Neutrality and the Battle for the Open Internet, the fight for net neutrality is not just about technical regulations but about preserving the internet as a space for democratic discourse and cultural production. [^kimball22battle]
+
+### Relation to Current Technologies and Media Practices
+Net neutrality is deeply intertwined with contemporary digital technologies and practices:
+- **Streaming Services:** Without net neutrality, ISPs could throttle streaming platforms like Netflix or YouTube, forcing them to pay for faster access or degrading their performance. [^wu03discrimination]
+- **Emerging Technologies:** Technologies like 5G, IoT (Internet of Things), and cloud computing rely on an open internet to function effectively. Net neutrality ensures that these innovations are not hindered by ISP interference. [^schewick10internet]
+- **Social Media and Content Creation:** Platforms like TikTok, Instagram, and YouTube depend on equal access to bandwidth. Without net neutrality, ISPs could prioritize their own content or charge creators for faster upload speeds, disadvantaging smaller creators. [^kimball22battle]
+
+### Historical Origins
+The concept of net neutrality is rooted in the design principles of the early internet and the regulatory traditions of telecommunications:
+- **End-to-End Principle:** The internet was built on the end-to-end principle, which emphasizes that intelligence and functionality should reside at the edges of the network (users and applications) rather than in the core (ISPs). This principle, as explained by Barbara van Schewick in Internet Architecture and Innovation, ensures that the network remains neutral, allowing for permissionless innovation and equal access for all users. [^kimball22battle]
+- **Common Carrier Tradition:** The idea of treating all data equally draws from the common carrier principle in telecommunications, which required phone companies to treat all calls equally without discrimination. This tradition influenced early debates about how broadband internet should be regulated. [^wu03discrimination]
+
+The term "net neutrality" itself emerged in the early 2000s as broadband internet became more widespread, and concerns grew about ISPs potentially abusing their control over infrastructure to discriminate against certain types of traffic. [^schewick10internet]
+
+### Key Figures
+- **Tim Wu:** He coined the term "net neutrality" in his 2003 paper "Network Neutrality, Broadband Discrimination." Wu argued that ISPs should not be allowed to discriminate between different types of internet traffic, drawing parallels to the common carrier principle in telecommunications. His work laid the theoretical foundation for net neutrality advocacy. [^wu03discrimination]
+- **Barbara van Schewick:** A leading scholar on internet architecture, van Schewick’s book *Internet Architecture and Innovation* provides a detailed analysis of how the internet’s design fosters innovation and why net neutrality is essential to maintaining this ecosystem. [^schewick10internet]
+- **Free Press:** A media advocacy group that played a pivotal role in mobilizing public support for net neutrality through campaigns like Save the Internet. Their efforts were instrumental in shaping the public discourse around net neutrality and pushing for regulatory action.
+- **FCC and Tom Wheeler:** The Federal Communications Commission, under Chairman Tom Wheeler, led the effort to reclassify broadband under Title II of the Communications Act in 2015, enabling the enforcement of net neutrality rules. This decision marked a significant victory for net neutrality advocates. [^mcchesney13disconnect]
+
+### Influence on Contemporary Digital Culture and Society
+Net neutrality has profound implications for digital culture and society:
+- **Democracy and Free Expression:** An open internet ensures that diverse voices can be heard, fostering democratic discourse and cultural diversity. [^mcchesney13disconnect]
+- **Economic Innovation:** By preventing ISPs from picking winners and losers, net neutrality allows startups and small businesses to compete on equal footing with established players. [^schewick10internet]
+- **Global Impact:** The principles of net neutrality have influenced internet governance debates worldwide, with countries like India and the European Union adopting their own net neutrality regulations. [^kimball22battle]
+
+![Net Neutrality](images/netneutrality-lapierrefurtado.png)
+* *ChatGPT used to generate this image, Prompt: "Generate an image that represents the New media keyword "net neutrality", make it thoughtful and contemplative, based on the style of The Medium is The Massage by Marshall McLuhan and Quentin Fiore; and The Extreme Self by Hans Ulrich Obrist, Shumon Basar, and Douglas Coupland. Drawing inspiration from Babbage, Hayles, Lovelace, McLuhan, Nelson, Turing, Wiener, and others, expand on the media keywords and create a critical collage. This is not just an illustration of the concept, but it is a critical visual commentary, where the concept is presented and a commentary is provided."*
+
+[^wu03discrimination]: Wu, Tim. 2003. “Network Neutrality, Broadband Discrimination.” SSRN Electronic Journal 2. https://doi.org/10.2139/ssrn.388863.
+[^schewick10internet]: Barbara van Schewick. 2010. Internet Architecture and Innovation. The MIT Press EBooks. The MIT Press. https://doi.org/10.7551/mitpress/7580.001.0001.
+[^kimball22battle]: Kimball, Danny. 2022. Net Neutrality and the Battle for the Open Internet. Ann Arbor, Michigan: University of Michigan Press. https://doi.org/10.3998/mpub.10067550.
+[^mcchesney13disconnect]: McChesney, Robert W. 2013. Digital Disconnect: How Capitalism Is Turning the Internet against Democracy. The New Press. https://doi.org/10.3998/mpub.10067550.
 
 ## Neural Networks
 
@@ -1002,6 +1345,29 @@ To conclude, since the first trainable neural network was demonstrated by Frank 
 [^thisisacitation5]: Sharkawy, Abdel-Nasser. 2020. "Principle of Neural Network and Its Main Types: Review." *Journal of Advances in Applied & Computational Mathematics*. https://www.researchgate.net/publication/343837591_Principle_of_Neural_Network_and_Its_Main_Types_Review.
 [^thisisacitation6]: MIT News. 2017. "Explained: Neural Networks." *MIT News*. https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414.
 [^thisisacitation7]: Evans, Owain. 2019. "Sensory Optimization: Neural Networks as a Model for Understanding and Creating Art." arXiv preprint. https://arxiv.org/abs/1911.07068.
+
+## Non-Fungible Tokens (NFTs)
+
+
+Non-Fungible Tokens (NFTs) are unique digital assets that use a blockchain technology to be verified. They represent a specific item or content like digital art, music, or virtual real estate. It’s different from cryptocurrencies like Bitcoin or Ethereum [^ethereum.org], because they can be exchanged very easily from person to person but NFTs can’t. NFTs are different and can’t be exchanged like that because each token has unique attributes and different values. NFT’s importance in the world of new media can be seen through the way it has revolutionized the way digital content is made and sold by adding a mechanism for artists to monetize their work directly without need for other parties [^nature.com]. This invention has inspired the creators by giving them more control over their own intellectual property and has brought new ways for digital ownership. In the area of new media, NFTs have inspired a wave of virtual galleries and digital collectibles and has re-designed the way digital culture and commerce works. NFTs use blockchain technology to show the authenticity and ownership of digital assets. They have been used with many platforms, including:
+
+Digital Art Platforms: Artists use NFTs to sell their digital artworks on platforms like OpenSea and Rarible, keeping the royalties through smart contracts.
+
+Gaming: In-game assets, like characters and items, are seen as NFTs, players can own, trade, and monetize their virtual possessions.
+
+Virtual Real Estate: Platforms like Decentraland and The Sandbox allow users to buy, sell, and develop virtual lands as NFTs, making new virtual economies.
+
+
+The idea for NFTs became popular when ERC-721 standard on the Ethereum blockchain in 2018 was introduced. Early experiments with NFT assets date back to 2012 with projects like Colored Coins on the Bitcoin blockchain [^aisnet.org]. But it was the ERC-721 standard that gave a framework for NFTs to be adopted all over the world. The blockchain game CryptoKitties, launched in 2017, is also credited with bringing mainstream attention to NFTs by allowing players to collect and trade unique digital cats. NFTs have also drastically affected digital culture and society by redefining art ownership, they have gone against the normal ideas of art distribution, and allowed for digital artists to gain recognition and revenue. NFTs have also decentralized economies where creators and consumers engage directly. There is the issue concerning the environmental impact of blockchain technologies used on minting NFTs. Some examples of famous NFTs are Beeple's “Everydays: The First 5000 Days” which is a digital artwork sold as an NFT for $69 million at Christie's auction house in 2021 [^wsj.com]. Another one was CryptoPunks which was one of the earliest NFT projects, featuring 10,000 unique 24x24 pixel art characters, which have become highly desired digital collectibles. And lastly, Bored Ape Yacht Club is a collection of 10,000 unique ape NFTs that grant owners exclusive access to virtual events and communities, which shows how they can combine digital art and social experiences.[^chat.openai.com]
+
+
+
+[^ethereum.org]: Entriken, William, Dieter Shirley, Jacob Evans, and Nastassia Sachs. “_ERC-721 Non-Fungible Token Standard._” Ethereum Improvement Proposals, 2018. (https://eips.ethereum.org/EIPS/eip-721).  
+[^nature.com]: Nadini, Matthieu, Laura Alessandretti, Flavio Di Giacinto, Mauro Martino, Luca Maria Aiello, and Andrea Baronchelli. “_Mapping the NFT Revolution: Market Trends, Trade Networks, and Visual Features._” Scientific Reports 11, no. 1 (2021): 20902. (https://doi.org/10.1038/s41598-021-00053-8).  
+[^aisnet.org]: Regner, Ferdinand, André Schweizer, and Nils Urbach. “_NFTs in Practice – Non-Fungible Tokens as Core Component of a Blockchain-Based Event Ticketing Application._” In _Proceedings of the 40th International Conference on Information Systems (ICIS)_, Munich: Association for Information Systems, 2019. (https://aisel.aisnet.org/icis2019/blockchain_fintech/blockchain_fintech/1/).  
+[^wsj.com]: Zimmer, Ben. “_'Fungible': The Idea in the Middle of the NFT Sensation._” The Wall Street Journal, April 16, 2021. (https://www.wsj.com/articles/fungible-the-idea-in-the-middle-of-the-nft-sensation-11618595061).  
+[^chat.openai.com]: ChatGPT. Response to “_Fix my spelling mistakes and make it read more professional,_” March 8, 2025. (https://chat.openai.com).  
+
 
 ## Online Community
 Creating online communities means using the internet to bring people together, helping them interact, and making them feel like they belong to a group. 
@@ -1059,6 +1425,71 @@ Although the term originated from a software context and is most commonly used i
 
 [^opensource]: "Open Source Software." Wikipedia. February 2, 2025. https://en.wikipedia.org/wiki/Open_source_software.
 
+## Operating System (OS)
+
+ An operating system is a fundamental software layer, often intrinsic to a piece of hardware, that manages hardware resources and essential services for computer programs. Operating systems essentially serve as an intermediary between users, applications/programs, and computer hardware. In new media contexts, operating systems are crucial for managing time-dependent data and supporting multimedia applications with specific performance requirements. [^candtsolution2024]
+#### Historical Evolution: 
+The first portable operating system was developed in 1969 by Ken Thompson and Dennis Ritchie at Bell Labs, called UNIX. Since then, operating systems have evolved through four major generations. From UNIX's basic single-task capabilities, through IBM's OS/360 multitasking system, to MS-DOS (1981), and finally to modern Windows-based systems (1993 onwards) capable of handling many more tasks, with increased speed and efficiency. Each generation brought significant advances in functionality and user accessibility.
+#### Challenges and Evolution: 
+Operating systems have evolved from simple systems to sophisticated platforms capable of handling variable bit rate media, complex user interactions, as well as globally distributed multimedia applications. Current development focuses on balancing resource management with the unpredictable demands of modern multimedia applications; all while maintaining consistent performance and quality in an ever changing technological landscape (hardware and software). [^logan2024]
+#### Significance in New Media:
+- Operating systems provide efficient management of multimedia streams with precise timing requirements (Think user interactivity & real time collaboration softwares)
+- Provides quality guarantees, essential for new and computationally expensive media applications, allowing people to create digital media with a level of trust and security in the robustness and foundation of their operating system.
+- Supports distributed multimedia systems and real-time media processing
+- Essentially, operating systems provide a framework for people to create and interact with new media. It is the interface between the unseen, inner mechanisms of a computer system, and the flexible world of software development and new media. 
+#### Key Examples:
+- Distributed multimedia systems for distance learning, managing simultaneous audio, video, and interactive whiteboard data 
+- Real-time media processing systems requiring precise synchronization
+- Modern storage systems optimized for multimedia content delivery [^plagemann2000]
+
+##### References
+
+[^plagemann2000]: Plagemann, Thomas, Vera Goebel, Pål Halvorsen, and Otto Anshus. 2000 "Operating System Support for Multimedia Systems." *Computer Communications 23, no. 3 *: 267-289. https://doi.org/10.1016/s0140-3664(99)00180-2.
+
+[^logan2024]: Logan, Luke, Jay Lofstead, Xian-He Sun, and Anthony Kougkas. 2024 "An Evaluation of DAOS for Simulation and Deep Learning HPC Workloads." *SIGOPS Operating Systems Review 58, no. 1*
+
+[^candtsolution2024]: C&T Solution Inc. 2024. "What is an Operating System (OS)?" *C&T Solution Inc.*. https://www.candtsolution.com/news_events-detail/what-is-an-operating-system/.
+
+## Pantone
+
+In 1963, Lawrence Herbert created the Pantone Matching System. Working for a commercial printing company 
+named Pantone, he came up with a way to make colors more accurate in printing.[^KiernanPottedHistory] By having specific names 
+and codes for each color, artists and designers could choose the specific color they wanted and have it stay 
+consistent across their work.
+
+The way Pantone colors work also increases the quality of print. Instead of using CMYK to create different 
+colors, Pantone mixes the ink and has the color ready. With CMYK printing, it’s typically an overlay of small 
+dots crossing over each other to create the wanted color. However, with Pantone colors, there aren’t those 
+small dots, the color can be printed evenly everywhere, making designs look more crisp. Additionally, Pantone 
+provides a wide variety of colors, some that are impossible to create with CMYK. For example, there are 
+fluorescent or metallic inks.[^wageningen]
+
+ In the 1980s Pantone was integrated into a variety of different softwares to help creators have more accurate
+ color picking options. Companies such as Xerox Corporation, Adobe Systems Inc. and Canon Inc. implemented 
+ the colors so work on screen could translate more effectively to physical mediums.[^pantoneWebsite] 
+
+
+The Pantone Matching System doesn’t just affect printing on paper but is also used for all types of color 
+work. Pantone colors can be used in textiles, plastics, coatings and paints. Because of the accurate 
+color matching across multiple mediums, branding using color was simplified. Companies and products could 
+claim a specific Pantone color and use it across their branding, making them more recognizable to consumers. 
+Examples of such branding can be seen in Coca Cola red, Barbie pink and even countries have chosen 
+specific Pantone colors for their flags. [^davisHistoryPantone]
+
+![Pantone](images/pantone-wong.png)
+Tool: Dall-e. Prompt transcript: "please create an image of the concept of pantone colors and how their invention influenced the design world. Prioritize inks and colourful." "less dramatic please" "No, I want it colourful and fun and engaging but not with religious undertones"
+
+Prompt link: https://chatgpt.com/share/67cf51ac-1900-800d-b04e-95bd151ed4ba
+
+
+[^pantoneWebsite]: “About Pantone”, Pantone, accessed March 8 2025, https://www.pantone.com/about-pantone?srsltid=AfmBOook_lr6H-HCkeBTFO3NIz-Wk0zztUeb1KL7jAISTQtmY23C7jsb
+[^davisHistoryPantone]: Emma Davis. “The History Behind Pantone Colors” *4Over4*. 2014. Accessed March 8, 2025. https://www.4over4.com/content-hub/stories/the-history-behind-pantone-colors?srsltid=AfmBOopz7FZPOXlmA_lg96mRrgdoHjZDMQlDHsddZzG9FHtveth58hGX
+[^KiernanPottedHistory]: Steven Kiernan, “Pantone: A Potted History.” *Printing World* 17, no.10 (2008): 68-69. Accessed March 8, 2025. https://web-p-ebscohost-com.lib-ezproxy.concordia.ca/ehost/pdfviewer/pdfviewer?vid=1&sid=3ae1dfec-067b-4908-aef4-de1ce9d6fa81%40redis
+[^wageningen]:Mark van Wageningen, *Type and Color : How to Design and Use Multicolored Typefaces.* trans. Marie Frohling ( New York: Princeton Architectural Press, 2019), 118.
+
+
+
+
 ## PHP
 
 **PHP (Hypertext Preprocessor)** is a widely used, open-source scripting language designed primarily for web development. It is embedded into HTML to create dynamic web pages and can interact with databases, manage sessions, and process forms. 
@@ -1091,6 +1522,70 @@ In conclusion, PHP remains a foundational technology in new media, driving the i
 
 
 
+## post-Humanism 
+Emerging in the late 20th and 21st centuries, posthumanism critiques Eurocentric humanism, which positions humans at the center of the universe, and explores the interdependence of all matter—humans, animals, plants, and technology.[^K23Post]
+
+Post-humanism can also be connected to the science fiction portrayal of superheroes who use technology to enhance their abilities, blurring the line between human and non-human [^Paul23Trans]. 
+These technologies—ranging from artificial intelligence (AI) to advanced robotics—are shaping society by providing access to amounts of information and expanding human intelligence.
+As these technologies evolve, they challenge traditional human capabilities, fundamentally altering the nature of consciousness itself. 
+
+Post-humanism is significant in the context of current technologies because innovations like AI are transforming how people think and process information, accelerating cognitive abilities in ways that were impossible. 
+The rise of AI, for instance, allows humans to interact with and analyze information faster, opening up new avenues for creativity and problem-solving.
+This shift is fundamentally reshaping what it means to be human, pushing beyond the biological limits and revaluating human capacity in the digital age. 
+
+As post-humanism becomes more intertwined with technological development [^Scott16The], it challenges the categorization of human vs. non-human
+and raises questions about fairness, equality, and the ethics of technological enhancements. 
+
+![post-humanism](images/post-humanism-sanchez.jpeg)
+
+[^Paul23Trans]:Matthewa, Paul. 2023. Transparent Minds in Science Fiction: An Introduction to Alien, Ai and Post-Human Consciousness. Cambridge, Uk: Open Book Publishers. https://books.openbookpublishers.com/10.11647/obp.0348.pdf 
+[^Scott16The]:Jeffery, Scott. 2016. Posthuman Body in Superhero Comics : Human, Superhuman, Transhuman, Post/Human. New York: Palgrave Macmillan. https://doi.org/10.1057/978-1-137-54950-1.
+[^K23Post]: Nayar, Pramod K. 2023. Post-Humanism. Oxford Bibliographies: Oxford University Press. https://www.oxfordbibliographies.com/display/document/obo-9780190221911/obo-9780190221911-0122.xml 
+
+## QR Code
+ 
+QR code(quick-response code) is a type of two-dimensional code, first invented by a Japanese company Denso Wave in 1994[^wiki25Denso]. Compared to a regular barcode, a QR code has a faster reading speed and a higher storage capacity. In terms of recognition, a QR code does not require precise alignment with the scanner like a one-dimensional barcode does. It has a maximum error correction capability of 30%, meaning that even if up to 30% of the QR code is damaged, it can still be recognized. Today, QR codes are used in various fields such as payment, identity verification, logistics management, and marketing promotion. 
+
+
+### History 
+1994 : Denso Wave publicly announced QR Codes 
+
+2002: Due to BSE (commonly known as the “mad cow disease”), QR gained attention and was applied in the manufacturing industry and supply chains.
+
+2017: Both Apple's iOS 11 and Android 8.0 have incorporated QR code scanning as a native system feature.
+
+2020: Due to COVID-19, QR codes have been used for payments and accessing menus to reduce physical contact. In some countries, QR codes are also used for COVID-19 contact tracing.
+[^Uniqode24Paul]
+
+
+### Uses 
+#### Payment 
+A QR code can store information such as payment account details, transaction amounts, and order information.When a user or merchant scans the QR code, the payment system quickly reads and decodes the embedded information, then sends the transaction request to the bank or digital wallet for identity verification, deduction, and transfer.In China, 95.7% of Chinese users prefer the QR code payment method.This new payment method has also facilitated the development of local e-commerce in China.[^QRT2025Ricson]
+
+#### Restaurant ordering 
+QR Code ordering is a method of placing food orders using QR code technology. Customers scan the QR code on the table, browse the menu, select dishes, and complete the payment directly on their smartphones, without the need for traditional paper menus or waiter intervention. QR Code ordering enhanced guest safety during the pandemic. It not only speeds up the service but also reduces the workload on staff, allowing them to focus on enhancing customer service elsewhere.At the same time, by reducing the use of paper menus, its application also helps protect the environment.[^Ovidius2024Anca]
+
+#### QR code ticket 
+QR Code Ticket uses QR code technology to function as an electronic ticket. This type of ticket contains all the necessary attendee information in a scannable format, and is commonly used in various scenarios such as events, travel, and entertainment, including concerts, movies, sports events, and train or flight tickets.
+
+#### Supply chain management 
+QR codes can be used in supply chain management to provide digital identification for products, goods, equipment, or documents, making data collection, tracking, management, and sharing more convenient and efficient. In terms of security features, QR codes have characteristics such as data immutability, fair and secure access, total transparency, enhanced traceability, and real-time validation.[^AICCSA2023Munir]
+
+### Example
+![qr-code](images/qr-code-example.png)[^researchG2013ruil]
+
+
+[^wiki25Denso]: Wikipedia. 2025. "Denso." last modified on 7 February 2025. https://en.wikipedia.org/wiki/Denso.
+
+[^Uniqode24Paul]: Uniqode. 2025. "QR Code History." Last modified March 7, 2025. https://www.uniqode.com/blog/qr-code-basics/qr-code-history.
+
+[^QRT2025Ricson]: QR Code Tiger. 2022. "QR Code Statistics 2022 Q1." Last modified March 7, 2022. https://www.qrcode-tiger.com/qr-code-statistics-2022-q1#toc_overall_qr_code_growth.
+
+[^Ovidius2024Anca]: Anca Popescu, Nicoleta Andreea Neacsu. 2024. "QR Code Menus: Exploring the Role of QR Codes in Enhancing Operational Efficiency and Customer Engagement in Restaurants and Cafes." *Ovidius University Annals, Economic Sciences Series* 24(1). https://concordiauniversity.on.worldcat.org/search/detail/10455650155?queryString=qr%20CODE%20menu&bookReviews=off&newsArticles=off&databaseList=&clusterResults=true&groupVariantRecords=false.
+
+[^AICCSA2023Munir]: Munir Majdalawieh. 2023. "Supply Chain Management Using Blockchain and QR Codes." in *2023 20th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA)* December 04-07. IEEE. https://concordiauniversity.on.worldcat.org/search/detail/10203810730?queryString=Building%20Trust%20in%20Supply%20Chains%3A%20The%20Blockchain-QR%20Code%20Advantage&bookReviews=off&newsArticles=off&databaseList=&clusterResults=true&groupVariantRecords=false.
+
+[^researchG2013ruil]: Ruilopezia, A. 2013. "Examples of Potential Uses of QR Codes in Natural History Collections." *ResearchGate*. https://www.researchgate.net/figure/Examples-of-potential-uses-of-QR-codes-in-Natural-History-collections-A-Ruilopezia_fig1_258337578.
 ## Quantum computing
 Quantum computing is a branch of computing that challenges classical computation by leveraging principles of quantum mechanics to process information. Qubits are the core and can be both 0 and 1 simultaneously. Due to this, it can perform complex calculations exponentially faster than traditional computation. [^1citation]
 
@@ -1229,6 +1724,48 @@ Search Engine Optimization is important in new media, since it shapes how users 
 [^santhoshSEO]:Santhosh, R.2018. “A Survey on Search Engine Optimization and Google's Search Engine Algorithms”. International Journal of Distributed and Cloud Computing 6, no. 1: 11. Accessed January 29, 2025. https://concordiauniversity.on.worldcat.org/atoztitles/link?genre=article&issn=23216840&title=International%20Journal%20of%20Distributed%20%26%20Cloud%20Computing&volume=6&issue=1&date=20180101&atitle=A%20Survey%20on%20Search%20Engine%20Optimization%20and%20Google%27s%20Search%20Engine%20Algorithms.&spage=11&pages=11-18&ID=doi:&id=pmid:&sid=EBSCO:Computers%20%26%20Applied%20Sciences%20Complete&au=Santhosh%2C%20R
 
 [^imageSEO]:WIOR Magnifying Glass. 2025. "WIOR Magnifying Glass, 30X Handheld Magnifier." Amazon. Accessed February 8, 2025. https://www.amazon.com/WIOR-Magnifying-Magnifier-Magnification-Inspection/dp/B07RQ576YT
+
+## Stable Diffusion
+
+Stable Diffusion is a deep-learning model designed for generating high-quality images from text prompts. Developed by Stability AI and released in 2022, it is an open-source latent diffusion model (LDM) that enables users to create photorealistic and artistic images with greater accessibility. Compared to earlier AI image generators, Stable Diffusion offers improved efficiency, control, and customization, making it a significant tool in digital art and media production.[^rombach22high]
+
+Stable Diffusion operates using diffusion models, which gradually refine an image from noise through iterative denoising. Unlike Generative Adversarial Networks (GANs), which often struggle with mode collapse and high computational costs, diffusion models generate more consistent and high-resolution results. [^ho20denoising] This technology has led to widespread applications in digital art, game development, and AI-assisted design, shaping the future of new media and creative industries.
+
+Stable Diffusion is particularly important in new media studies due to its impact on AI-generated content, digital storytelling, and interactive media. As an open-source tool, it enables artists and developers to create customized AI models, democratizing access to advanced image-generation technology. Moreover, its ability to synthesize high-fidelity visuals from simple text descriptions aligns with contemporary generative media trends, allowing for new forms of creative expression and digital content production. [^mccormack23ai]
+
+Applications in Digital Media: 
+AI-Generated Art – Used by artists to create original artworks, concepts, and illustrations.
+Game Development – Generates textures, assets, and backgrounds dynamically.
+AI-Enhanced Storytelling – Used in film, animation, and virtual world creation.
+
+## Training Methodology
+
+The breakthrough of Stable Diffusion lies in its migration of the diffusion process from high-dimensional pixel space to a compressed latent space, enabling efficient operation on consumer-grade GPUs. Training begins with processing billions of text-image pairs (e.g., LAION-5B dataset): textual descriptions are encoded into semantic features via CLIP, while images are compressed into 64×64 latent representations using a variational autoencoder (VAE), reducing computational load by 97%.
+
+The core architecture employs an enhanced U-Net network, where an encoder-decoder structure with residual connections processes multi-scale features. Text conditioning is integrated through cross-attention mechanisms within the latent space. A cosine noise scheduler governs the diffusion process, prioritizing global structure learning in early training phases and fine detail refinement in later stages[^ho20denoising].
+
+The training pipeline comprises two phases: initial pre-training uses mean squared error loss to teach noise prediction for image reconstruction, followed by fine-tuning with human-preference-guided reinforcement learning (e.g., Proximal Policy Optimization/PPO) to enhance aesthetic quality. While full training demands 150,000 compute hours on clusters of 64-256 A100 GPUs, open-source platforms like Hugging Face have democratized access through distributed training frameworks.
+
+
+[^rombach22high]: Rombach, Robin, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn Ommer. 2022. "High-Resolution Image Synthesis with Latent Diffusion Models." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. https://arxiv.org/abs/2112.10752.
+
+[^ho20denoising]: Ho, Jonathan, Ajay Jain, and Pieter Abbeel. 2020. "Denoising Diffusion Probabilistic Models." *Advances in Neural Information Processing Systems* 33: 6840–6851. https://arxiv.org/abs/2006.11239.
+
+[^mccormack23ai]: McCormack, Jon, Oliver Bown, Simon Colton, and Mark d’Inverno. 2023. "AI and Creativity: A Critical Examination." *Journal of Artificial Intelligence Research* 76: 143–167. https://doi.org/10.1613/jair.1.13544.
+
+## Streaming
+
+Streaming is a term used to describe the transmission of data across multiple networks on a given device or [computer](../main/glossary.md#computer). The idea of streaming was first seen within the novel *Looking Backward* by Edward Bellamy. It presents a "music room" where music is transfered and transported by phone lines seamlessly into every home.[^harvey14station]
+
+Nowadays, streaming takes on multiple forms, including music, video, live, and on-demand. Streaming websites such as YouTube and Twitch have blown up in popularity, and the entertainment and movie industry has also followed suit, with large corporations such as Netflix and Disney resorting to the creation of streaming services for the general public to use to engage with their movies or TV series.[^fagerjord19mapping] 
+
+Streaming has transformed the landscape of the digital realm. It allows easy and quick accessibility for new media consumers of all types, ranging from music to TV. In fact, streaming services have displaced physical sales and digital downloads as the largest source of commercial music revenue in the US.[^chen17customer]
+
+[^harvey14station]: Harvey, Eric. 2014. "Station to station: The past, present, and future of streaming music." _Pitchfork_. Accessed March 7, 2025.
+
+[^fagerjord19mapping]: Fagerjord, Anders, and Lucy Kueng. 2019. "Mapping the Core Actors and Flows in Streaming Video Services: What Netflix Can Tell Us about These New Media Networks." _Journal of Media Business Studies_ 16 (3): 166–81. Accessed March 7, 2025.
+
+[^chen17customer]: Chen, Yi‐Min, Hsin‐Hsien Liu, and Yu‐Chun Chiu. 2017. "Customer benefits and value creation in streaming services marketing: a managerial cognitive capability approach." _Psychology & Marketing_ 34 (12): 1101-1108. Accessed March 7, 2025.
 
 ## UNIX
 
