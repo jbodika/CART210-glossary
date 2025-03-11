@@ -25,7 +25,7 @@ Examples of such branding can be seen in Coca Cola red, Barbie pink and even cou
 specific Pantone colors for their flags. [^davisHistoryPantone]
 
 ![Pantone](images/pantone-wong.png)
-Tool : Dall-e. Prompt transcript: "please create an image of the concept of pantone colors and how their invention influenced the design world. Prioritize inks and colourful." "less dramatic please" "No, I want it colourful and fun and engaging but not with religious undertones"
+Tool: Dall-e. Prompt transcript: "please create an image of the concept of pantone colors and how their invention influenced the design world. Prioritize inks and colourful." "less dramatic please" "No, I want it colourful and fun and engaging but not with religious undertones"
 
 Prompt link: https://chatgpt.com/share/67cf51ac-1900-800d-b04e-95bd151ed4ba
 
