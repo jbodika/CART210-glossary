@@ -1161,7 +1161,7 @@ Although the term originated from a software context and is most commonly used i
 
 [^opensource]: "Open Source Software." Wikipedia. February 2, 2025. https://en.wikipedia.org/wiki/Open_source_software.
 
-## Pantonoe
+## Pantone
 
 In 1963, Lawrence Herbert created the Pantone Matching System. Working for a commercial printing company 
 named Pantone, he came up with a way to make colors more accurate in printing.[^KiernanPottedHistory] By having specific names 
