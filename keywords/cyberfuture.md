@@ -9,11 +9,11 @@ This idea of “virtual life-space” as discussed by Hamelink seems a popular o
 
 When considering the effects of modern and developing technologies on human society, the discussion is automatically linked to cyberfuture, as any developments of human society involving an integration of technology is such a future.
 
-[^wiktionary25cyberfuture]: “Cyberfuture - Wiktionary, The Free Dictionary.” Wiktionary. Accessed March 8, 2025. https://en.wiktionary.org/wiki/cyberfuture#:~:text=cyberfuture%20(plural%20cyberfutures),around%20cyberspace%20or%20computer%20technology. 
+[^wiktionary25cyberfuture]: 2025.“Cyberfuture - Wiktionary, The Free Dictionary.” *Wiktionary*. https://en.wiktionary.org/wiki/cyberfuture#:~:text=cyberfuture%20(plural%20cyberfutures),around%20cyberspace%20or%20computer%20technology. 
 
-[^franck98imagining]:  FRANCK, KAREN A. 1998. “Imagining as a Way of Knowing: Some Reasons for Teaching ‘Architecture of Utopia.’” Utopian Studies 9, no. 1 : 120–41. http://www.jstor.org/stable/20719746.
+[^franck98imagining]:  FRANCK, KAREN A. 1998. “Imagining as a Way of Knowing: Some Reasons for Teaching ‘Architecture of Utopia.’” *Utopian Studies* 9, no. 1 : 120–41. http://www.jstor.org/stable/20719746.
 
-[^Hamelink98human]:HAMELINK, Cees J., A. L. Cobb, M. J. Edwards, P. van Eecke, N. H. Faraqui, S. Garipis, L. d’Haenens, et al. 1999. “HUMAN RIGHTS IN CYBERSPACE.” In Cyberidentities: Canadian and European Presence in Cyberspace, edited by Leen d’Haenens, 31–46. University of Ottawa Press. https://doi.org/10.2307/j.ctt1cn6rfb.6.
+[^Hamelink98human]:Hamelink, Cees J. 1999. “Human Rights in Cyberspace.” In *Cyberidentities: Canadian and European Presence in Cyberspace*, edited by Leen d’Haenens, 31–46. Ottawa: University of Ottawa Press. https://doi.org/10.2307/j.ctt1cn6rfb.6.​
 
 
 
