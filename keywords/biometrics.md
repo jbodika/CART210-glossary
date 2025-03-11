@@ -1,4 +1,3 @@
-
 ## Biometrics 
 
 Biometrics refers to the use of the physical or behaivour characteristics for identifiying 
@@ -25,7 +24,9 @@ instance, not all individuals may be able to use biometric systems effectevely d
 disabilities. The collection of the data storage and use can lead legal and ethical concerns. 
 Without proper regulation, individuals may be subjected to excessive surveillance.
 
+![biometrics](images/biometrics-Sanchez.png)
+
 [^Yingzi12Bi]:Du Yingzi. 2012. Biometrics: From Fiction to Practice. Singapore: Pan Stanford Pub. http://www.crcnetbase.com/isbn/9789814364133. 
 [^Arte08Bi]:ARTE France, Films for the Humanities & Sciences (Firm), and Films Media Group. 2008. Biometrics. New York, N.Y.: Films Media Group. http://digital.films.com/PortalPlaylists.aspx?aid=37189&xtid=39552.
 [^Centre21BiCa]: Cyber Centre. (2021, September). Biometrics (ITSP.00.19). Canadian Centre for Cyber Security. https://www.cyber.gc.ca/en/guidance/biometrics-itsap00019 
-![biometrics](images/biometrics-Sanchez.png)
+
