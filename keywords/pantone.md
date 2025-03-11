@@ -1,4 +1,4 @@
-## Pantonoe
+## Pantone
 
 In 1963, Lawrence Herbert created the Pantone Matching System. Working for a commercial printing company 
 named Pantone, he came up with a way to make colors more accurate in printing.[^KiernanPottedHistory] By having specific names 
