@@ -1,5 +1,5 @@
 ## Operating System (OS)
-#### Simple Definition:
+
  An operating system is a fundamental software layer, often intrinsic to a piece of hardware, that manages hardware resources and essential services for computer programs. Operating systems essentially serve as an intermediary between users, applications/programs, and computer hardware. In new media contexts, operating systems are crucial for managing time-dependent data and supporting multimedia applications with specific performance requirements. [^candtsolution2024]
 #### Historical Evolution: 
 The first portable operating system was developed in 1969 by Ken Thompson and Dennis Ritchie at Bell Labs, called UNIX. Since then, operating systems have evolved through four major generations. From UNIX's basic single-task capabilities, through IBM's OS/360 multitasking system, to MS-DOS (1981), and finally to modern Windows-based systems (1993 onwards) capable of handling many more tasks, with increased speed and efficiency. Each generation brought significant advances in functionality and user accessibility.
