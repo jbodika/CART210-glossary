@@ -147,9 +147,12 @@ instance, not all individuals may be able to use biometric systems effectevely d
 disabilities. The collection of the data storage and use can lead legal and ethical concerns. 
 Without proper regulation, individuals may be subjected to excessive surveillance.
 
-[^Yingzi12Bi]:Du Yingzi(Eliza).2013. Biometrics: From Fiction to Practice. Singapore: Pan Stanford Pub. http://www.crcnetbase.com/isbn/9789814364133. 
+![biometrics](images/biometrics-Sanchez.png)
+
+[^Yingzi12Bi]:Du Yingzi. 2012. Biometrics: From Fiction to Practice. Singapore: Pan Stanford Pub. http://www.crcnetbase.com/isbn/9789814364133. 
 [^Arte08Bi]:ARTE France, Films for the Humanities & Sciences (Firm), and Films Media Group. 2008. Biometrics. New York, N.Y.: Films Media Group. http://digital.films.com/PortalPlaylists.aspx?aid=37189&xtid=39552.
 [^Centre21BiCa]: Cyber Centre. (2021, September). Biometrics (ITSP.00.19). Canadian Centre for Cyber Security. https://www.cyber.gc.ca/en/guidance/biometrics-itsap00019 
+
 
 ## Blog
 A blog, short for "weblog," is an online platform where individuals or groups publish content in reverse chronological order.
@@ -414,6 +417,23 @@ BONUS: Last fall session, I created a website to help both students and curious 
 #### [Check the HTML here](./html.md)
 #### [Check the PHP here](./php.md)
 
+
+## Cultural Determinism 
+
+Cultural determinism is the theory that human behavior, identity, and group dynamics are shaped primarily by cultural factors[^OxCul] such as norms, beliefs, and values.
+It reflects that a person's or group's social context, including their cultural construction, determines how they perceive the world, behave, and interpret experiences.
+This framework suggests that mental illness, social roles, and even individual actions are products of cultural expectations rather than biological or normal factors [^Meford01Cult]. 
+Cultural determinism often critiques the idea that behavior is biologically determined, proposing instead that it is molded by the societal and cultural systems within which individuals live.
+
+Cultural determinism is especially relevant in the context of digital technologies and platforms. 
+In virtual environments, identities and norms are often constructed and reinforced through algorithms[^Mike80Cult] that prioritize certain types of content, reinforcing specific cultural ideals. 
+Social media platforms, such as Instagram and TikTok, exemplify how cultural values around body image, success, and lifestyle are propagated and amplified. 
+
+Cultural determinism in the digital medium also raises controversial questions about free will, personal autonomy, and the power of technology in shaping behavior.
+
+[^Meford01Cult]:Spiro, Melford E. 2001. “Cultural Determinism, Cultural Relativism, and the Comparative Study of Psychopathology.” Ethos 29, no.2 (2001): page range. https://www-jstor-org.lib-ezproxy.concordia.ca/stable/640637?seq=1 
+[^Mike80Cult]:López, Mike. “Cultural Determinism, Educational Achievement, and a Brief Lesson on Chicano Studies.” The Clearing House 53, no. 6 (1980): 292–94. http://www.jstor.org/stable/30197897. 
+[^OxCul]:Oxford Review. (n.d.). Cultural determinism: Definition and explanation. The Oxford Review. https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/cultural-determinism-definition-and-explanation/ 
 
 ## Cyberculture
 
@@ -1120,6 +1140,26 @@ In conclusion, PHP remains a foundational technology in new media, driving the i
 [^wikipedia25php]: Wikipedia. 2025. “PHP.” _Wikipedia_, February 9, 2025. https://en.wikipedia.org/w/index.php?title=PHP&oldid=1274907653.  
 
 
+
+## post-Humanism 
+Emerging in the late 20th and 21st centuries, posthumanism critiques Eurocentric humanism, which positions humans at the center of the universe, and explores the interdependence of all matter—humans, animals, plants, and technology.[^K23Post]
+
+Post-humanism can also be connected to the science fiction portrayal of superheroes who use technology to enhance their abilities, blurring the line between human and non-human [^Paul23Trans]. 
+These technologies—ranging from artificial intelligence (AI) to advanced robotics—are shaping society by providing access to amounts of information and expanding human intelligence.
+As these technologies evolve, they challenge traditional human capabilities, fundamentally altering the nature of consciousness itself. 
+
+Post-humanism is significant in the context of current technologies because innovations like AI are transforming how people think and process information, accelerating cognitive abilities in ways that were impossible. 
+The rise of AI, for instance, allows humans to interact with and analyze information faster, opening up new avenues for creativity and problem-solving.
+This shift is fundamentally reshaping what it means to be human, pushing beyond the biological limits and revaluating human capacity in the digital age. 
+
+As post-humanism becomes more intertwined with technological development [^Scott16The], it challenges the categorization of human vs. non-human
+and raises questions about fairness, equality, and the ethics of technological enhancements. 
+
+![post-humanism](images/post-humanism-sanchez.jpeg)
+
+[^Paul23Trans]:Matthewa, Paul. 2023. Transparent Minds in Science Fiction: An Introduction to Alien, Ai and Post-Human Consciousness. Cambridge, Uk: Open Book Publishers. https://books.openbookpublishers.com/10.11647/obp.0348.pdf 
+[^Scott16The]:Jeffery, Scott. 2016. Posthuman Body in Superhero Comics : Human, Superhuman, Transhuman, Post/Human. New York: Palgrave Macmillan. https://doi.org/10.1057/978-1-137-54950-1.
+[^K23Post]: Nayar, Pramod K. 2023. Post-Humanism. Oxford Bibliographies: Oxford University Press. https://www.oxfordbibliographies.com/display/document/obo-9780190221911/obo-9780190221911-0122.xml 
 
 ## Quantum computing
 Quantum computing is a branch of computing that challenges classical computation by leveraging principles of quantum mechanics to process information. Qubits are the core and can be both 0 and 1 simultaneously. Due to this, it can perform complex calculations exponentially faster than traditional computation. [^1citation]
