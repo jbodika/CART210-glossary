@@ -773,7 +773,6 @@ GitHub's development process is distributed, allowing developers to collaborate,
 
 ## GUI
 
-### Intro
 GUI (Graphical User Interface) is a way for users to interact and communicate with computers. Unlik the Command Line Interface(CLI), the GUI does not display code details. Instead, it facilitates human-computer interaction in a more intuitive way by using window, icons, menus, buttons, drop-down lists, dialog boxes, and more.[^Wendy11Graphcal] For beginners, since the GUI provides visual feedback and confirmation for every action and eliminates the need to learn specific commands and syntax, the learning curve is shallower[^Shardeum23What]
 
 ### History
@@ -781,13 +780,13 @@ Vannevar Bush's 1945 paper, "As We May Think," seems to have had a significant i
 Today, GUI has evolved to offer a wide range of functionalities to meet users' operational needs across various devices and applications. All operating systems, software applications, and websites now have their own GUIs. GUI has a significant impact on enhancing accessibility, user experience, and productivity.[^priya24Evolution]
 
 ### Example 
-![Fork the repo](../images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
+![Serox](images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
 Xerox_Star_8010 GUI
 
-![Fork the repo](../images/GUI_Macintosh.jpg)[^MacintoshZednet84]
+![Macintosh](images/GUI_Macintosh.jpg)[^MacintoshZednet84]
 Macintosh GUI
 
-![Fork the repo](../images/GUI_Windows1.0.png)[^WindowWiki85]
+![Windows](images/GUI_Windows1.0.png)[^WindowWiki85]
 Windows1.0 GUI
 
 
