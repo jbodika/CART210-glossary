@@ -34,6 +34,9 @@ The pathway to cost optimization in GenAI applications with large language model
 - Model generalizability and domain adaptation
 - Evolving regulatory landscape
 
+
+![LLMs](../images/LLMs-bolin.jpg)
+
 ---
 [^whatAlovelyIBM]: IBM 2023. *What are large language models (LLMs)?* https://www.ibm.com/think/topics/large-language-models
 [^itAjournal]: Shreyas Subramanian 2024. *Large Language Model-Based Solutions : How to Deliver Value with Cost-Effective Generative AI Applications*. https://learning-oreilly-com.lib-ezproxy.concordia.ca/library/view/large-language-model-based/9781394240722/f06.xhtml#head-2-41
