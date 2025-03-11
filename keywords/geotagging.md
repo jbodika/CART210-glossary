@@ -1,4 +1,4 @@
-# Geotagging
+## Geotagging
 
 ### Brief
 **Geotagging** is a technology that involves attributing geolocational information to different forms of media[^longley-geographic]. This is done by gathering the data through a devices positional services and storing it in the medias metadata. Geotagging started taking prominence in the early to mid 2000s with the rise of cell phones due to their photo-taking abilities and integrated GPSs. 
