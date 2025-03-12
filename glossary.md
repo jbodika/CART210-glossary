@@ -1184,16 +1184,13 @@ Similarly, software updates on our phones are a prime example of iteration. Comp
 [^goodfellow2016]: Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. 2016. _Deep Learning_. Cambridge, MA: MIT Press.
 [^juul2005]: Juul, Jesper. 2005. Half-Real: Video Games between Real Rules and Fictional Worlds. Cambridge, MA: MIT Press.
 
-# Large Language Model
+## Large Language Model
 
-**Definition**:[^whatAlovelyIBM] Large language models (LLMs) are a category of foundation models trained on immense amounts of data making them capable of understanding and generating natural language and other types of content to perform a wide range of tasks.
+Large language models (LLMs) are a category of foundation models trained on immense amounts of data making them capable of understanding and generating natural language and other types of content to perform a wide range of tasks.[^whatAlovelyIBM] 
 **Application In The World**:[^itAjournal] Large language models, such as the Generative Pre-trained Transformer (GPT-3) (Floridi & Chiriatti, 2020), have made significant advancements in natural language processing (NLP) in recent years. These models are trained on massive amounts of text data and are able to generate human-like text, answer questions, and complete other language-related tasks with high accuracy.
 **Role In The World**:[^whatAlovelyIBM] LLMs have become a household name thanks to the role they have played in bringing generative AI to the forefront of the public interest, as well as the point on which organizations are focusing to adopt artificial intelligence across numerous business functions and use cases.
  
-
----
-
-#  **The Role of Large Language Models (LLMs) in New Media**  
+###  The Role of Large Language Models (LLMs) in New Media
 
 Large Language Models (LLMs) are reshaping new media by transforming content creation, personalization, and interaction. From digital journalism to entertainment, AI-driven tools are changing how information is produced and consumed.
 
@@ -1208,10 +1205,7 @@ The rise of AI in journalism presents both opportunities and challenges. While L
 As AI continues to evolve, its role in new media will grow more complex. While it enhances creativity and efficiency, it also poses ethical challenges that must be addressed. Balancing innovation with accountability will be crucial in ensuring that AI-driven media remains informative, fair, and trustworthy.
 
 
----
-
-
-# **Challenges and Opportunities**[^solutionsForLLMs]
+### Challenges and Opportunities[^solutionsForLLMs]
 The pathway to cost optimization in GenAI applications with large language models is laden with both challenges and opportunities. These arise from the inherent complexities of the models and the evolving landscape of AI technologies. The following are the principal challenges and the accompanying opportunities in this domain:
 - Computational demands
 - Model complexity
@@ -1221,10 +1215,10 @@ The pathway to cost optimization in GenAI applications with large language model
 - Evolving regulatory landscape
 
 
-![LLMs](../images/LLMs-bolin.jpg)
-(Image created in OpenArt, used prompt: programmer with LLMs product )
+![LLMs](images/LLMs-bolin.jpg)
+*Image created in OpenArt. Prompt: “programmer with LLMs product”*
 
----
+
 [^whatAlovelyIBM]: IBM 2023. *What are large language models (LLMs)?* https://www.ibm.com/think/topics/large-language-models
 [^itAjournal]: Shreyas Subramanian 2024. *Large Language Model-Based Solutions : How to Deliver Value with Cost-Effective Generative AI Applications*. https://learning-oreilly-com.lib-ezproxy.concordia.ca/library/view/large-language-model-based/9781394240722/f06.xhtml#head-2-41
 [^solutionsForLLMs]: Enkelejda Kasneci,Kathrin Sessler 2023."ChatGPT for good? On opportunities and challenges of large language models for education" *Learning and Individual Differences 103*. https://www.sciencedirect.com/science/article/abs/pii/S1041608023000195
