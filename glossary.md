@@ -569,6 +569,23 @@ Image credits:
 - Drew Williams, *Macbook Pro*, photograph, Pexels, July 2019, https://www.pexels.com/photo/macbook-pro-2657669/.
 - fauxels, *Photo of people doing handshakes*, photograph, Pexels, November 2019, https://www.pexels.com/photo/photo-of-people-doing-handshakes-3183197/
 
+## Deep Learning
+
+![Deep learning Image](images/deeplearning-ryanbujold.jpg)
+*Tool: [Stable Diffusion Web](https://stablediffusionweb.com). Prompt: “Deep Learning Networks”*
+
+Deep learning can be defined as an advanced form of machine learning. These algorithms usually operate by taking information in and pushing out an output after processing. The Deep Learning process instead involves multiple algorithms of processing information that communicate with each other to analyze data.[^jo23foundations]
+
+This process creates a computer that can learn from experience independently. It learns complex concepts by building from simpler ones. These layers of understanding create hierarchies many layers deep.[^goodfellow16learning]
+
+These artificial neural networks are inspired by the design of the human brain. Each node of this network is responsible for learning different parts of the data. They can solve many different kinds of problems from image recognition to language processing. It is the latest frontier for AI and complex machines. Deep learning is still held back by large data requirements, cannot distinguish good from bad data well and be biased due to the data it is given.[^google25whatis]
+
+With machines taking a step closer to human intelligence, their existence makes us question our own understanding of intelligence and human identity. Learning and understanding was once only thought to be a natural trait of man. Now we must face the reality of machines that may catch up to our intellect.
+
+[^jo23foundations]: Jo, Taeho. 2023. "Deep Learning Foundations" *Springer Nature Link* https://link-springer-com.lib-ezproxy.concordia.ca/book/10.1007/978-3-031-32879-4.
+[^goodfellow16learning]: Goodfellow, Ian, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. 2016. "Deep learning" *Vol. 1, no. 2. Cambridge: MIT press* https://synapse.koreamed.org/pdf/10.4258/hir.2016.22.4.351.
+[^google25whatis]: Google. 2025. “What is Deep Learning?” *Google Cloud*. https://cloud.google.com/discover/what-is-deep-learning 
+
 ## DNS
 
 DNS stands for Domain Name System. It was invented by Paul Mockapetris in 1983. [^cocoran11branding]
@@ -999,6 +1016,20 @@ The Internet Engineering Task Force (IETF) and the Organization for the Advancem
 
 ![Immersion](images/immersion-hubert.png)
 
+
+## Information Architecture
+
+The term was coined by Richard Saul Wurman who described “Information Architecture” as the organisation and presentation of information. It is a focus on making the complex clear with structural design of shared information environments. This involves organization, labeling, search and navigation schemes for websites. To make everything clear and accessible for users of the web.[^ding10information]
+
+There is an analogy that can be made between designing websites and designing buildings. Places like banks, coffee shops or malls all offer different purposes. Architecture is an important step to designing coherent, safe and efficient buildings for whatever purpose they may serve. The same is true for website design. Standards are made so that users can easily navigate each without becoming confused. Websites also offer their own unique architectural challenges that are all tackled in information architecture. [^morville06wideweb]
+
+It is a discipline of making information findable and understandable. Searching, browsing, categorizing, presenting and contextualizing help people find what they are looking for. Information can be seen as a product or item and websites can be arranged to make finding the right thing easier. Good information architecture comes from understanding the content available, the context for seeking the content and the user who is consuming the content. Building website navigation to flow and address these main concerns is what makes for good information architecture. [^interaction25whatis]
+
+This architecture is at the basis of the whole world wide web we navigate every day. It is an important part of optimizing the new media that is the internet so that it is approachable to everyone. Our understanding of what we expect from the medium can help us better build it and utilize it. Making it accessible to everyone who seeks information on the web.
+
+[^ding10information]:Ding Wei, Lin Xia. 2010. Information Architecture: The design and integration of information spaces. Springer Nature Link https://link-springer-com.lib-ezproxy.concordia.ca/book/10.1007/978-3-031-02267-8 
+[^morville06wideweb]:Morville Peter, Rosenfeld Louis. 2006. Information Architecture for the world wide web. 3rd Edition. DCC UChile https://users.dcc.uchile.cl/~nbaloian/ArquitecturaDeLaInformacion/materialDeLAWeb/InformationArchitecturefortheWorldWideWebThirdEditi.pdf 
+[^interaction25whatis]:Interaction Design Foundation. 2025. What is Information Architecture (IA)? Interaction Design Foundation https://www.interaction-design.org/literature/topics/information-architecture 
 
 ## Information Overload
 
