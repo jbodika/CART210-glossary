@@ -1,7 +1,5 @@
 ## Futurism
 
-### Historical Summary and Definition
-
 "Futurism" is an art movement, though it could be argued to be more than that due to its ideals.
 This movement was started in Italy around 1909, and was at its most popular from then until some time in the 1920's, thought it is reported to have "ended" around 1944. [^unknown_accessed_2025_artstory]
 The creation, and much of the fire behind the movement, is largely attributed to an Italian poet named Filippo Tommaso Marinetti, who published a text titled "Manifesto of Futurism" in 1909, seemingly sparking much of the movement.
