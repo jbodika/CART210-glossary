@@ -21,7 +21,7 @@ Today the child of this idea is known as binary and widely used as part of the t
 In a similar, if more physical sense, John Von Neumann created the "Von Neumann Architecture" in 1945. 
 This was the model for a computer's organization that now forms the basis of most modern computers, acting as our introductions to the concept of CPUs (Central Processing Unit), RAM (Random-Access Memory), Input / Output Devices, and of course storing commands using memory. [^o'regan_2018_neumann]
 
-### Relation to New Media and Modern Definition
+### Modern Definition
 
 As the idea of a computer became more widely known, understood, and of course used, it became engrained in nearly every bit of our culture.
 The term "computer" is incredibly significant to new media because it has been cemented as a foundational concept to the way we interact with, and produce media today.
