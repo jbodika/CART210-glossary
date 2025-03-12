@@ -1,5 +1,8 @@
 ## Deep Learning
 
+![Deep learning Image](images/deeplearning-ryanbujold.jpg)
+*Tool: [Stable Diffusion Web](https://stablediffusionweb.com). Prompt: “Deep Learning Networks”*
+
 Deep learning can be defined as an advanced form of machine learning. These algorithms usually operate by taking information in and pushing out an output after processing. The Deep Learning process instead involves multiple algorithms of processing information that communicate with each other to analyze data.[^jo23foundations]
 
 This process creates a computer that can learn from experience independently. It learns complex concepts by building from simpler ones. These layers of understanding create hierarchies many layers deep.[^goodfellow16learning]
