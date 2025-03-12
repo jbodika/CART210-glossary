@@ -36,7 +36,7 @@ The pathway to cost optimization in GenAI applications with large language model
 
 
 ![LLMs](../images/LLMs-bolin.jpg)
-(Image created in OpenArt)
+(Image created in OpenArt, used prompt: programmer with LLMs product )
 
 ---
 [^whatAlovelyIBM]: IBM 2023. *What are large language models (LLMs)?* https://www.ibm.com/think/topics/large-language-models
