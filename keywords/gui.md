@@ -8,12 +8,15 @@ Today, GUI has evolved to offer a wide range of functionalities to meet users' o
 
 ### Examples
 ![Xerox](images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]  
+
 Xerox_Star_8010 GUI
 
 ![Macintosh](images/GUI_Macintosh.jpg)[^MacintoshZednet84]  
+
 Macintosh GUI
 
 ![Windows](images/GUI_Windows1.0.png)[^WindowWiki85]  
+
 Windows1.0 GUI
 
 
