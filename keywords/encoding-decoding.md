@@ -13,12 +13,7 @@ Encoding and decoding are intricately linked to contemporary technologies and me
 To finish, encoding and decoding represent foundational processes that support the functionality of new media. They shape our interactions with technology and our participation in digital life. Thus, an understanding of encoding and decoding principles is essential for navigating the intricacies of the digital world.
 
 ![Encoding-Decoding](images/encodingdecoding-abdulaziz.png)
-
-Initial images made in Ideogram, controlnet & img2img done with Fluxdev in ComfyUI, variations and fine tuning done with SDXL in Fooocus
-
-Prompt example (variations used): A horizontally split image illustrating the concept of audio encoding and decoding. On the left side, a clean and smooth waveform in blue, representing the original sound. In the center, the waveform becomes distorted, pixelated, or fragmented, symbolizing the encoding process where data is compressed or altered. The distortion includes binary numbers, glitch effects, or pixel breakdowns. On the right side, the waveform is restored to its original smooth form, signifying successful decoding. Dark background, subtle neon highlights, futuristic, digital aesthetic.
-
-Negative Prompt (variations used): red, pink, people, person, cube, anime
+*Initial images made in Ideogram, controlnet & img2img done with Fluxdev in ComfyUI, variations and fine tuning done with SDXL in Fooocus. Prompt example (variations used): “A horizontally split image illustrating the concept of audio encoding and decoding. On the left side, a clean and smooth waveform in blue, representing the original sound. In the center, the waveform becomes distorted, pixelated, or fragmented, symbolizing the encoding process where data is compressed or altered. The distortion includes binary numbers, glitch effects, or pixel breakdowns. On the right side, the waveform is restored to its original smooth form, signifying successful decoding. Dark background, subtle neon highlights, futuristic, digital aesthetic.” Negative Prompt (variations used): “red, pink, people, person, cube, anime”*
 
 [^1]: Cover, Thomas M., and Joy A. Thomas. 2006. *Elements of Information Theory*. 2nd ed. Wiley-Interscience.
 
