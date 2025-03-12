@@ -2,12 +2,12 @@
 
 GUI (Graphical User Interface) is a way for users to interact and communicate with computers. Unlik the Command Line Interface(CLI), the GUI does not display code details. Instead, it facilitates human-computer interaction in a more intuitive way by using window, icons, menus, buttons, drop-down lists, dialog boxes, and more.[^Wendy11Graphcal] For beginners, since the GUI provides visual feedback and confirmation for every action and eliminates the need to learn specific commands and syntax, the learning curve is shallower[^Shardeum23What]
 
-### History
+
 Vannevar Bush's 1945 paper, "As We May Think," seems to have had a significant influence on the prototype of the GUI. The paper introduced the concept of an electronic device called Memex, which integrated an electronic desktop similar to today’s GUI.[^Vannevar45As] In 1973, Xerox PARC developed the first GUI system, which included the pop-up menus, icons, and the desktop metaphor of the graphical user interface.[^Wayne98Computer] Subsequently, the GUI continued to evolve. In 1984, Apple's release of the Macintosh popularized GUI-based personal computers, laying the foundation for modern GUIs. In 1985, Microsoft launched its first GUI-based operating system. In 2007, Apple's iPhone introduced multi-touch technology, revolutionizing GUI design for mobile device.
 Today, GUI has evolved to offer a wide range of functionalities to meet users' operational needs across various devices and applications. All operating systems, software applications, and websites now have their own GUIs. GUI has a significant impact on enhancing accessibility, user experience, and productivity.[^priya24Evolution]
 
-### Example 
-![Serox](images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
+### Examples
+![Xerox](images/GUI_Xerox_Star_8010.jpg)[^XeroxWiki74]
 Xerox_Star_8010 GUI
 
 ![Macintosh](images/GUI_Macintosh.jpg)[^MacintoshZednet84]
