@@ -355,9 +355,9 @@ Content management as a practice predates the web, originally emerging from need
 
 CMS software typically incorporates several key features such as publishing controls, editing tools, built-in SEO capabilities, security measures, and consistent branding tools, making it accessible for organizations of all sizes, from small businesses to large enterprises.[^IBMCMS2024] Effective content management requires understanding not only the technology involved but also the specific information requirements, workflows, and audiences that the organization aims to reach.[^McKeeverCMS] This comprehensive approach positions CMS as not merely a technological tool but as an essential part of organizational strategy and communication.
 
-[^BoikoBible]: Boiko, Bob. 2005. Content Management Bible. 2nd ed. John Wiley & Sons. 
-[^IBMCMS2024]: Finn, Teaganne, and Amanda Downie. 2024. “What is a content management system (CMS)?” IBM (blog). March 7, 2024. https://www.ibm.com/think/topics/content-management-system. 
-[^McKeeverCMS]: McKeever, Susan. 2003. “Understanding Web Content Management Systems: Evolution, Lifecycle and Market.” Industrial Management & Data Systems 103 (9): 686–92. https://doi.org/10.1108/02635570310506106.
+[^BoikoBible]: Boiko, Bob. 2005. _Content Management Bible_. 2nd ed. John Wiley & Sons. 
+[^IBMCMS2024]: Finn, Teaganne, and Amanda Downie. 2024. “What is a content management system (CMS)?” _IBM_ (blog). March 7, 2024. https://www.ibm.com/think/topics/content-management-system. 
+[^McKeeverCMS]: McKeever, Susan. 2003. “Understanding Web Content Management Systems: Evolution, Lifecycle and Market.” _Industrial Management & Data Systems_ 103 (9): 686–92. https://doi.org/10.1108/02635570310506106.
 
 ## Crowdsourcing
 
