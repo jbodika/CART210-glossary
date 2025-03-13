@@ -348,6 +348,17 @@ In conclusion, the computer is not only central to the production of new media b
 [^computer2]: Hasanbekava, Dziana. 2021. _Serious man writing in notebook at table during work_.
 [^computer3]: Unknown. 2021. _Calculator on Black Surface_. Kindel Media.
 
+## Content Management System
+A content management system (CMS) is software that enables users to create, manage, store, and modify digital content efficiently, often through a user-friendly interface. Typically, a CMS provides an all-in-one solution for creating, managing, storing, and publishing digital content, such as text, images, videos, and websites.[^IBMCMS2024] A CMS consists of two core components: the content management application (CMA), where content creators input, manage, and edit digital materials without needing technical expertise, and the content delivery application (CDA), which manages storage, retrieves content, and presents it to end-users. 
+
+Content management as a practice predates the web, originally emerging from needs within the technical documentation and scientific publishing communities, who required systematic ways to reuse and manage information effectively.[^BoikoBible] Modern content management systems became particularly prominent with the rise of corporate web publishing, allowing businesses to automate and simplify web content updates. These systems streamline workflows, improve efficiency, and enhance collaboration, enabling various organizational roles to focus on their strengths rather than managing complex code and databases.[^BoikoBible]
+
+CMS software typically incorporates several key features such as publishing controls, editing tools, built-in SEO capabilities, security measures, and consistent branding tools, making it accessible for organizations of all sizes, from small businesses to large enterprises.[^IBMCMS2024] Effective content management requires understanding not only the technology involved but also the specific information requirements, workflows, and audiences that the organization aims to reach.[^McKeeverCMS] This comprehensive approach positions CMS as not merely a technological tool but as an essential part of organizational strategy and communication.
+
+[^BoikoBible]: Boiko, Bob. 2005. Content Management Bible. 2nd ed. John Wiley & Sons. 
+[^IBMCMS2024]: Finn, Teaganne, and Amanda Downie. 2024. “What is a content management system (CMS)?” IBM (blog). March 7, 2024. https://www.ibm.com/think/topics/content-management-system. 
+[^McKeeverCMS]: McKeever, Susan. 2003. “Understanding Web Content Management Systems: Evolution, Lifecycle and Market.” Industrial Management & Data Systems 103 (9): 686–92. https://doi.org/10.1108/02635570310506106.
+
 ## Crowdsourcing
 
 Crowdsourcing can be defined by the process of collecting work, data, and opinions from a big, often anonymous group, typically through the Internet. [^hargrave24crowdsourcing] It diverges from traditional outsourcing because the task is assigned to an undefined crowd instead of a pre-selected person or group. [^lebraty13crowdsourcing] 
