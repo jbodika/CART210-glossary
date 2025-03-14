@@ -1,11 +1,9 @@
-## Microblooging
+## Microblogging
 
-### Definition
-Microblogging[^micro2blogging] is a combination of instant messaging and content production. With a microblog, you share short messages with an online audience to improve engagement. Social channels like 
+Microblogging[^micro2blogging] is a combination of instant messaging and content production. With a microblog, you share short messages with an online audience to improve engagement. 
 
-### What is the unique of microblogging?
 
-Each[^micro3science] microblogging website is significant and optimized for search engine optimization. These services encourage high-quality link development by allowing users to express their thoughts in a few words or a phrase that may be connected to a variety of other websites currently operating on the internet. Microblogs are short (under 300 words) blog postings that include photos, GIFs, links, infographics, videos, and audio snippets. Despite the fact that the word “microblogging” is new, the practice is not. Many of us are microblogging without even realizing it. Let us illustrate this with an example. You make an instructional video or publish a whitepaper based on research. You write a brief synopsis that covers the major points and include an embedded link to the resource while uploading it. That is a microblog, right there! It is like a hybrid of instant chatting and regular blogging. 
+Each microblogging website is significant and optimized for search engine optimization.[^micro3science] These services encourage high-quality link development by allowing users to express teir thoughts in a few words or a phrase that may be connected to a variety of other websites currently operating on the internet. Microblogs are short (under 300 words) blog postings that include photos, GIFs, links, infographics, videos, and audio snippets. Despite the fact that the word “microblogging” is new, the practice is not. Many of us are microblogging without even realizing it. Let us illustrate this with an example. You make an instructional video or publish a whitepaper based on research. You write a brief synopsis that covers the major points and include an embedded link to the resource while uploading it. That is a microblog, right there! It is like a hybrid of instant chatting and regular blogging. 
 
 **Even the synopsis we do everyweek for reading is kind of miroblogging too!**
 
