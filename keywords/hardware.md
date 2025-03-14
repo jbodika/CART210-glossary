@@ -19,6 +19,9 @@ With artificial intelligence getting more and more advanced, it will also requir
 Fortunately, tech companies such as NVIDIA and Intel are actively producing new components that are being tested with AI. [^Sipola22]
 
 
+![Hardware](images/hardware.jpg)
+*Tool: [OpenArt web](https://openart.ai/home). Prompt: “A GPU and computer components”*
+
 
 
 [^cambridge]: “Hardware | English Meaning - Cambridge Dictionary.” Cambridge Dictionary. Accessed March 14, 2025. https://dictionary.cambridge.org/dictionary/english/hardware. 
