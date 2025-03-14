@@ -656,7 +656,7 @@ or software suited to applications in the domain” [^borgman15bigdata].
 
 ![Dataset](images/dataset.png)
 
-Chatgbt prompt: "Can you generate me an image that visually depicts the word "dataset" without using words in the image"
+*ChatGPT prompt: "Can you generate me an image that visually depicts the word "dataset" without using words in the image"*
 
 
 [^borgman15bigdata]: Borgman, Christine L. 2015. _Big Data, Little Data, No Data: Scholarship in the Networked World_. Cambridge, Massachusetts: The MIT Press.
