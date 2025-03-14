@@ -164,6 +164,38 @@ Without proper regulation, individuals may be subjected to excessive surveillanc
 [^Centre21BiCa]: Cyber Centre. (2021, September). Biometrics (ITSP.00.19). Canadian Centre for Cyber Security. https://www.cyber.gc.ca/en/guidance/biometrics-itsap00019 
 
 
+## Blockchain
+
+Blockchain is known for its role in cryptocurrency systems where it maintains a secure and decentralized record of transactions. 
+Blockchain “(a.k.a. distributed ledger technology) enables the secure transfer of money, assets, and information via the Internet 
+without the need for a third-party intermediary”. [^swan17philosophy] It enables peer-to-peer transactions without the need 
+for intermediaries, ensuring transparency and immutability.“the digital ledger software underlying cryptocurrencies such as bitcoin, 
+for the secure transfer of money, assets, and information via the Internet”[^swan17philosophy].
+
+Beyond its role as a digital payment system designed specifically for the Internet, “the underlying blockchain technology is touted 
+as a way to store and transact everything from property records to certificates for art and jewelry” [^narayanan16research]. 
+This means that blockchain's potential extends far beyond cryptocurrency, offering a decentralized and secure method for verifying ownership
+and authenticity across various industries. An example of what Blockchain can used for is as a digital registry “ to record, transfer,
+and verify asset ownership (home, auto, stocks, bonds, mortgages, and insurance)” [^swan17philosophy]. It can also preserve the authenticity 
+of sensitive documents and records “(such as passports, visas, driver's licenses, birth and death certificates, voter registration, contracts,
+wills, patents, and medical records)” [^swan17philosophy].
+
+One of blockchain’s key advantages is that it is “distributed: It runs on computers provided by volunteers around the world, 
+so there is no central database to hack” [^tapscott16blockchain]. Additionally, it is “public: Anyone can view it at any time because
+it resides on the network” [^tapscott16blockchain], ensuring transparency by allowing anyone to access and verify transactions.
+At the same time, it is “encrypted: It uses heavy-duty encryption to maintain security” [^tapscott16blockchain], 
+which helps protect data and build trust in the system. By eliminating intermediaries and creating tamper-resistant records,
+blockchain technology enhances transparency, reduces fraud, and streamlines transactions in areas such as real estate, 
+supply chain management, and digital identity verification.
+
+
+[^narayanan16research]: Narayanan, Arvind, Andrew Miller, and Song Han. 2016. “Research for Practice: Cryptocurrencies, Blockchains, and Smart Contracts; Hardware for Deep Learning Expert-Curated Guides to the Best of CS Research.” _Queue_ 14 (6): 43–55. 
+https://doi.org/10.1145/3028687.3043967. 
+ 
+[^swan17philosophy]: Swan, Melanie, and Primavera de Filippi. 2017. “Toward a Philosophy of Blockchain: A Symposium: Introduction.” _Metaphilosophy_ 48 (5): 603–19. https://doi.org/10.1111/meta.12270.
+
+[^tapscott16blockchain]: Tapscott, Don, Alex Tapscott, and Jenna Pilgrim. 2016. _How Blockchain Will Change Organizations._ Cambridge, Massachusetts: MIT Sloan Management Review. https://learning.oreilly.com/library/view/~/53863MIT58222/?ar?orpq&email=^u. 
+
 ## Blog
 A blog, short for "weblog," is an online platform where individuals or groups publish content in reverse chronological order.
 Blogs combine written entries, multimedia, and hyperlinks, serving as a medium for personal expression, journalism, marketing, and community engagement. 
@@ -391,6 +423,37 @@ Crowdsourcing is widely used across digital media and technological landscapes:
 [^du24ethical]: Du, Shuili, Mayowa T. Babalola, Premilla D’Cruz, Edina Dóci, Lucia Garcia-Lorenzo, Louise Hassan, Gazi Islam, Alexander Newman, Ernesto Noronha, and Suzanne van Gils. 2024. “The Ethical, Societal, and Global Implications of Crowdsourcing Research.” Journal of Business Ethics 193 (1): 1–16. https://doi.org/10.1007/s10551-023-05604-9.
 [^howe06rise]: Howe, Jeff. 2006. “The Rise of Crowdsourcing.” Wired, June 1, 2006. https://www.wired.com/2006/06/crowds/.
 
+## Cryptocurrency
+
+Cryptocurrency is a digital or virtual form of currency that utilizes cryptographic techniques to secure transactions and control the creation of new units.
+"Cryptocurrency in its purest form is a peer-to-peer version of electronic cash. It allows online payments to be sent directly from one party to another without going
+through a financial institution.” [^bolt17bitcoin]
+Therefore this currency is often based on blockchain technology, which is a distributed ledger enforced by a network of computers. 
+Unlike traditional fiat currencies issued by governments, cryptocurrencies operate on decentralized networks. In the concept of computing, decentralized networks mean
+“the allocation of hard and software resources and the majority of the associated activities and functions are not carried out, obtained or stored
+in a centralized location.” [^lee18inclusive] In simpler terms, this decentralized nature works through a computer network that allows for peer-to-peer transactions
+that are not reliant on one central authority like the government or banks. 
+
+Cryptocurrencies do not have any government-mandated or inherent value assigned to them.
+Instead, their worth is entirely determined by market demand and the price that buyers and sellers are willing to agree upon during transactions.
+This means their value can fluctuate significantly based on factors such as investor interest, public perception, and overall market conditions.
+Therefore “a cryptocurrency is more useful when more people use it, then benefits are maximized when everybody adopts the same cryptocurrency. Until now, Bitcoin remains the dominant cryptocurrency”[^bolt17bitcoin] 
+which is the first cryptocurrency that existed and the most commonly traded. Bitcoin was founded in 2009, and invented by Satoshi Nakamoto, which is widely assumed 
+to be a pseudonym name for an individual or group as  their identity is unknown. Bitcoin itself is run using an open source software “It is not only decentralized
+but also supposedly fully distributed. That means that every node or computer terminal is connected to each other.”[^lee15handbook] Interestingly enough it can be downloaded by anyone.
+
+Bitcoin is not the only cryptocurrency but it is the most popular. Alternative cryptocurrencies (called “altcoins”) 
+numerous others exist, e.g., Namecoin, Litecoin, Peercoin, or Dogecoin, etc. [^bolt17bitcoin]
+However, after Bitcoin, some of the most popular are Ethereum (ETH), Tether (USDT), USD Coin (USDC) and many more.
+
+![cryptocurrency](images/cryptocurrency.png)
+
+[^bolt17bitcoin]: Bolt, Wilko. 2017. “Book Review: Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction.” _Journal of Economic Literature_ 55 (no. 2): 647–49.
+[^lee18inclusive]: Lee, David Kuo Chuen and Linda Low. 2018. _Inclusive fintech: Blockchain, Cryptocurrency and ICO_. World Scientific.p.43
+[^lee15handbook]: Lee Kuo Chuen, David, ed. 2015 _Handbook of Digital Currency: Bitcoin, Innovation, Financial Instruments, and Big Data_. Amsterdam: Academic Press is an imprint of Elsevier. [http://literati.credoreference.com/content/title/estdigital.].p:8,11-12 
+
+
+
 ## CSS
 
 The Cascading Style Sheets, or CSS for short, is one of the core components of building a website, alongside HTML (Hypertext Markup Language) and JavaScript (JS). Together, these three technologies are often referred to as "the cornerstone of the World Wide Web."[^ebersbach01css]
@@ -561,6 +624,47 @@ Cyberspace is new representation of the physical world. It contains its own new 
 Image credits:
 - Drew Williams, *Macbook Pro*, photograph, Pexels, July 2019, https://www.pexels.com/photo/macbook-pro-2657669/.
 - fauxels, *Photo of people doing handshakes*, photograph, Pexels, November 2019, https://www.pexels.com/photo/photo-of-people-doing-handshakes-3183197/
+
+## Dataset 
+
+A Dataset is a structured collection of data, typically organized in a tabular form where each column represents a specific variable, 
+and each row corresponds to an individual record. This organization facilitates efficient data management, analysis, 
+and retrieval across various disciplines. “Even the term dataset is problematic, referring to at least four common themes—grouping, 
+content, relatedness, and purpose—each of which has multiple categories” [^borgman15bigdata]. 
+
+A dataset is an organized compilation of interconnected information sets, consisting of distinct elements that,
+despite being separate, it can be processed and managed collectively by a computer as a single entity. 
+These information sets are data “In rhetorical terms, data are that which exists prior to argument or interpretation 
+that converts them to facts, evidence and information” [^kitchin14revolution] in the Book “The Data Revolution: ...” 
+they defined data as the basic,  input used to represent aspects of the world by organizing them into categories,
+measurements and other representational forms. These forms can include numerical values, text, images, sounds, and digital signals, 
+which are the foundation for producing meaningful information and knowledge.[^kitchin14revolution]
+
+There are different types of datasets as these datasets can be categorized by the type of data they contain or by the relationship
+between the variables of data. These classifications can be categorical, correlation, bivariate, multivariate and structured. 
+These classifications are affected by the various types of data “such as relational data (structured data), text (unstructured data),
+semi-structured data (like XML or JSON), and streaming data from sources like sensors or social media.” [^russom13managing]. 
+
+Depending on the use of the dataset or its size and complexity can affect how it is managed. Datasets that are very large and complex
+are difficult to manage and analyze using traditional data processing tools. This can be defined as Big Data which are datasets
+of multiple terabytes or larger as it contains “a wide range of data types (relational, text, multi-structured data, etc.) 
+from numerous sources, including relatively new ones (Web applications, machines, sensors, and social media)”[^russom13managing].
+Datasets can vary in size from just a few bits to several terabytes and can function as standalone entities. 
+The suitable unit of measurement is determined by the specific purpose for which the dataset is being used 
+“In addition, digital datasets can be opened only with certain software, whether statistical tools, instrument-specific code,
+or software suited to applications in the domain” [^borgman15bigdata].
+
+![Dataset](images/dataset.png)
+
+*ChatGPT prompt: "Can you generate me an image that visually depicts the word "dataset" without using words in the image"*
+
+
+[^borgman15bigdata]: Borgman, Christine L. 2015. _Big Data, Little Data, No Data: Scholarship in the Networked World_. Cambridge, Massachusetts: The MIT Press.
+https://cornell-library.skillport.com/skillportfe/main.action?assetid=82612. 
+
+[^kitchin14revolution]: Kitchin, Rob. 2014. _The Data Revolution: Big Data, Open Data, Data Infrastructures & Their Consequences_. Los Angeles, California: SAGE Publications. 
+
+[^russom13managing]: Russom, Philip.2013. "Managing big data." _TDWI Best Practices Report_, TDWI Research. 1-40.
 
 ## Deep Learning
 
@@ -909,6 +1013,40 @@ Windows1.0 GUI
 
 [^WindowWiki85]: Wikipedia. 2025. *Windows 1.0* Last modified January 26, 2025. https://en.wikipedia.org/wiki/Windows_1.0
 
+## Hardware 
+
+Hardware can be defined as “the physical and electronic parts of a computer” as opposed to the “instructions it follows” which is also known as software. [^cambridge] 
+
+Hardware can appear in many forms and devices. More notably, in a computer, the most common pieces are the motherboard, the central processing unit (CPU), the random-access memory (RAM), 
+storage drives such as a hard drive (HDD) or solid-state drive (SSD), the graphics processing unit (GPU), power supply unit (PSU), heat sinks or fans, the protective case, and many more. [^crucial] [^Jerome15]
+
+As computers became more and more popular, so have the rise in the manufacturing of hardware parts across the world. 
+As such, there was a need to set standards for compatibility purposes but also to protect against counterfeit components. [^Guin19]
+These counterfeit hardware devices can be categorized into different types: recycled, remarked, overproduced, defective, cloned, forged documentation, or tampered. [^Guin19]
+
+Considering how hardware is not a single entity, the first piece of hardware cannot be attributed to just one component. 
+Instead, we can give credit to some of the first types of hardware such as the “first computer mouse that was invented in 1963 by Douglas Engelbart”, 
+or the first RAM which was attributed to An Wang and Jay Forrester in 1951. [^Pingdom19]
+
+As for the word itself, the earliest known usage dates back to 1419 according to Oxford English Dictionary. [^oxford].
+Hardware relates heavily to modern technologies as it is present in every piece of technology that we use such as phones, computers, and servers, which enables us to share information and media around the world.
+With artificial intelligence getting more and more advanced, it will also require new hardware developed to be able to handle its power. 
+Fortunately, tech companies such as NVIDIA and Intel are actively producing new components that are being tested with AI. [^Sipola22]
+
+
+![Hardware](images/hardware.jpg)
+*Tool: [OpenArt web](https://openart.ai/home). Prompt: “A GPU and computer components”*
+
+
+
+[^cambridge]: “Hardware | English Meaning - Cambridge Dictionary.” Cambridge Dictionary. Accessed March 14, 2025. https://dictionary.cambridge.org/dictionary/english/hardware. 
+[^crucial]: “What Is Computer Hardware? Definition & Examples.” Crucial. Accessed March 14, 2025. https://www.crucial.com/articles/pc-builders/what-is-computer-hardware. 
+[^Jerome15]: Casey, Jerome. 2015. "Computer Hardware: Hardware Components and Internal PC Connections."
+[^Guin19]: Guin, Ujjwal, Navid Asadizanjani, and Mark Tehranipoor. 2019. "Standards for hardware security." *GetMobile: Mobile Computing and Communications 23*, no. 1 (2019): 5-9.
+[^Pingdom19]: 2019. “The History of PC Hardware, in Pictures - Pingdom.” pingdom.com,. https://www.pingdom.com/blog/the-history-of-pc-hardware-in-pictures/. 
+[^oxford]: “Hardware, Noun. Meanings, Etymology and More.” *Oxford English Dictionary*. Accessed March 13, 2025. https://www.oed.com/dictionary/hardware_n?tab=factsheet#2065310. 
+[^Sipola22]: Sipola, Tuomo, Janne Alatalo, Tero Kokkonen, and Mika Rantonen. 2022. "Artificial intelligence in the IoT era: A review of edge AI hardware and software." In *2022 31st Conference of Open Innovations Association (FRUCT)*, pp. 320-331. IEEE, 2022.
+
 ## Hashtag
 
 The Hashtag functions as a navigational tool that allows you to instantly search for publications on topics of interest. It also serves as a powerful tool for marketing promotion in the
@@ -1199,6 +1337,12 @@ Similarly, software updates on our phones are a prime example of iteration. Comp
 [^goodfellow2016]: Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. 2016. _Deep Learning_. Cambridge, MA: MIT Press.
 [^juul2005]: Juul, Jesper. 2005. Half-Real: Video Games between Real Rules and Fictional Worlds. Cambridge, MA: MIT Press.
 
+![Iteration](images/iteration-nisma.png)
+
+
+**The above image was generated using Chatgpt( GPT-4o ) , the following prompts were written [Iteration-Prompts](https://chatgpt.com/share/67d3987f-ba3c-8008-a37f-cae18fd2b2d6)**
+
+
 ## Large Language Model
 
 Large language models (LLMs) are a category of foundation models trained on immense amounts of data making them capable of understanding and generating natural language and other types of content to perform a wide range of tasks.[^whatAlovelyIBM] 
@@ -1289,6 +1433,53 @@ as well as the fact that it is less important for these visual media to be pixel
 [^OED]: “Lossy, Adj. Meanings, Etymology and More.” *Oxford English Dictionary*. Accessed March 6, 2025. https://www.oed.com/dictionary/lossy_adj. 
 [^Marzen17]: Marzen, Sarah E., and Simon DeDeo. 2017. "The evolution of lossy compression." *Journal of The Royal Society Interface 14, no. 130* (2017): 20170166.
 [^Gupta17]: Gupta, Apoorv, Aman Bansal, and Vidhi Khanduja. 2017. "Modern lossless compression techniques: Review, comparison and analysis." In *2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT)*, pp. 1-8. IEEE, 2017. 
+
+## Microblogging
+
+Microblogging[^micro2blogging] is a combination of instant messaging and content production. With a microblog, you share short messages with an online audience to improve engagement. 
+
+
+Each microblogging website is significant and optimized for search engine optimization.[^micro3science] These services encourage high-quality link development by allowing users to express their thoughts in a few words or a phrase that may be connected to a variety of other websites currently operating on the internet. Microblogs are short (under 300 words) blog postings that include photos, GIFs, links, infographics, videos, and audio snippets. Despite the fact that the word “microblogging” is new, the practice is not. Many of us are microblogging without even realizing it. Let us illustrate this with an example. You make an instructional video or publish a whitepaper based on research. You write a brief synopsis that covers the major points and include an embedded link to the resource while uploading it. That is a microblog, right there! It is like a hybrid of instant chatting and regular blogging. 
+
+**Even the synopsis we do every week for reading is kind of microblogging too!**
+
+### Types of Microblogging Platforms
+
+Most[^micro2blogging] brands already use microblogging platforms in their content plans.
+As more customers look to develop relationships with companies, short and frequent social posts are critical. Additionally, microblogging appeals to the mobile browsing community. Examples of microblogging platforms include:
+
+
+- Twitter: One of the best-known channels in the microblogging world. Twitter is a quick and  - convenient way to share short posts, GIFs, article links, videos and more.
+- Pinterest: Companies on Pinterest link to products, articles and other useful information for audiences. Descriptions allow for quick content connections.
+- Instagram: A visual form of microblogging, Instagram allows organizations to share stories and snaps as part of an online narrative.
+- Facebook: One of the most popular social platforms, Facebook is an effective microblog channel. Users share text, live videos and more to connect with customers.
+
+
+### Microblogging and New Media: Redefining Communication in the Digital Age
+
+Based on what we know about microblogging, Microblogging is a core component of new media, transforming how information is produced, shared, and consumed. Platforms like Twitter, Tumblr, and Mastodon facilitate real-time communication, enabling users to post short, engaging updates. Unlike traditional media, microblogging emphasizes immediacy, interactivity, and decentralized content creation.  
+
+A key aspect of microblogging’s impact is its role in news dissemination. Journalists and citizens alike use these platforms to report breaking news, provide live commentary, and engage in discussions. While this fosters a more democratic flow of information, it also raises concerns about misinformation and the rapid spread of unverified content.  
+
+Microblogging has also revolutionized digital activism. Movements such as #MeToo and #BlackLivesMatter gained momentum through viral hashtags, mobilizing support and amplifying marginalized voices. The speed and accessibility of microblogging allow for widespread participation, though this can sometimes lead to performative activism rather than sustained engagement.  
+
+In marketing and entertainment, microblogging fosters direct interaction between brands, celebrities, and audiences. Engaging content can quickly gain traction, reinforcing the role of algorithms in shaping visibility and influence. However, this also raises challenges related to echo chambers and algorithmic bias.  
+
+Despite its benefits, microblogging poses challenges regarding content moderation and platform governance. The balance between free expression and responsible regulation remains a crucial debate. As AI-driven moderation tools evolve, ethical concerns surrounding censorship and digital rights persist.  
+
+Ultimately, microblogging is a defining force in new media, reshaping communication, activism, and public discourse in an increasingly digital world.
+
+### Major Impact of Microblogging Widely Use
+
+Hate[^micro4hate] speech constitutes a major problem on microblogging platforms, with automatic detection being a growing research area. Most existing works focus on analyzing the content of social media posts. Our study shifts focus to predicting which users are likely to become targets of hate speech. 
+
+
+[^micro2blogging]: sproutsocial https://sproutsocial.com/glossary/microblog/
+[^micro3science]: Soumi, Dutta. 2006. *Data Analytics for Social Microblogging Platforms*, 3-38.https://www.sciencedirect.com/topics/computer-science/microblogging
+[^micro4hate]: Sahrish, khan. 2024."Predicting the victims of hate speech on microblogging platforms" Heliyon Volume 10(23). https://www.sciencedirect.com/science/article/pii/S240584402416642X
+
+
+
 
 ## Middleware
 
@@ -1808,6 +1999,31 @@ Search Engine Optimization is important in new media, since it shapes how users 
 [^santhoshSEO]:Santhosh, R.2018. “A Survey on Search Engine Optimization and Google's Search Engine Algorithms”. International Journal of Distributed and Cloud Computing 6, no. 1: 11. Accessed January 29, 2025. https://concordiauniversity.on.worldcat.org/atoztitles/link?genre=article&issn=23216840&title=International%20Journal%20of%20Distributed%20%26%20Cloud%20Computing&volume=6&issue=1&date=20180101&atitle=A%20Survey%20on%20Search%20Engine%20Optimization%20and%20Google%27s%20Search%20Engine%20Algorithms.&spage=11&pages=11-18&ID=doi:&id=pmid:&sid=EBSCO:Computers%20%26%20Applied%20Sciences%20Complete&au=Santhosh%2C%20R
 
 [^imageSEO]:WIOR Magnifying Glass. 2025. "WIOR Magnifying Glass, 30X Handheld Magnifier." Amazon. Accessed February 8, 2025. https://www.amazon.com/WIOR-Magnifying-Magnifier-Magnification-Inspection/dp/B07RQ576YT
+
+## Semantics
+As a word “semantics” was first used by **Michel Bréal**, a French philologist (a language historian), in 1883. He studied how languages are organized, how languages change as time passes, and the connections within languages.[^footSemantics]
+Semantics has expanded beyond linguistics into computer science, artificial intelligence, and digital marketing, transforming how information is structured and interpreted in the digital space.
+In digital marketing and search engine optimization [(SEO)](keywords/search-engine-optimization.md), “semantic keywords” have gained prominence. Unlike traditional keywords that rely on exact matches, semantic keywords relate to the main topic, enabling search engines to grasp context.
+This shift toward semantic search enhances the accuracy and relevance of search results, improving user experience. The **Semantic Web** exemplifies this application, relying heavily on semantic principles to optimize information retrieval.
+
+The **Semantic Web**, proposed by **Tim Berners-Lee**, was designed to make data machine-readable, inspired by **Vannevar Bush’s** 1940s **"memex"** concept of a universal, searchable library [^leeHall2006]. 
+This vision aimed to integrate metadata and ontologies into web content, allowing **AI-powered agents to understand relationships between data points autonomously**. **Modern search engines**, such as Google, leverage these advancements through **semantic indexing**,
+ensuring more accurate search results by focusing on meaning rather than exact keyword matches [^Guha2003]. This shift was exemplified by Google’s 2013 Hummingbird update, which emphasized understanding user intent over literal word matching, marking a pivotal advancement in SEO.
+Beyond search, semantic technologies have redefined social media and AI applications. Platforms like Facebook and Twitter use semantic algorithms to analyze user-generated content, interactions, and preferences, enabling targeted advertising and personalized content feeds [^kapanipathi2001]. 
+These technologies illustrate how semantics bridges the gap between human communication and machine understanding.
+
+In practical applications, semantic search and keyword optimization play a crucial role in digital marketing and content visibility. Semantic keywords capture the broader context of a topic, allowing for enhanced information retrieval and ranking in search engines.
+Ultimately, semantics has become a fundamental pillar of the digital age, influencing how AI, search engines, social media, and content marketing function in an interconnected world.
+By embedding meaning into data, semantic technologies enable more intuitive, efficient, and intelligent information processing.
+
+
+[^footSemantics]: Foote, Keith D. 2023. "A Brief History of Semantics." DATAVERSITY. Last modified February 22, 2023. Accessed March 13, 2025. https://www.dataversity.net/brief-history-semantics/.
+[^leeHall2006]: Shadbolt, Nigel, Tim Berners-Lee, and Wendy Hall. 2006. "The Semantic Web Revisited." IEEE Intelligent Systems 21 (3): 96–101. https://doi.org/10.1109/MIS.2006.62.
+[^kapanipathi2001]: Sheth, Amit, and Pavan Kapanipathi. 2016. "Semantic Filtering for Social Data." IEEE Internet Computing 20 (4): 74–78. https://doi.org/10.1109/MIC.2016.86.
+[^Guha2003]: Guha, Ramanathan, Rob McCool, and Eric Miller.2003.  _"Semantic search"_. In Proceedings of the 12th international conference on World Wide Web,https://dl.acm.org/doi/epdf/10.1145/775152.775250
+
+
+                                                    
 
 ## Stable Diffusion
 
