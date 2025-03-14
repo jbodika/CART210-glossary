@@ -1233,6 +1233,12 @@ Similarly, software updates on our phones are a prime example of iteration. Comp
 [^goodfellow2016]: Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. 2016. _Deep Learning_. Cambridge, MA: MIT Press.
 [^juul2005]: Juul, Jesper. 2005. Half-Real: Video Games between Real Rules and Fictional Worlds. Cambridge, MA: MIT Press.
 
+![Iteration](images/iteration-nisma.png)
+
+
+**The above image was generated using Chatgpt( GPT-4o ) , the following prompts were written [Iteration-Prompts](https://chatgpt.com/share/67d3987f-ba3c-8008-a37f-cae18fd2b2d6)**
+
+
 ## Large Language Model
 
 Large language models (LLMs) are a category of foundation models trained on immense amounts of data making them capable of understanding and generating natural language and other types of content to perform a wide range of tasks.[^whatAlovelyIBM] 
@@ -1842,6 +1848,31 @@ Search Engine Optimization is important in new media, since it shapes how users 
 [^santhoshSEO]:Santhosh, R.2018. “A Survey on Search Engine Optimization and Google's Search Engine Algorithms”. International Journal of Distributed and Cloud Computing 6, no. 1: 11. Accessed January 29, 2025. https://concordiauniversity.on.worldcat.org/atoztitles/link?genre=article&issn=23216840&title=International%20Journal%20of%20Distributed%20%26%20Cloud%20Computing&volume=6&issue=1&date=20180101&atitle=A%20Survey%20on%20Search%20Engine%20Optimization%20and%20Google%27s%20Search%20Engine%20Algorithms.&spage=11&pages=11-18&ID=doi:&id=pmid:&sid=EBSCO:Computers%20%26%20Applied%20Sciences%20Complete&au=Santhosh%2C%20R
 
 [^imageSEO]:WIOR Magnifying Glass. 2025. "WIOR Magnifying Glass, 30X Handheld Magnifier." Amazon. Accessed February 8, 2025. https://www.amazon.com/WIOR-Magnifying-Magnifier-Magnification-Inspection/dp/B07RQ576YT
+
+## Semantics
+As a word “semantics” was first used by **Michel Bréal**, a French philologist (a language historian), in 1883. He studied how languages are organized, how languages change as time passes, and the connections within languages.[^footSemantics]
+Semantics has expanded beyond linguistics into computer science, artificial intelligence, and digital marketing, transforming how information is structured and interpreted in the digital space.
+In digital marketing and search engine optimization [(SEO)](keywords/search-engine-optimization.md), “semantic keywords” have gained prominence. Unlike traditional keywords that rely on exact matches, semantic keywords relate to the main topic, enabling search engines to grasp context.
+This shift toward semantic search enhances the accuracy and relevance of search results, improving user experience. The **Semantic Web** exemplifies this application, relying heavily on semantic principles to optimize information retrieval.
+
+The **Semantic Web**, proposed by **Tim Berners-Lee**, was designed to make data machine-readable, inspired by **Vannevar Bush’s** 1940s **"memex"** concept of a universal, searchable library [^leeHall2006]. 
+This vision aimed to integrate metadata and ontologies into web content, allowing **AI-powered agents to understand relationships between data points autonomously**. **Modern search engines**, such as Google, leverage these advancements through **semantic indexing**,
+ensuring more accurate search results by focusing on meaning rather than exact keyword matches [^Guha2003]. This shift was exemplified by Google’s 2013 Hummingbird update, which emphasized understanding user intent over literal word matching, marking a pivotal advancement in SEO.
+Beyond search, semantic technologies have redefined social media and AI applications. Platforms like Facebook and Twitter use semantic algorithms to analyze user-generated content, interactions, and preferences, enabling targeted advertising and personalized content feeds [^kapanipathi2001]. 
+These technologies illustrate how semantics bridges the gap between human communication and machine understanding.
+
+In practical applications, semantic search and keyword optimization play a crucial role in digital marketing and content visibility. Semantic keywords capture the broader context of a topic, allowing for enhanced information retrieval and ranking in search engines.
+Ultimately, semantics has become a fundamental pillar of the digital age, influencing how AI, search engines, social media, and content marketing function in an interconnected world.
+By embedding meaning into data, semantic technologies enable more intuitive, efficient, and intelligent information processing.
+
+
+[^footSemantics]: Foote, Keith D. 2023. "A Brief History of Semantics." DATAVERSITY. Last modified February 22, 2023. Accessed March 13, 2025. https://www.dataversity.net/brief-history-semantics/.
+[^leeHall2006]: Shadbolt, Nigel, Tim Berners-Lee, and Wendy Hall. 2006. "The Semantic Web Revisited." IEEE Intelligent Systems 21 (3): 96–101. https://doi.org/10.1109/MIS.2006.62.
+[^kapanipathi2001]: Sheth, Amit, and Pavan Kapanipathi. 2016. "Semantic Filtering for Social Data." IEEE Internet Computing 20 (4): 74–78. https://doi.org/10.1109/MIC.2016.86.
+[^Guha2003]: Guha, Ramanathan, Rob McCool, and Eric Miller.2003.  _"Semantic search"_. In Proceedings of the 12th international conference on World Wide Web,https://dl.acm.org/doi/epdf/10.1145/775152.775250
+
+
+                                                    
 
 ## Stable Diffusion
 
