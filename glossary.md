@@ -164,6 +164,38 @@ Without proper regulation, individuals may be subjected to excessive surveillanc
 [^Centre21BiCa]: Cyber Centre. (2021, September). Biometrics (ITSP.00.19). Canadian Centre for Cyber Security. https://www.cyber.gc.ca/en/guidance/biometrics-itsap00019 
 
 
+## Blockchain
+
+Blockchain is known for its role in cryptocurrency systems where it maintains a secure and decentralized record of transactions. 
+Blockchain “(a.k.a. distributed ledger technology) enables the secure transfer of money, assets, and information via the Internet 
+without the need for a third-party intermediary”. [^swan17philosophy] It enables peer-to-peer transactions without the need 
+for intermediaries, ensuring transparency and immutability.“the digital ledger software underlying cryptocurrencies such as bitcoin, 
+for the secure transfer of money, assets, and information via the Internet”[^swan17philosophy].
+
+Beyond its role as a digital payment system designed specifically for the Internet, “the underlying blockchain technology is touted 
+as a way to store and transact everything from property records to certificates for art and jewelry” [^narayanan16research]. 
+This means that blockchain's potential extends far beyond cryptocurrency, offering a decentralized and secure method for verifying ownership
+and authenticity across various industries. An example of what Blockchain can used for is as a digital registry “ to record, transfer,
+and verify asset ownership (home, auto, stocks, bonds, mortgages, and insurance)” [^swan17philosophy]. It can also preserve the authenticity 
+of sensitive documents and records “(such as passports, visas, driver's licenses, birth and death certificates, voter registration, contracts,
+wills, patents, and medical records)” [^swan17philosophy].
+
+One of blockchain’s key advantages is that it is “distributed: It runs on computers provided by volunteers around the world, 
+so there is no central database to hack” [^tapscott16blockchain]. Additionally, it is “public: Anyone can view it at any time because
+it resides on the network” [^tapscott16blockchain], ensuring transparency by allowing anyone to access and verify transactions.
+At the same time, it is “encrypted: It uses heavy-duty encryption to maintain security” [^tapscott16blockchain], 
+which helps protect data and build trust in the system. By eliminating intermediaries and creating tamper-resistant records,
+blockchain technology enhances transparency, reduces fraud, and streamlines transactions in areas such as real estate, 
+supply chain management, and digital identity verification.
+
+
+[^narayanan16research]: Narayanan, Arvind, Andrew Miller, and Song Han. 2016. “Research for Practice: Cryptocurrencies, Blockchains, and Smart Contracts; Hardware for Deep Learning Expert-Curated Guides to the Best of CS Research.” _Queue_ 14 (6): 43–55. 
+https://doi.org/10.1145/3028687.3043967. 
+ 
+[^swan17philosophy]: Swan, Melanie, and Primavera de Filippi. 2017. “Toward a Philosophy of Blockchain: A Symposium: Introduction.” _Metaphilosophy_ 48 (5): 603–19. https://doi.org/10.1111/meta.12270.
+
+[^tapscott16blockchain]: Tapscott, Don, Alex Tapscott, and Jenna Pilgrim. 2016. _How Blockchain Will Change Organizations._ Cambridge, Massachusetts: MIT Sloan Management Review. https://learning.oreilly.com/library/view/~/53863MIT58222/?ar?orpq&email=^u. 
+
 ## Blog
 A blog, short for "weblog," is an online platform where individuals or groups publish content in reverse chronological order.
 Blogs combine written entries, multimedia, and hyperlinks, serving as a medium for personal expression, journalism, marketing, and community engagement. 
@@ -391,6 +423,37 @@ Crowdsourcing is widely used across digital media and technological landscapes:
 [^du24ethical]: Du, Shuili, Mayowa T. Babalola, Premilla D’Cruz, Edina Dóci, Lucia Garcia-Lorenzo, Louise Hassan, Gazi Islam, Alexander Newman, Ernesto Noronha, and Suzanne van Gils. 2024. “The Ethical, Societal, and Global Implications of Crowdsourcing Research.” Journal of Business Ethics 193 (1): 1–16. https://doi.org/10.1007/s10551-023-05604-9.
 [^howe06rise]: Howe, Jeff. 2006. “The Rise of Crowdsourcing.” Wired, June 1, 2006. https://www.wired.com/2006/06/crowds/.
 
+## Cryptocurrency
+
+Cryptocurrency is a digital or virtual form of currency that utilizes cryptographic techniques to secure transactions and control the creation of new units.
+"Cryptocurrency in its purest form is a peer-to-peer version of electronic cash. It allows online payments to be sent directly from one party to another without going
+through a financial institution.” [^bolt17bitcoin]
+Therefore this currency is often based on blockchain technology, which is a distributed ledger enforced by a network of computers. 
+Unlike traditional fiat currencies issued by governments, cryptocurrencies operate on decentralized networks. In the concept of computing, decentralized networks mean
+“the allocation of hard and software resources and the majority of the associated activities and functions are not carried out, obtained or stored
+in a centralized location.” [^lee18inclusive] In simpler terms, this decentralized nature works through a computer network that allows for peer-to-peer transactions
+that are not reliant on one central authority like the government or banks. 
+
+Cryptocurrencies do not have any government-mandated or inherent value assigned to them.
+Instead, their worth is entirely determined by market demand and the price that buyers and sellers are willing to agree upon during transactions.
+This means their value can fluctuate significantly based on factors such as investor interest, public perception, and overall market conditions.
+Therefore “a cryptocurrency is more useful when more people use it, then benefits are maximized when everybody adopts the same cryptocurrency. Until now, Bitcoin remains the dominant cryptocurrency”[^bolt17bitcoin] 
+which is the first cryptocurrency that existed and the most commonly traded. Bitcoin was founded in 2009, and invented by Satoshi Nakamoto, which is widely assumed 
+to be a pseudonym name for an individual or group as  their identity is unknown. Bitcoin itself is run using an open source software “It is not only decentralized
+but also supposedly fully distributed. That means that every node or computer terminal is connected to each other.”[^lee15handbook] Interestingly enough it can be downloaded by anyone.
+
+Bitcoin is not the only cryptocurrency but it is the most popular. Alternative cryptocurrencies (called “altcoins”) 
+numerous others exist, e.g., Namecoin, Litecoin, Peercoin, or Dogecoin, etc. [^bolt17bitcoin]
+However, after Bitcoin, some of the most popular are Ethereum (ETH), Tether (USDT), USD Coin (USDC) and many more.
+
+![cryptocurrency](images/cryptocurrency.png)
+
+[^bolt17bitcoin]: Bolt, Wilko. 2017._ “Book Review: Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction.” _Journal of Economic Literature_55 (no. 2): 647–49.p.648
+[^lee18inclusive]: Lee, David Kuo Chuen and Linda Low. 2018. _Inclusive fintech: Blockchain, Cryptocurrency and ICO_. World Scientific.p.43
+[^lee15handbook]: Lee Kuo Chuen, David, ed. 2015_ Handbook of Digital Currency: Bitcoin, Innovation, Financial Instruments, and Big Data. Amsterdam: Academic Press is an imprint of Elsevier_. [http://literati.credoreference.com/content/title/estdigital.].p:8,11-12 
+
+
+
 ## CSS
 
 The Cascading Style Sheets, or CSS for short, is one of the core components of building a website, alongside HTML (Hypertext Markup Language) and JavaScript (JS). Together, these three technologies are often referred to as "the cornerstone of the World Wide Web."[^ebersbach01css]
@@ -561,6 +624,47 @@ Cyberspace is new representation of the physical world. It contains its own new 
 Image credits:
 - Drew Williams, *Macbook Pro*, photograph, Pexels, July 2019, https://www.pexels.com/photo/macbook-pro-2657669/.
 - fauxels, *Photo of people doing handshakes*, photograph, Pexels, November 2019, https://www.pexels.com/photo/photo-of-people-doing-handshakes-3183197/
+
+## Dataset 
+
+A Dataset is a structured collection of data, typically organized in a tabular form where each column represents a specific variable, 
+and each row corresponds to an individual record. This organization facilitates efficient data management, analysis, 
+and retrieval across various disciplines. “Even the term dataset is problematic, referring to at least four common themes—grouping, 
+content, relatedness, and purpose—each of which has multiple categories” [^borgman15bigdata]. 
+
+A dataset is an organized compilation of interconnected information sets, consisting of distinct elements that,
+despite being separate, it can be processed and managed collectively by a computer as a single entity. 
+These information sets are data “In rhetorical terms, data are that which exists prior to argument or interpretation 
+that converts them to facts, evidence and information” [^kitchin14revolution] in the Book “The Data Revolution: ...” 
+they defined data as the basic,  input used to represent aspects of the world by organizing them into categories,
+measurements and other representational forms. These forms can include numerical values, text, images, sounds, and digital signals, 
+which are the foundation for producing meaningful information and knowledge.[^kitchin14revolution]
+
+There are different types of datasets as these datasets can be categorized by the type of data they contain or by the relationship
+between the variables of data. These classifications can be categorical, correlation, bivariate, multivariate and structured. 
+These classifications are affected by the various types of data “such as relational data (structured data), text (unstructured data),
+semi-structured data (like XML or JSON), and streaming data from sources like sensors or social media.” [^russom13managing]. 
+
+Depending on the use of the dataset or its size and complexity can affect how it is managed. Datasets that are very large and complex
+are difficult to manage and analyze using traditional data processing tools. This can be defined as Big Data which are datasets
+of multiple terabytes or larger as it contains “a wide range of data types (relational, text, multi-structured data, etc.) 
+from numerous sources, including relatively new ones (Web applications, machines, sensors, and social media)”[^russom13managing].
+Datasets can vary in size from just a few bits to several terabytes and can function as standalone entities. 
+The suitable unit of measurement is determined by the specific purpose for which the dataset is being used 
+“In addition, digital datasets can be opened only with certain software, whether statistical tools, instrument-specific code,
+or software suited to applications in the domain” [^borgman15bigdata].
+
+![Dataset](images/dataset.png)
+
+Chatgbt prompt: "Can you generate me an image that visually depicts the word "dataset" without using words in the image"
+
+
+[^borgman15bigdata]: Borgman, Christine L. 2015. _Big Data, Little Data, No Data: Scholarship in the Networked World_. Cambridge, Massachusetts: The MIT Press.
+https://cornell-library.skillport.com/skillportfe/main.action?assetid=82612. 
+
+[^kitchin14revolution]: Kitchin, Rob. 2014. _The Data Revolution: Big Data, Open Data, Data Infrastructures & Their Consequences_. Los Angeles, California: SAGE Publications. 
+
+[^russom13managing]: Russom, Philip.2013. "Managing big data." _TDWI Best Practices Report_, TDWI Research. 1-40.
 
 ## Deep Learning
 
