@@ -23,8 +23,8 @@ However, after Bitcoin, some of the most popular are Ethereum (ETH), Tether (USD
 
 ![cryptocurrency](images/cryptocurrency.png)
 
-[^bolt17bitcoin]: Bolt, Wilko. 2017._ “Book Review: Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction.” _Journal of Economic Literature_55 (no. 2): 647–49.p.648
+[^bolt17bitcoin]: Bolt, Wilko. 2017. “Book Review: Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction.” _Journal of Economic Literature_ 55 (no. 2): 647–49.
 [^lee18inclusive]: Lee, David Kuo Chuen and Linda Low. 2018. _Inclusive fintech: Blockchain, Cryptocurrency and ICO_. World Scientific.p.43
-[^lee15handbook]: Lee Kuo Chuen, David, ed. 2015_ Handbook of Digital Currency: Bitcoin, Innovation, Financial Instruments, and Big Data. Amsterdam: Academic Press is an imprint of Elsevier_. [http://literati.credoreference.com/content/title/estdigital.].p:8,11-12 
+[^lee15handbook]: Lee Kuo Chuen, David, ed. 2015 _Handbook of Digital Currency: Bitcoin, Innovation, Financial Instruments, and Big Data_. Amsterdam: Academic Press is an imprint of Elsevier. [http://literati.credoreference.com/content/title/estdigital.].p:8,11-12 
 
 
