@@ -10,6 +10,18 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
+### Affordance (affordances)
+
+A possibility or set of possibilities for interaction and the effectuation of change given the current state of a system. The visible field of possibility. Some examples include the possible moves a given chess piece can perform given the rules that govern it and the game-state of the board, and the navigation buttons available on a digital interface.
+
+The term also refers to one of Don Norman's principles of design and interaction:
+
+“Affordances: The perceived and actual properties of the thing, primarily those fundamental properties that determine just how the thing could possibly be used.”[^NormanD2013]
+
+
+[^NormanD2013]: Norman, D. (2013). The Design of Everyday Things: Revised and Expanded Edition. New York, NY: Basic Books.
+
+
 ## Agency 
 
 Agency seems to have two meanings. On one hand, it refers simply to an organized body of people working for or under a larger form of institution, such as a governmental or political institution. On the other hand is a meaning deep rooted in philosophy and anthropology. Laura Ahearn in the Journal of Linguistic Anthropology explains that;
@@ -1095,6 +1107,42 @@ The hashtag has a profound impact on our society today, especially with the cont
 [^caleffi15word]: Caleffi, Paola-Maria. 2015. "The 'Hashtag': A new word or a new rule?" _SKASE journal of theoretical linguistics_ 12 (2): 46-69. Accessed January 29, 2025.
 [^rauschnabel19motivate]: Rauschnabel, Philipp A., Pavica Sheldon, and Erna Herzfeldt. 2019. "What motivates users to hashtag on social media?." _Psychology & Marketing_ 36 (5): 473-488. Accessed January 29, 2025.
 
+
+Human-Computer Interaction (HCI) as a field of study is primarily concerned with the design, evaluation, and implementation of interactive computing systems for human use. According to John M. Carroll in his influential work "Human Computer Interaction - Brief Intro" (2009), HCI focuses on "understanding how people make use of devices and systems that incorporate or embed computation, and how such devices and systems can be more useful and more usable." Carroll describes HCI as fundamentally multidisciplinary, drawing from computer science, psychology, design, and numerous other fields to understand the relationship between humans and technology.
+
+Harrison, Tatar, and Sengers take on a paradigmatic analysis (human factors, cognitive, or phenomenological), to show the evolution by which HCI as a field of study seeks to improve the relationship between humans and computational technologies through better understanding of user needs, capabilities, contexts, and experiences.
+
+Human-Computer Interaction (HCI) has a significant relationship with New Media, as both fields examine the evolving interfaces between humans and technology, but from different perspectives.
+According to Lev Manovich in "The Language of New Media" (2001), New Media studies focuses on the cultural and aesthetic dimensions of digital technologies, while HCI provides the underlying principles for how these technologies are designed for human use. Manovich argues that "the interface shapes how the user conceives of the computer itself" and "determines how users think of any media object accessed via a computer." This perspective highlights how HCI design principles directly influence the cultural experience of New Media.
+
+The relationship between these fields is symbiotic: HCI provides frameworks for creating usable interfaces, while New Media studies examines the cultural, social, and artistic implications of these interfaces. As technologies evolve, both fields continue to inform each other - HCI practitioners increasingly incorporate cultural considerations from New Media studies, while New Media theorists analyze how interface design shapes digital culture and user experience.
+This complementary relationship extends Harrison, Tatar, and Sengers' paradigmatic analysis by suggesting that the third paradigm of HCI (phenomenologically situated) particularly aligns with New Media's concern for cultural context and meaning-making in technological interactions.
+
+The following diagram illustrates the three paradigms of Human-Computer Interaction as described by Harrison, Tatar, and Sengers in their influential paper:
+
+1. **First Paradigm: Human Factors**
+    - Focuses on engineering and ergonomics
+    - Views the human as another component in the system
+    - Aims to optimize the fit between humans and machines
+    - Uses formal metrics and controlled lab studies
+2. **Second Paradigm: Classical Cognitivism/Information Processing**
+    - Treats the mind as an information processor (the mind-as-computer metaphor)
+    - Focuses on modeling and improving communication between human and computer
+    - Uses predictive models and controlled experiments
+    - Values rationality and task completion
+3. **Third Paradigm: Phenomenologically Situated**
+    - Focuses on meaning and context (social, cultural, historical)
+    - Views interaction as a situated phenomenon
+    - Uses ethnographic and participatory design methods
+    - Values embodiment, social context, and meaning-making
+  
+![Non-chronological_Concepts of the Three HCI Paradigms - Claude](https://github.com/user-attachments/assets/09ad9eaf-0c1d-46b4-93df-d63bfc8260f0)
+
+---
+- Harrison, Steve R., Deborah Tatar, and Phoebe Sengers. "The Three Paradigms of HCI." In Proceedings of CHI 2007 Workshop: Exploring Design as a Research Activity, 1-18. San Jose, California: ACM Press, 2007.
+- Carroll, John M. "Human Computer Interaction - Brief Intro." In Encyclopedia of Human-Computer Interaction, edited by Mads Soegaard and Rikke Friis Dam. Aarhus, Denmark: The Interaction Design Foundation, 2009.
+- Manovich, Lev. The Language of New Media. Cambridge, MA: MIT Press, 2001.
+
 ## HTTPS
 
 **HTTPS (Hypertext Transfer Protocol Secure)** is an extension of **HTTP (Hypertext Transfer Protocol)** that uses encryption to secure data exchanged between a user's browser and a web server. Through **SSL/TLS** protocols, it ensures data confidentiality, integrity, and authentication.
@@ -2127,6 +2175,16 @@ Streaming has transformed the landscape of the digital realm. It allows easy and
 [^fagerjord19mapping]: Fagerjord, Anders, and Lucy Kueng. 2019. "Mapping the Core Actors and Flows in Streaming Video Services: What Netflix Can Tell Us about These New Media Networks." _Journal of Media Business Studies_ 16 (3): 166–81. Accessed March 7, 2025.
 
 [^chen17customer]: Chen, Yi‐Min, Hsin‐Hsien Liu, and Yu‐Chun Chiu. 2017. "Customer benefits and value creation in streaming services marketing: a managerial cognitive capability approach." _Psychology & Marketing_ 34 (12): 1101-1108. Accessed March 7, 2025.
+
+Subversion in thought and action and technical choice in New Media, refers to the intention to undermine, challenge or question established structures, dogmas or conventions in the field and in society. Just like in any art form or knowledge production strategy, it may become necessary to employ the use of subversion as an attempt to sabotage, derail and refocus collective conversations around social justice, oppression and the erasure of marginalized voices, and to affect the material conditions conducive for action towards liberation and a new non-exploitative technological paradigm.
+Such employment of the technique, manifested as blasphemous, provocative, profane, satirical, ironic, questioning, combative or simply alternate and divergent language and style, is the defining quality of such works and articulations as Donna Harraway’s Cyborg Manifesto[^Harraway], The VNS Matrix Cyberfeminist Manifesto[^VNS], and the vast array of resources available on The Anarchist Library[^AnLi].
+
+
+[^Harraway]: Haraway, D. (1991). A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century. In Simians, Cyborgs and Women: The Reinvention of Nature (pp. 149-181). New York: Routledge.
+
+[^VNS]: VNS Matrix. n.d. The Cyberfeminist Manifesto for the 21st Century. Accessed February 19, 2025. https://vnsmatrix.net/projects/the-cyberfeminist-manifesto-for-the-21st-century.
+
+[^AnLi]: The Anahist Library. n.d. Special Archive. Accessed February 19, 2025. https://theanarchistlibrary.org/special/index.
 
 ## UNIX
 
