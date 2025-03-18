@@ -10,6 +10,38 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
+## JPEG
+
+JPEG (Joint Photographic Experts Group)[^JPEG] is a file format commonly used to compress and store images. It is reffered to as a 
+"lossy" format because it compresses and alters the pixel data of the file and is therefore not a "lossless" transfer. It was created in
+1992 by the aptly named Joint Photographic Experts Group and they are widely credited with the proliferation of digital imaging with its ease 
+of use and storing. 
+
+When pictures are taken using the JPEG compression format, the image data is stored in a RAW[^RAW] file under the .TIFF (Tag Image File Format) file format. When the image is to be stored,
+it is then compressed using JPEG and converted to a .JPEG file. When this image is displayed, it is then uncompressed and returned to the RAW format. The method that 
+JPEG takes to compression uses the DCT (Discrete Cosine Transform) method by discarding high-frequency information (such as intensehues and dense packets of data.[^IEEE] 
+By discarding this data, it then fills the gap using existing data leading to a lossy compression where high-frequency details are lost and filled in with random data, creating noise or grain. 
+
+Though the data loss through JPEG compression can be severe in some cases, it is mostly considered to be a worthwhile sacrifice for the 
+amount of space it saves. Even though more formats have since been released and popularized (such as Apple's HEIC format or the PNG format) 
+the JPEG format remains the ol' reliable of image compression. The JPEG's longevity can largely be attributed to the fact that it remains one of the
+most efficient and loss-neutral compression formats in modern day. Though some desire truly lossless compression, until this is achieved JPEG will still be used 
+by photographers, editors, illustrators and digital creators all around the world, and not many formats have any hope of replacing its reach. 
+
+The identity of the JPEG format as the gold standard for image compression in the modern age solidifies the idea of good image quality as a equal sacrifice of file size
+over quality, or noisiness. Similarly to the idea of a "critical mass" point in data storage in the future, the JPEG and other compression methods represent 
+the standards that will be adopted in order to expand and store as much data as we can possibly store in the most efficient way. Theories such as Bill Viola's "Data Space"[^DATA]
+storage methods show alternate paths we could take to not exactly avoid the possibility of a critical mass poin in data storage, but to restructure data in a way that makes 
+the wealth of data we have accessible in ways that don't necessitate more data to be stored. JPEG formats and subsequent innovations in compression represent a predictably human and 
+anti-progressive way of dealing with problems, by cramming in more where we shouldn't.
+
+[^JPEG]: Joint Photographic Experts Group. 2024. "JPEG - About JPEG". Retrieved from *Joint Photographic Experts Group: About*. 2025. https://jpeg.org/about.html.
+[^IEEE]: Wallace, G. K. 1991. “The JPEG Still Picture Compression Standard.” *IEEE Transactions on Consumer Electronics* 38 (1): xviii–xxxiv. https://ieeexplore.ieee.org/document/125072.
+[^RAW]: Bennett, Michael J. and Wheeler, F. Barry. 2010. "Raw as Archival Still Image Format: A Consideration"  *Digital Commons Published Works, 2023*.
+https://digitalcommons.lib.uconn.edu/libr_pubs/23
+[^DATA]: Viola, Bill. 1982. “Will There Be Condominiums in Data Space?” In *The New Media Reader*, edited by Noah Wardrip-Fruin and Nick Montfort, 460–66. Cambridge, MA: MIT Press, 2003.
+
+
 ## Agency 
 
 Agency seems to have two meanings. On one hand, it refers simply to an organized body of people working for or under a larger form of institution, such as a governmental or political institution. On the other hand is a meaning deep rooted in philosophy and anthropology. Laura Ahearn in the Journal of Linguistic Anthropology explains that;
@@ -390,6 +422,37 @@ CMS software typically incorporates several key features such as publishing cont
 [^BoikoBible]: Boiko, Bob. 2005. _Content Management Bible_. 2nd ed. John Wiley & Sons. 
 [^IBMCMS2024]: Finn, Teaganne, and Amanda Downie. 2024. “What is a content management system (CMS)?” _IBM_ (blog). March 7, 2024. https://www.ibm.com/think/topics/content-management-system. 
 [^McKeeverCMS]: McKeever, Susan. 2003. “Understanding Web Content Management Systems: Evolution, Lifecycle and Market.” _Industrial Management & Data Systems_ 103 (9): 686–92. https://doi.org/10.1108/02635570310506106.
+
+## Copyleft
+
+Copyleft is a method of data/information publication that is largely concerned with free use and access. You may have heard the term "copyright" before,
+which is a similar method of publication that reserves all rights of use for a publication to the original creator. The term for "copyleft" was coined by Li-Chen Wang[^WIKI]
+in his publication of his Palo Alto TINY BASIC language for the intel 8080 in the Dr Dobb's Journal (a popular computing and engineering magazine) in May of 1976, where
+for his publication, he spoofed the common "Copyright, all rights reserved" by putting "COPYLEFT ALL WRONGS RESERVED" in his publication. The term was later expanded
+upon and used by Richard Stallman in the creation of GNU[^GNU]. He believed that making copyleft the term for publications in the public domain or open source was a good way 
+to fight against the use of copyright methods in programming/software and to help programmers and creators take back what is theirs and make it useful for the world. 
+
+The concept of free use and the public domain has become more and more popular as of late with the creation and distribution of open-source programs, publications and projects, 
+such as GitHub itself. Additionally, leaving the intent of the original user present while also allowing other artists, creators and users to use and interpret services is an idea
+largely present in new media theory. When the idea of copyright as it pertained to the digital age came into question, many factors had to be considered. Many believe that
+the claiming of publications is important to maintaining and the identity of the creator (preserving intellectual property), while some believe that in order to create a world 
+in which people feel free to create what they wish, they should have access to any resource at their disposal. Stallman's GNU Manifesto thinks of copyleft within the terms of 
+open-source and proprietary software[^SCIDIR], and notes that such developers can use their copyright over the software that they create to claim copyright over publications 
+and projects made in or using that software. In the example of GNU, (an open source operating system similar to Linux), the copyleft nature of the system allows users to use software 
+to better suit their needs, rather than being confined by the restrictions of copyrighted tools
+
+In essence, copyleft represents the true freedom of the creator as a manifestation of how they use, share and expand their work. Copyright methods have been put in place in order to
+circumvent creativity by setting limitations and boundaries for those that use and peruse the publications they are made with. It is important to note that while copyleft is a
+method of publication used to combat the ideas behind copyright, it still legally must be published under a copyright notice. The rights are still reserved to the author/creator,
+but the method in which those rights can be used and distributed is then where the copyleft methodology takes place. So unfortunately, the circled backwards C that represents a copyleft
+publication is not legally viable, and even the GNU website is copyrighted under the Free Software Group.
+
+[^WIKI]: Various Authors. “Copyleft.” Wikipedia, January 14, 2025. https://en.wikipedia.org/wiki/Copyleft. 
+[^GNU]: Stallman, Richard. What Is Copyleft? - GNU Project - Free Software Foundation.” *GNU Operating System*, 1996. https://www.gnu.org/licenses/copyleft.en.html. 
+[^SCIDIR]: Benkler, Y., W.M. Cohen, N. Harabi, A.W. Branscomb, P. Dasgupta, P.B. De Laat, D.G. Johnson, and L. Lessig. “Copyright or Copyleft?: An Analysis of Property Regimes for Software 
+Development.” *Research Policy - Science Direct*, September 22, 2005. https://www.sciencedirect.com/science/article/pii/S0048733305001484. 
+
+## Copyleft
 
 ## Crowdsourcing
 
