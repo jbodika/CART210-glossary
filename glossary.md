@@ -420,8 +420,6 @@ publication is not legally viable, and even the GNU website is copyrighted under
 [^SCIDIR]: Benkler, Y., W.M. Cohen, N. Harabi, A.W. Branscomb, P. Dasgupta, P.B. De Laat, D.G. Johnson, and L. Lessig. “Copyright or Copyleft?: An Analysis of Property Regimes for Software 
 Development.” *Research Policy - Science Direct*, September 22, 2005. https://www.sciencedirect.com/science/article/pii/S0048733305001484. 
 
-## Copyleft
-
 ## Crowdsourcing
 
 Crowdsourcing can be defined by the process of collecting work, data, and opinions from a big, often anonymous group, typically through the Internet. [^hargrave24crowdsourcing] It diverges from traditional outsourcing because the task is assigned to an undefined crowd instead of a pre-selected person or group. [^lebraty13crowdsourcing] 
